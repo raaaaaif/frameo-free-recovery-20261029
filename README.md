@@ -2,7 +2,7 @@
 
 **Preservation is still in progress. Internet Archive removed the source-upload item on 29 October; its files are no longer counted as available.** Eleven original model repositories (1.798 TB) and four supplementary model repositories remain independently copied and verified in your Hugging Face account. 17/17 primary source repositories currently have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files and three ESM2 weights have separate tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. No paid services were enabled.
 
-Checked 2026-10-29T09:00:55.383311+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-29T10:03:06.429450+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
@@ -14,7 +14,7 @@ Full source verification means the complete compressed archive was read, its che
 
 # Source code
 
-17/17 primary source repositories currently have verified downloads through your GitHub forks and/or Software Heritage. GitHub copies have pinned preservation tags and disabled workflows. Their complete downloadable source archives are rehashed and matched to the original Git trees, accounting for repository-declared Windows line endings. [Public forks remain after an upstream deletion](https://docs.github.com/en/pull-requests/reference/forks); they still depend on GitHub. Internet Archive’s removed source item is excluded. Pending Software Heritage jobs are not counted as completed backups. DeepInfer also requires 14 separate dependency archives; 4/14 currently have verified recovery locations. The kit includes their exact revisions and folder map, and the downloader flags incomplete dependency sets.
+17/17 primary source repositories currently have verified downloads through your GitHub forks and/or Software Heritage. GitHub copies have pinned preservation tags and disabled workflows. Their complete downloadable source archives are rehashed and matched to the original Git trees, accounting for repository-declared Windows line endings. [Public forks remain after an upstream deletion](https://docs.github.com/en/pull-requests/reference/forks); they still depend on GitHub. Internet Archive’s removed source item is excluded. Pending Software Heritage jobs are not counted as completed backups. DeepInfer also requires 14 separate dependency archives; 14/14 currently have verified recovery locations. The kit includes their exact revisions and folder map, and the downloader flags incomplete dependency sets.
 
 | Resource | Recovery copy | Verification | Page snapshot |
 | --- | --- | --- | --- |
