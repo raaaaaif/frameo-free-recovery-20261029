@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-29T08:00:20.589893+00:00",
+  "checked_utc": "2026-10-29T09:00:55.383311+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -30189,88 +30189,168 @@
       "pins": [
         {
           "sha": "53f195997257c56c00e5ef8d33a54f5baad143a6",
-          "tree": "c64dc9a471013e609b6033beb5871cde9d92cdfd"
+          "tree": "c64dc9a471013e609b6033beb5871cde9d92cdfd",
+          "tag": "preserved-20261029-53f195997257",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-evo2-20261029/tree/53f195997257c56c00e5ef8d33a54f5baad143a6",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-evo2-20261029/tar.gz/53f195997257c56c00e5ef8d33a54f5baad143a6"
         }
       ],
       "destination": "raaaaaif/preserved-evo2-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:07.315228+00:00",
+      "created_utc": "2026-10-29T08:59:09.471571+00:00",
+      "url": "https://github.com/raaaaaif/preserved-evo2-20261029",
+      "repository_id": 1438173678,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:20.028621+00:00"
     },
     {
       "source": "BGI-HangzhouAI/Genos",
       "pins": [
         {
           "sha": "ad57c866db1d25c6932a1980dc2c87b7ba0c8c34",
-          "tree": "2f3148893d38b6263dc1cf45f2ff5230d4b1d128"
+          "tree": "2f3148893d38b6263dc1cf45f2ff5230d4b1d128",
+          "tag": "preserved-20261029-ad57c866db1d",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-Genos-20261029/tree/ad57c866db1d25c6932a1980dc2c87b7ba0c8c34",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-Genos-20261029/tar.gz/ad57c866db1d25c6932a1980dc2c87b7ba0c8c34"
         }
       ],
       "destination": "raaaaaif/preserved-Genos-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:16.345282+00:00",
+      "created_utc": "2026-10-29T08:59:18.592348+00:00",
+      "url": "https://github.com/raaaaaif/preserved-Genos-20261029",
+      "repository_id": 1438173858,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:22.586637+00:00"
     },
     {
       "source": "genbio-ai/genbio-pathfm",
       "pins": [
         {
           "sha": "1d65d002f28f6a4b481ca6cc434267b453c30b60",
-          "tree": "16d05b0eab3a805d609a82222f95190293f7cbc5"
+          "tree": "16d05b0eab3a805d609a82222f95190293f7cbc5",
+          "tag": "preserved-20261029-1d65d002f28f",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-genbio-pathfm-20261029/tree/1d65d002f28f6a4b481ca6cc434267b453c30b60",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-genbio-pathfm-20261029/tar.gz/1d65d002f28f6a4b481ca6cc434267b453c30b60"
         }
       ],
       "destination": "raaaaaif/preserved-genbio-pathfm-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:25.381014+00:00",
+      "created_utc": "2026-10-29T08:59:27.438604+00:00",
+      "url": "https://github.com/raaaaaif/preserved-genbio-pathfm-20261029",
+      "repository_id": 1438174008,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:25.454158+00:00"
     },
     {
       "source": "HannesStark/boltzgen",
       "pins": [
         {
           "sha": "a07fea1153111ef453aaea7a15697ee05de9291f",
-          "tree": "a23888bad6635a9c5f9676e58f9fa3478ca9c38f"
+          "tree": "a23888bad6635a9c5f9676e58f9fa3478ca9c38f",
+          "tag": "preserved-20261029-a07fea115311",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-boltzgen-20261029/tree/a07fea1153111ef453aaea7a15697ee05de9291f",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-boltzgen-20261029/tar.gz/a07fea1153111ef453aaea7a15697ee05de9291f"
         }
       ],
       "destination": "raaaaaif/preserved-boltzgen-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:34.139219+00:00",
+      "created_utc": "2026-10-29T08:59:36.115438+00:00",
+      "url": "https://github.com/raaaaaif/preserved-boltzgen-20261029",
+      "repository_id": 1438174161,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:28.029221+00:00"
     },
     {
       "source": "westlake-repl/Denovo-Pinal",
       "pins": [
         {
           "sha": "0a40691916fcb720bfcf9adcad7301a1c471fc75",
-          "tree": "f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c"
+          "tree": "f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c",
+          "tag": "preserved-20261029-0a40691916fc",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-Denovo-Pinal-20261029/tree/0a40691916fcb720bfcf9adcad7301a1c471fc75",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-Denovo-Pinal-20261029/tar.gz/0a40691916fcb720bfcf9adcad7301a1c471fc75"
         }
       ],
       "destination": "raaaaaif/preserved-Denovo-Pinal-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:42.849910+00:00",
+      "created_utc": "2026-10-29T08:59:44.921038+00:00",
+      "url": "https://github.com/raaaaaif/preserved-Denovo-Pinal-20261029",
+      "repository_id": 1438174295,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:30.593326+00:00"
     },
     {
       "source": "MedARC-AI/OpenMidnight",
       "pins": [
         {
           "sha": "3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e",
-          "tree": "bed322a07b5bde18b6531f4c2f4fa38d606385b6"
+          "tree": "bed322a07b5bde18b6531f4c2f4fa38d606385b6",
+          "tag": "preserved-20261029-3cbf163cfd04",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-OpenMidnight-20261029/tree/3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-OpenMidnight-20261029/tar.gz/3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e"
         }
       ],
       "destination": "raaaaaif/preserved-OpenMidnight-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T08:59:51.671693+00:00",
+      "created_utc": "2026-10-29T08:59:53.756219+00:00",
+      "url": "https://github.com/raaaaaif/preserved-OpenMidnight-20261029",
+      "repository_id": 1438174420,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:33.129912+00:00"
     },
     {
       "source": "deepseek-ai/DeepEP",
       "pins": [
         {
           "sha": "f6aa38fe06cd4a0489e7730365d4e0114970a2f3",
-          "tree": "6758d2ece9ea4a90bd9f477529b2a104cb2c90d4"
+          "tree": "6758d2ece9ea4a90bd9f477529b2a104cb2c90d4",
+          "tag": "preserved-20261029-f6aa38fe06cd",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-DeepEP-20261029/tree/f6aa38fe06cd4a0489e7730365d4e0114970a2f3",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-DeepEP-20261029/tar.gz/f6aa38fe06cd4a0489e7730365d4e0114970a2f3"
         }
       ],
       "destination": "raaaaaif/preserved-DeepEP-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T09:00:00.380651+00:00",
+      "created_utc": "2026-10-29T09:00:02.401813+00:00",
+      "url": "https://github.com/raaaaaif/preserved-DeepEP-20261029",
+      "repository_id": 1438174572,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:35.791121+00:00"
     },
     {
       "source": "deepseek-ai/DeepEP-Ascend",
       "pins": [
         {
           "sha": "3b25377d04b24fc6154698ded78a2bcb2c59afff",
-          "tree": "a8a2fcf5573b6b2122cc68a8ecd8b33dc8b5a83e"
+          "tree": "a8a2fcf5573b6b2122cc68a8ecd8b33dc8b5a83e",
+          "tag": "preserved-20261029-3b25377d04b2",
+          "status": "commit_tree_and_pinned_ref_verified",
+          "url": "https://github.com/raaaaaif/preserved-DeepEP-Ascend-20261029/tree/3b25377d04b24fc6154698ded78a2bcb2c59afff",
+          "archive_url": "https://codeload.github.com/raaaaaif/preserved-DeepEP-Ascend-20261029/tar.gz/3b25377d04b24fc6154698ded78a2bcb2c59afff"
         }
       ],
       "destination": "raaaaaif/preserved-DeepEP-Ascend-20261029",
-      "status": "planned"
+      "status": "pins_verified",
+      "creation_requested_utc": "2026-10-29T09:00:09.185986+00:00",
+      "created_utc": "2026-10-29T09:00:11.121365+00:00",
+      "url": "https://github.com/raaaaaif/preserved-DeepEP-Ascend-20261029",
+      "repository_id": 1438174703,
+      "actions_disabled": true,
+      "checked_utc": "2026-10-29T09:00:38.332327+00:00"
     },
     {
       "source": "deepseek-ai/DeepGEMM",
@@ -30939,6 +31019,180 @@
       "original_repo": "groundingpi/GroundAnything",
       "revision": "e054ab329cfe3f1b88ca8cf279bcab3e2f12934e",
       "checked_utc": "2026-10-29T07:58:44.960304+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-evo2-20261029",
+      "expected_tree": "c64dc9a471013e609b6033beb5871cde9d92cdfd",
+      "url": "https://codeload.github.com/raaaaaif/preserved-evo2-20261029/tar.gz/53f195997257c56c00e5ef8d33a54f5baad143a6",
+      "status": "verified",
+      "actual_tree": "c64dc9a471013e609b6033beb5871cde9d92cdfd",
+      "files": 68,
+      "expanded_bytes": 46354937,
+      "compressed_bytes": 31402301,
+      "bundle_sha256": "e7205b5be890ef225b56d24b1d2c9c4830d4769c3b835038551d1cb86eb40e9a",
+      "gzip_crc_checked": true,
+      "bundle_md5": "d6c607f82077d5fadafb79a3c590ea7b",
+      "bundle_sha1": "6f629ce3e4e76dd71502f0a6dc42d6e5859270a2",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "ArcInstitute/evo2",
+      "revision": "53f195997257c56c00e5ef8d33a54f5baad143a6",
+      "checked_utc": "2026-10-29T09:00:40.866198+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-Genos-20261029",
+      "expected_tree": "2f3148893d38b6263dc1cf45f2ff5230d4b1d128",
+      "url": "https://codeload.github.com/raaaaaif/preserved-Genos-20261029/tar.gz/ad57c866db1d25c6932a1980dc2c87b7ba0c8c34",
+      "status": "verified",
+      "actual_tree": "2f3148893d38b6263dc1cf45f2ff5230d4b1d128",
+      "files": 199,
+      "expanded_bytes": 137714091,
+      "compressed_bytes": 109138369,
+      "bundle_sha256": "1caff1312138c593611f682bca04f24624d9ca974a77d2f83efef1c1740d9935",
+      "gzip_crc_checked": true,
+      "bundle_md5": "a58456518b75c36c17e9990b56660a9f",
+      "bundle_sha1": "74be8e6d169057c9647b10648739fac2bf3e31aa",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "BGI-HangzhouAI/Genos",
+      "revision": "ad57c866db1d25c6932a1980dc2c87b7ba0c8c34",
+      "checked_utc": "2026-10-29T09:00:50.672447+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-genbio-pathfm-20261029",
+      "expected_tree": "16d05b0eab3a805d609a82222f95190293f7cbc5",
+      "url": "https://codeload.github.com/raaaaaif/preserved-genbio-pathfm-20261029/tar.gz/1d65d002f28f6a4b481ca6cc434267b453c30b60",
+      "status": "verified",
+      "actual_tree": "16d05b0eab3a805d609a82222f95190293f7cbc5",
+      "files": 7,
+      "expanded_bytes": 1806159,
+      "compressed_bytes": 1409624,
+      "bundle_sha256": "c6158978fccd6d03a04d7b3c39f789f235c9f99e0b1b4cf902a19adeba432506",
+      "gzip_crc_checked": true,
+      "bundle_md5": "1e7246506ff5210b1ebeef28992f2260",
+      "bundle_sha1": "d3465a96fdc81ead1189a2637b6024ceb795bc3c",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "genbio-ai/genbio-pathfm",
+      "revision": "1d65d002f28f6a4b481ca6cc434267b453c30b60",
+      "checked_utc": "2026-10-29T09:00:51.220027+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-boltzgen-20261029",
+      "expected_tree": "a23888bad6635a9c5f9676e58f9fa3478ca9c38f",
+      "url": "https://codeload.github.com/raaaaaif/preserved-boltzgen-20261029/tar.gz/a07fea1153111ef453aaea7a15697ee05de9291f",
+      "status": "verified",
+      "actual_tree": "a23888bad6635a9c5f9676e58f9fa3478ca9c38f",
+      "files": 334,
+      "expanded_bytes": 50665636,
+      "compressed_bytes": 14695615,
+      "bundle_sha256": "99d677b02e5f93ac619cdfb101158e7484031c45d9356b519aac591d120341fc",
+      "gzip_crc_checked": true,
+      "bundle_md5": "77bcb05083530d54f43bcfa66a85379b",
+      "bundle_sha1": "db42ea470ae1f3a09c4f488789ea13b43ef95f35",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "HannesStark/boltzgen",
+      "revision": "a07fea1153111ef453aaea7a15697ee05de9291f",
+      "checked_utc": "2026-10-29T09:00:53.674128+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-Denovo-Pinal-20261029",
+      "expected_tree": "f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c",
+      "url": "https://codeload.github.com/raaaaaif/preserved-Denovo-Pinal-20261029/tar.gz/0a40691916fcb720bfcf9adcad7301a1c471fc75",
+      "status": "verified",
+      "actual_tree": "f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c",
+      "files": 59,
+      "expanded_bytes": 4610603,
+      "compressed_bytes": 1947035,
+      "bundle_sha256": "d852784037b243c0b36226afd9c79fedb99c49305a0cdda44d32150f19323440",
+      "gzip_crc_checked": true,
+      "bundle_md5": "d6d8674adf1cbcc86befaebf03181470",
+      "bundle_sha1": "ab17df32a6448b31a635908f1f73e130af4ef486",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "westlake-repl/Denovo-Pinal",
+      "revision": "0a40691916fcb720bfcf9adcad7301a1c471fc75",
+      "checked_utc": "2026-10-29T09:00:54.188852+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-OpenMidnight-20261029",
+      "expected_tree": "bed322a07b5bde18b6531f4c2f4fa38d606385b6",
+      "url": "https://codeload.github.com/raaaaaif/preserved-OpenMidnight-20261029/tar.gz/3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e",
+      "status": "verified",
+      "actual_tree": "bed322a07b5bde18b6531f4c2f4fa38d606385b6",
+      "files": 194,
+      "expanded_bytes": 1193959,
+      "compressed_bytes": 256793,
+      "bundle_sha256": "ff857cbc6f5a95e5d9e9eeb74dfc65ce03682bb9c7e285a524d7ebe300a1362f",
+      "gzip_crc_checked": true,
+      "bundle_md5": "cf4e91d234f3b2ce3f386d6bbde6a8df",
+      "bundle_sha1": "b5d17a99cf7debd594450dbad6932b55cdda0d3b",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "original_repo": "MedARC-AI/OpenMidnight",
+      "revision": "3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e",
+      "checked_utc": "2026-10-29T09:00:54.527289+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-DeepEP-20261029",
+      "expected_tree": "6758d2ece9ea4a90bd9f477529b2a104cb2c90d4",
+      "url": "https://codeload.github.com/raaaaaif/preserved-DeepEP-20261029/tar.gz/f6aa38fe06cd4a0489e7730365d4e0114970a2f3",
+      "status": "verified",
+      "actual_tree": "6758d2ece9ea4a90bd9f477529b2a104cb2c90d4",
+      "files": 126,
+      "expanded_bytes": 2106029,
+      "compressed_bytes": 1332939,
+      "bundle_sha256": "338efd3f5483fe5b6d1d33a48cf3c8ea11e2f6710ad03c27f439cf47a714378a",
+      "gzip_crc_checked": true,
+      "bundle_md5": "a9ba0e6435a632afcd3633bf95849b1a",
+      "bundle_sha1": "911c414d313b9aad86d926c52a037093c31c5c2c",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [
+        {
+          "path": "third-party/deep_jit",
+          "sha": "cba802df081985141eeee36803685775c183a047"
+        }
+      ],
+      "original_repo": "deepseek-ai/DeepEP",
+      "revision": "f6aa38fe06cd4a0489e7730365d4e0114970a2f3",
+      "checked_utc": "2026-10-29T09:00:55.021609+00:00"
+    },
+    {
+      "repo": "raaaaaif/preserved-DeepEP-Ascend-20261029",
+      "expected_tree": "a8a2fcf5573b6b2122cc68a8ecd8b33dc8b5a83e",
+      "url": "https://codeload.github.com/raaaaaif/preserved-DeepEP-Ascend-20261029/tar.gz/3b25377d04b24fc6154698ded78a2bcb2c59afff",
+      "status": "verified",
+      "actual_tree": "a8a2fcf5573b6b2122cc68a8ecd8b33dc8b5a83e",
+      "files": 86,
+      "expanded_bytes": 536302,
+      "compressed_bytes": 117977,
+      "bundle_sha256": "1da1762c3096b2702ed86616186f33ae29969b4254fb0adc7f1e44d395bc60db",
+      "gzip_crc_checked": true,
+      "bundle_md5": "3bf3662af469c694b6da550b1c5d4e24",
+      "bundle_sha1": "19951c0edac9bc0d1ab4a2d0a540c21e27415796",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [
+        {
+          "path": "third-party/clangd-ascend",
+          "sha": "f407eca30e07e647ce2e556f9b08e145b65362c7"
+        },
+        {
+          "path": "third-party/deep_jit",
+          "sha": "65f513952b8771408a19202f65e36398522db6db"
+        }
+      ],
+      "original_repo": "deepseek-ai/DeepEP-Ascend",
+      "revision": "3b25377d04b24fc6154698ded78a2bcb2c59afff",
+      "checked_utc": "2026-10-29T09:00:55.307009+00:00"
     }
   ],
   "internet_archive_item_availability": {
