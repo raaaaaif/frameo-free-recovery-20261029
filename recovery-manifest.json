@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-29T07:58:45.025130+00:00",
+  "checked_utc": "2026-10-29T08:00:20.589893+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -61552,8 +61552,9 @@
   },
   "github_service_cooldown": {
     "scope": "fork_creation",
-    "observed_utc": "2026-10-29T06:57:06.242192+00:00",
-    "reason": "Two fork-creation attempts returned403 was submitted too quickly, including one after five-minute backoff. Pause further fork creation for one hour; do not create alternative repositories to bypass it. Existing-copy pinning and read-only verification are independent operations, but stop if they also receive a limit response.",
-    "do_not_retry_before": "2026-10-29T07:57:06.242192+00:00"
-  }
+    "observed_utc": "2026-10-29T07:59:05.878612+00:00",
+    "reason": "Local conservative pacing: at most eight new source forks in one hour",
+    "do_not_retry_before": "2026-10-29T08:59:05.878645+00:00"
+  },
+  "recovery_index_url": "https://github.com/raaaaaif/frameo-free-recovery-20261029"
 }
