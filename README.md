@@ -1,8 +1,8 @@
 # Free recovery index for Frameo resources
 
-**Preservation is still in progress. Internet Archive removed the source-upload item on 29 October; its files are no longer counted as available.** Eleven original model repositories (1.798 TB) and four supplementary model repositories remain independently copied and verified in your Hugging Face account. 17/17 primary source repositories currently have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 1/7 supporting code repositories have verified forks. OpenFold’s 13 files and three ESM2 weights have separate tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. No paid services were enabled.
+**Preservation is still in progress. Internet Archive removed the source-upload item on 29 October; its files are no longer counted as available.** Eleven original model repositories (1.798 TB) and four supplementary model repositories remain independently copied and verified in your Hugging Face account. 17/17 primary source repositories currently have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files and three ESM2 weights have separate tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. No paid services were enabled.
 
-Checked 2026-10-29T08:00:20.589893+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-29T09:00:55.383311+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
@@ -14,7 +14,7 @@ Full source verification means the complete compressed archive was read, its che
 
 # Source code
 
-17/17 primary source repositories currently have verified downloads through your GitHub forks and/or Software Heritage. GitHub copies have pinned preservation tags and disabled workflows. Their complete downloadable source archives are rehashed and matched to the original Git trees, accounting for repository-declared Windows line endings. [Public forks remain after an upstream deletion](https://docs.github.com/en/pull-requests/reference/forks); they still depend on GitHub. Internet Archive’s removed source item is excluded. Pending Software Heritage jobs are not counted as completed backups. DeepInfer also requires 14 separate dependency archives; 2/14 currently have verified recovery locations. The kit includes their exact revisions and folder map, and the downloader flags incomplete dependency sets.
+17/17 primary source repositories currently have verified downloads through your GitHub forks and/or Software Heritage. GitHub copies have pinned preservation tags and disabled workflows. Their complete downloadable source archives are rehashed and matched to the original Git trees, accounting for repository-declared Windows line endings. [Public forks remain after an upstream deletion](https://docs.github.com/en/pull-requests/reference/forks); they still depend on GitHub. Internet Archive’s removed source item is excluded. Pending Software Heritage jobs are not counted as completed backups. DeepInfer also requires 14 separate dependency archives; 4/14 currently have verified recovery locations. The kit includes their exact revisions and folder map, and the downloader flags incomplete dependency sets.
 
 | Resource | Recovery copy | Verification | Page snapshot |
 | --- | --- | --- | --- |
@@ -36,12 +36,12 @@ Full source verification means the complete compressed archive was read, its che
 | ESM 2 and ESMFold | [Source files](https://github.com/raaaaaif/preserved-esm-20261029/tree/2b369911bb5b4b0dda914521b9475cad1656b2ac) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | [Page](https://web.archive.org/web/20261008051316/https://github.com/facebookresearch/ESM) |
 | OpenFold | [Source files](https://github.com/raaaaaif/preserved-openfold-20261029/tree/be2ec1841f16c966c65ae0e7599ebbadc725757d) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | [Page](https://web.archive.org/web/20260730081043/https://github.com/aqlaboratory/openfold) |
 | groundingpi/GroundAnything (supporting code) | [Source files](https://github.com/raaaaaif/preserved-GroundAnything-20261029/tree/e054ab329cfe3f1b88ca8cf279bcab3e2f12934e) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
-| ArcInstitute/evo2 (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
-| BGI-HangzhouAI/Genos (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
-| genbio-ai/genbio-pathfm (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
-| HannesStark/boltzgen (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
-| westlake-repl/Denovo-Pinal (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
-| MedARC-AI/OpenMidnight (supporting code) | Independent recovery pending | Previously hash-verified IA upload is now unavailable; independent recovery pending | — |
+| ArcInstitute/evo2 (supporting code) | [Source files](https://github.com/raaaaaif/preserved-evo2-20261029/tree/53f195997257c56c00e5ef8d33a54f5baad143a6) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
+| BGI-HangzhouAI/Genos (supporting code) | [Source files](https://github.com/raaaaaif/preserved-Genos-20261029/tree/ad57c866db1d25c6932a1980dc2c87b7ba0c8c34) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
+| genbio-ai/genbio-pathfm (supporting code) | [Source files](https://github.com/raaaaaif/preserved-genbio-pathfm-20261029/tree/1d65d002f28f6a4b481ca6cc434267b453c30b60) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
+| HannesStark/boltzgen (supporting code) | [Source files](https://github.com/raaaaaif/preserved-boltzgen-20261029/tree/a07fea1153111ef453aaea7a15697ee05de9291f) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
+| westlake-repl/Denovo-Pinal (supporting code) | [Source files](https://github.com/raaaaaif/preserved-Denovo-Pinal-20261029/tree/0a40691916fcb720bfcf9adcad7301a1c471fc75) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
+| MedARC-AI/OpenMidnight (supporting code) | [Source files](https://github.com/raaaaaif/preserved-OpenMidnight-20261029/tree/3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e) | Your pinned GitHub fork: complete archive, checksum and Git tree verified | — |
 
 # Models and arXiv dataset
 
