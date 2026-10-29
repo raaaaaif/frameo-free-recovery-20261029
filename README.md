@@ -2,7 +2,7 @@
 
 **Preservation is still in progress. Internet Archive removed the source-upload item on 29 October; its files are no longer counted as available.** Eleven original model repositories (1.798 TB) and four supplementary model repositories remain independently copied and verified in your Hugging Face account. 17/17 primary source repositories currently have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files and three ESM2 weights have separate tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. No paid services were enabled.
 
-Checked 2026-10-29T10:03:06.429450+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-29T10:03:18.760774+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
