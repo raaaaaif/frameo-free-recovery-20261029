@@ -2,11 +2,11 @@
 
 **Model copies are verified; the final Wayback captures are pending.** 11 original model repositories (1.798 TB) and 15 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
 
-Checked 2026-10-30T05:34:09.450390+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-30T06:05:00.868570+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
-Start with the [current recovery index and kit](https://github.com/raaaaaif/frameo-free-recovery-20261029). The running backup job updates that GitHub page after each successful batch. This Page and its attached files are a dated snapshot. Open the recovery links below to browse or download saved files. The small recovery kit at the end contains a QUICKSTART guide, file lists, checksums and an optional downloader; it does not contain the large payloads. When you have an external drive, extract the kit there and follow its guide. The downloader lists plans by default and requires an explicit destination before downloading. GenBio is private: sign into your hellnahbru Hugging Face account. New source copies appear in [your GitHub repositories](https://github.com/raaaaaif?tab=repositories). Software Heritage bundles can be regenerated from the directory IDs recorded in the manifest if a cached export expires.
+Start with the [online recovery index and kit](https://github.com/raaaaaif/frameo-free-recovery-20261029). This index and its attached files record the verified copies as of the check time shown above. Saved copies remain accessible when this computer is off. Open the recovery links below to browse or download saved files. The small recovery kit at the end contains a QUICKSTART guide, file lists, checksums and an optional downloader; it does not contain the large payloads. When you have an external drive, extract the kit there and follow its guide. The downloader lists plans by default and requires an explicit destination before downloading. GenBio is private: sign into your hellnahbru Hugging Face account. New source copies appear in [your GitHub repositories](https://github.com/raaaaaif?tab=repositories). Software Heritage bundles can be regenerated from the directory IDs recorded in the manifest if a cached export expires.
 
 11 original model repositories have new copies under your account. The 16.1 TB arXiv mirror is an existing copy under another account. All model download checks use only tiny samples for large files; they do not constitute a full multi-terabyte rehash.
 
@@ -91,7 +91,7 @@ An independent [May 2020 PMC snapshot](https://archive.org/details/academictorre
 
 # Archive requests and verification
 
-All 31 landing pages have snapshot links, but page snapshots do not preserve linked files. The Internet Archive source-upload item was removed without a specific reason shown in the account. No further uploads to that item will be attempted. Six failed source ZIP captures are excluded. The separate model captures below passed retrieval checks. All 13 OpenFold copies also passed archive-only reads after their original signed CDN links expired.
+All 31 landing pages have snapshot links, but page snapshots do not preserve linked files. The Internet Archive source-upload item was removed without a specific reason shown in the account. No further uploads to that item will be attempted. Six failed source ZIP captures are excluded. The separate model captures below passed retrieval checks. All 13 OpenFold copies also passed archive-only reads after their original signed CDN links expired. The three tiny original ESM contact-regression files also have [pinned GitHub copies](https://github.com/raaaaaif/preserved-esm-20261029/tree/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression); all bytes were compared with their originals and their full SHA256 hashes were verified.
 
 | Archived file | Direct recovery link | Verification |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ The manifest contains original URLs, pinned revisions, every file hash/size, new
 
 | Recovery file | Purpose |
 | --- | --- |
-| [Recovery kit — instructions, file lists and downloader](recovery-kit.zip) | All five small files together, with QUICKSTART instructions and the DeepInfer dependency folder map |
+| [Recovery kit — instructions, file lists and downloader](recovery-kit.zip) | Instructions, file lists, downloader and PMC torrent metadata, with the DeepInfer dependency folder map |
 | [Recovery manifest — current copies and exact hashes](recovery-manifest.json) | Pinned locations, required dependency archives and exact file hashes |
 | [Verification evidence including expired-link checks](recovery-verification.json) | Full checks, bounded checks and remaining gaps |
 | [Optional restore helper for an external drive](restore-backups.py) | Lists plans first; detects incomplete dependency sets before downloading |
