@@ -1,8 +1,8 @@
 # Free recovery index for Frameo resources
 
-**Preservation is still in progress.** 11 original model repositories (1.798 TB) and 15 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
+**Model copies are verified; the final Wayback captures are pending.** 11 original model repositories (1.798 TB) and 15 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
 
-Checked 2026-10-30T05:30:49.387034+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-30T05:33:35.461853+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
@@ -45,7 +45,7 @@ Full source verification means the complete compressed archive was read, its che
 
 # Models and arXiv dataset
 
-Every created model copy is checked against the exact original file list and pinned revision. Files up to 1 MB are fully read and hashed; larger files are probed at the beginning, middle and end without storing weights locally. All advertised hashes and sizes must match. These checks do not prove every byte of a large file has been independently read. For 15 copied repositories, every recorded large-file sample was also compared against the same bytes from its pinned original; all compared samples matched. The verification report records these checks separately.
+Every created model copy is checked against the exact original file list and pinned revision. Files up to 1 MB are fully read and hashed; larger files are probed at the beginning, middle and end without storing weights locally. All advertised hashes and sizes must match. These checks do not prove every byte of a large file has been independently read. For 26 copied repositories, every recorded large-file sample was also compared against the same bytes from its pinned original; all compared samples matched. The verification report records these checks separately.
 
 | Resource | Recovery copy | Verification |
 | --- | --- | --- |
