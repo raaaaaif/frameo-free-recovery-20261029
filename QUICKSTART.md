@@ -28,7 +28,7 @@ Downloads go directly to the chosen folder. Model and dataset files resume where
 
 `recovery-manifest.json` records pinned revisions, file lists, checksums, current recovery locations and unavailable destinations. `recovery-verification.json` records which files were fully read and which large files received bounded checks. Historical PMC snapshots, alternative OpenMidnight models, and exact originals are labeled separately.
 
-The Internet Archive source-upload item was removed and is excluded from current recovery plans. Public GitHub forks and Software Heritage bundles provide source recovery where verified. The saved remote copies remain usable without this computer being on; finishing any still-pending copy jobs requires the computer and its internet connection.
+The Internet Archive source-upload item was removed and is excluded from current recovery plans. Public GitHub forks and Software Heritage bundles provide source recovery where verified. The saved remote copies remain accessible when this computer is off. Optional Software Heritage export jobs run on that service; their status is recorded in the manifest, and queued exports are not counted as verified downloads.
 
 ## Historical PMC torrent
 
