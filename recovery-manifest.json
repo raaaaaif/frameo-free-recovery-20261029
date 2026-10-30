@@ -60830,7 +60830,158 @@
           "verified_against_archive_catalog": true
         }
       ]
-    }
+    },
+    "verified_partial_deposits": [
+      {
+        "name": "PMC6264737.1 only \u2014 complete single article",
+        "url": "https://archive.org/details/pmc6264737-complete-oa-snapshot-20261030",
+        "scope": "one_article_only",
+        "status": "verified_full_independent_readback",
+        "archive_url": "https://archive.org/download/pmc6264737-complete-oa-snapshot-20261030/PMC6264737.1-complete.tar.gz",
+        "bytes": 774080,
+        "sha256": "326ddb183c824efcaef09fa9f9b901a70e6206ae9cc9e41994eeeb23fe420da0"
+      },
+      {
+        "name": "PMC inventory 2026-10-29 \u2014 metadata only",
+        "url": "https://archive.org/details/pmc-article-inventory-20261029",
+        "scope": "inventory_only_not_article_content",
+        "status": "verified_full_independent_readback",
+        "files": {
+          "manifest.json": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/2026-10-29T01-00Z/manifest.json",
+            "size": 2374,
+            "md5": "852607c14619c8f65eeb5feffb505297",
+            "sha256": "3db8c6cb6af48f5ba32f1260f6cd2d9e76d90ebf87ad45e40d08d9ec39e0c764",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:12.252968+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/manifest.json",
+            "verified_utc": "2026-10-30T06:53:15.796699+00:00"
+          },
+          "60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+            "size": 18865129,
+            "md5": "81bdb52a8a55f6718038c379e933fd94",
+            "sha256": "741e1d382891397c8ceeb23a057a0ddaaf7e3a7b687946430076f434c8595ce1",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:24.159931+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+            "verified_utc": "2026-10-30T06:53:18.990142+00:00"
+          },
+          "e016446d-3935-406d-82f1-2314493adf98.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+            "size": 22285179,
+            "md5": "3ab9d4d0d270425a048ed29b5a92ee98",
+            "sha256": "a254a80eb1fd7e592965be65ab6b3cdff15b163fbd26193864c685e04fb1f86d",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:31.303286+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+            "verified_utc": "2026-10-30T06:53:23.983084+00:00"
+          },
+          "615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+            "size": 24469406,
+            "md5": "d90e6b20f225a055be230534e787f0d0",
+            "sha256": "b1886e17e5b828521b2a7fc7de96e2d32049fd9e56dc4bc8df0f830783496bad",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:38.968447+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+            "verified_utc": "2026-10-30T06:53:28.626480+00:00"
+          },
+          "34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+            "size": 22432091,
+            "md5": "bcc223b43ae60d21c212c234afaebdc8",
+            "sha256": "86c07ab08994a10741aa35d47a284305db5925690f13a518b847e7c8b4b10699",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:46.609052+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+            "verified_utc": "2026-10-30T06:53:32.175946+00:00"
+          },
+          "801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+            "size": 25106377,
+            "md5": "bfcee7085a1a49e29156a7f578679d5a",
+            "sha256": "a76f437599c8a52aeb9598a023eea00c6848b8bf199318e76d0e1bbdfa225842",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:49:55.456435+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+            "verified_utc": "2026-10-30T06:53:35.905505+00:00"
+          },
+          "983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+            "size": 20270690,
+            "md5": "2ca6cf8862801be124dd2a05dcaaa36c",
+            "sha256": "3f318082c1204cec4631e5be2ae98fb36aef38b4766bab99932fcb851dbaa9cf",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:50:03.147870+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+            "verified_utc": "2026-10-30T06:53:39.032437+00:00"
+          },
+          "b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+            "size": 27912703,
+            "md5": "f66aa39e5626efbf9814fed5cc14bafd",
+            "sha256": "345dea7c37a1946c8e178f1d76951b4e88a2c0f9ca544f31aaa46c671eab927d",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:50:20.250301+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+            "verified_utc": "2026-10-30T06:53:43.089491+00:00"
+          },
+          "d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+            "size": 23589600,
+            "md5": "f30449b6e1845c6d1582879bf3a10d37",
+            "sha256": "27fb2b776e4f6ce0096d2f99b9728d497f3e5304a87e60a60f7f3a986a9ca76d",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:50:32.128728+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+            "verified_utc": "2026-10-30T06:53:47.024034+00:00"
+          },
+          "23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+            "size": 24443852,
+            "md5": "5fe296362b7a16f297859af68761d7e6",
+            "sha256": "e21050dab51f4d17339e97d8478273503a23dea952c431d1b022ee1ac7c7f666",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:50:57.061746+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+            "verified_utc": "2026-10-30T06:53:50.709300+00:00"
+          },
+          "7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+            "size": 20606431,
+            "md5": "576cb5b2b9906260c397e2f5cce7364c",
+            "sha256": "09520761db32dbfff70f978753ad9f3d063cb187db04ef31b6cea326209e9ce0",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:51:07.930788+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+            "verified_utc": "2026-10-30T06:53:55.599797+00:00"
+          },
+          "60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz": {
+            "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+            "size": 25230250,
+            "md5": "8d6977242171ba9da79a8a36c53b7833",
+            "sha256": "e6dd05d2979abdf87f56ea63868da17442efd61fe58f18e1d9dff18d24e13910",
+            "status": "verified",
+            "http_status": 200,
+            "uploaded_utc": "2026-10-30T06:51:15.949429+00:00",
+            "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+            "verified_utc": "2026-10-30T06:54:00.499033+00:00"
+          }
+        }
+      }
+    ]
   },
   "service_cooldown": {
     "service": "Hugging Face repository creation",
@@ -63906,5 +64057,13 @@
       "github_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression/esm2_t30_150M_UR50D-contact-regression.pt",
       "wayback_url": "https://web.archive.org/web/20261030061829id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt"
     }
-  ]
+  ],
+  "additional_preservation_research": {
+    "checked_utc": "2026-10-30T07:30:25.872237+00:00",
+    "status": "incomplete_two_original_resource_gaps",
+    "report": "remaining-backup-research.md",
+    "evidence": "remaining-backup-evidence.json",
+    "inventory_only_item": "pmc-article-inventory-20261029",
+    "one_article_only_item": "pmc6264737-complete-oa-snapshot-20261030"
+  }
 }
