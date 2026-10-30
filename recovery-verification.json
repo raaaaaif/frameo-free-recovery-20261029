@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T06:05:00.868570+00:00",
+  "checked_utc": "2026-10-30T06:18:53.467648+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -45215,6 +45215,30 @@
       "archived_source_etag": "\"efcbd7a809e4a0a850f5ef673eafad561022d8ae3e3e03c9ab656a563a17a230\"",
       "status": "size_etag_and_bounded_retrieval_verified",
       "expected_sha256": "9511993ad138a66f3c51412d65351c5162e16bc4abd51d76f8016b6e0c392362"
+    },
+    {
+      "name": "esm2_t12_35M_UR50D-contact-regression",
+      "source_url": "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t12_35M_UR50D-contact-regression.pt",
+      "checked_utc": "2026-10-30T06:18:48.238645+00:00",
+      "archive_url": "https://web.archive.org/web/20261030061805id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t12_35M_UR50D-contact-regression.pt",
+      "size": 1959,
+      "source_etag": "\"65666c891dcd90a9dc1b081042b7451b\"",
+      "samples": [],
+      "status": "full_sha256_verified",
+      "sha256": "16641e05d830d0ce863dd152dbb8c2f3ddfa3c3ec2a66080152c8abad01d8585",
+      "memento_datetime": "Fri, 30 Oct 2026 06:18:05 GMT"
+    },
+    {
+      "name": "esm2_t30_150M_UR50D-contact-regression",
+      "source_url": "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt",
+      "checked_utc": "2026-10-30T06:18:52.861592+00:00",
+      "archive_url": "https://web.archive.org/web/20261030061829id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt",
+      "size": 3431,
+      "source_etag": "\"539e6b14ee5fdb80db9501df9878649f\"",
+      "samples": [],
+      "status": "full_sha256_verified",
+      "sha256": "6a604b96722ed052eef8a094ad90b275ba2e987d406315dbed0bdc6b3c4238a7",
+      "memento_datetime": "Fri, 30 Oct 2026 06:18:29 GMT"
     }
   ],
   "source_checkout_line_endings": {
@@ -48077,5 +48101,31 @@
     "tag": "preserved-regression-20261030",
     "url": "https://github.com/raaaaaif/preserved-esm-20261029/tree/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression",
     "checked_utc": "2026-10-30T06:04:40.417538+00:00"
-  }
+  },
+  "esm_auxiliary_cross_provider_checks": [
+    {
+      "name": "esm2_t6_8M_UR50D-contact-regression.pt",
+      "status": "full_sha256_match_across_github_and_wayback",
+      "size": 1511,
+      "sha256": "8f7a4557d57713b97ba0e484303007efb7230d25299c0ac47a0a1b12a87bbb9d",
+      "github_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/05cd4b1fc0bfd8b6aed2e9e717b6e2a6729c9af1/preserved-regression/esm2_t6_8M_UR50D-contact-regression.pt",
+      "wayback_url": "https://web.archive.org/web/20261029060741id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t6_8M_UR50D-contact-regression.pt"
+    },
+    {
+      "name": "esm2_t12_35M_UR50D-contact-regression.pt",
+      "status": "full_sha256_match_across_github_and_wayback",
+      "size": 1959,
+      "sha256": "16641e05d830d0ce863dd152dbb8c2f3ddfa3c3ec2a66080152c8abad01d8585",
+      "github_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/26cc847371e0c85615f5f82f1cb6632837b0fa52/preserved-regression/esm2_t12_35M_UR50D-contact-regression.pt",
+      "wayback_url": "https://web.archive.org/web/20261030061805id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t12_35M_UR50D-contact-regression.pt"
+    },
+    {
+      "name": "esm2_t30_150M_UR50D-contact-regression.pt",
+      "status": "full_sha256_match_across_github_and_wayback",
+      "size": 3431,
+      "sha256": "6a604b96722ed052eef8a094ad90b275ba2e987d406315dbed0bdc6b3c4238a7",
+      "github_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression/esm2_t30_150M_UR50D-contact-regression.pt",
+      "wayback_url": "https://web.archive.org/web/20261030061829id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt"
+    }
+  ]
 }
