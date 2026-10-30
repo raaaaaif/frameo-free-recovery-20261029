@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-29T10:03:18.760774+00:00",
+  "checked_utc": "2026-10-30T04:03:23.362871+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -384,6 +384,42 @@
             "gzip_crc_checked": true,
             "gitlinks_requiring_separate_archives": [],
             "revision": "b233b96e49d371bad00300f59b5ba581100b8745"
+          },
+          {
+            "repo": "NVIDIA/cutlass",
+            "expected_tree": "29ab07790fecb67136f36821cad3cddfd2eec7aa",
+            "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:29ab07790fecb67136f36821cad3cddfd2eec7aa/raw/",
+            "status": "verified",
+            "actual_tree": "29ab07790fecb67136f36821cad3cddfd2eec7aa",
+            "files": 6916,
+            "expanded_bytes": 153758280,
+            "compressed_bytes": 39680608,
+            "bundle_sha256": "5b342b73dbd3766a83e559cb285005f44869d8ed873fe3b01a734c69c42e2926",
+            "gzip_crc_checked": true,
+            "bundle_md5": "5351de6f1bde24bd9bc8fecac462d41c",
+            "bundle_sha1": "733fb7ba7952264bb165c105030b3087e060dc0b",
+            "git_lfs_pointers": [],
+            "checkout_crlf_normalized_for_git_comparison": [],
+            "gitlinks_requiring_separate_archives": [],
+            "checked_utc": "2026-10-30T03:53:51.791688+00:00"
+          },
+          {
+            "repo": "NVIDIA/cutlass",
+            "expected_tree": "6e75c0297c9bec864743a946e76c01ad5c0dcff9",
+            "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:6e75c0297c9bec864743a946e76c01ad5c0dcff9/raw/",
+            "status": "verified",
+            "actual_tree": "6e75c0297c9bec864743a946e76c01ad5c0dcff9",
+            "files": 6711,
+            "expanded_bytes": 143250820,
+            "compressed_bytes": 33963866,
+            "bundle_sha256": "3eaa772c545f7901e7389c7b68d7537d56acc99c088730cdb8bae7de0b47e804",
+            "gzip_crc_checked": true,
+            "bundle_md5": "0b8990eaccd4e231be46437b570a711a",
+            "bundle_sha1": "a4b1e712f57b020f5a535511086989189f3fe51e",
+            "git_lfs_pointers": [],
+            "checkout_crlf_normalized_for_git_comparison": [],
+            "gitlinks_requiring_separate_archives": [],
+            "checked_utc": "2026-10-30T03:54:24.122985+00:00"
           }
         ],
         "archive_file_receipts": {
@@ -1643,7 +1679,25 @@
         "revision": "1b9e58a915cf867e106495eaa2a4b18eb4971c9d",
         "checked_utc": "2026-10-29T06:51:23.682999+00:00"
       },
-      "recovery_url": "https://github.com/raaaaaif/preserved-ghidra-20261029/tree/1b9e58a915cf867e106495eaa2a4b18eb4971c9d"
+      "recovery_url": "https://github.com/raaaaaif/preserved-ghidra-20261029/tree/1b9e58a915cf867e106495eaa2a4b18eb4971c9d",
+      "verified_source_bundle": {
+        "repo": "nationalsecurityagency/ghidra",
+        "expected_tree": "9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189",
+        "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189/raw/",
+        "status": "verified",
+        "actual_tree": "9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189",
+        "files": 20623,
+        "expanded_bytes": 325355119,
+        "compressed_bytes": 81391272,
+        "bundle_sha256": "ecbb982dbcf47b789a773b6e0a2d214fee8760b0290ba5f6f4fe0b904419e259",
+        "gzip_crc_checked": true,
+        "bundle_md5": "c518be09f9b8af1bf070bf663949f7f0",
+        "bundle_sha1": "28b0ab7b9f769e0f6d2ffe892728be96957de1f3",
+        "git_lfs_pointers": [],
+        "checkout_crlf_normalized_for_git_comparison": [],
+        "gitlinks_requiring_separate_archives": [],
+        "checked_utc": "2026-10-30T03:53:11.155219+00:00"
+      }
     },
     {
       "name": "GLM 5.3 Cybersecurity FP8",
@@ -60192,6 +60246,39 @@
       "payload_verified": false,
       "checked_utc": "2026-10-29T06:35:22.344244+00:00"
     },
+    "historical_pmc_2025": {
+      "metadata_filename": "PMC-June-2025.torrent",
+      "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+      "metadata_sha256": "6b293f49fc7634b82b387a07856f1bae72fe9a0ad484d7a00ef913e72966e50a",
+      "metadata_bytes": 209383,
+      "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+      "dataset_bytes": 347357315508,
+      "files": 1826,
+      "piece_verification": {
+        "checked_utc": "2026-10-30T03:58:52.551986+00:00",
+        "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+        "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+        "metadata_info_hash_verified": true,
+        "dataset_bytes": 347357315508,
+        "files": 1826,
+        "peer_errors": [
+          "OSError",
+          "TimeoutError"
+        ],
+        "status": "full_piece_sha1_verified",
+        "piece_index": 2588,
+        "bytes_read": 1835444,
+        "piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+        "expected_piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+        "advertised_available_pieces": 2589,
+        "total_pieces": 2589,
+        "advertises_complete_snapshot": true,
+        "content_prefix_sha256": "b372c4affb11ac536858b27df3b324dd3212fd56e4add3561c72b806955c72b5",
+        "payload_written_to_disk": false
+      },
+      "status": "metadata_and_one_complete_piece_verified",
+      "scope": "Existing June 2025 PMC Open Access historical snapshot. One complete piece was checksum-verified, and its peer advertised every piece; the full 347 GB collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup."
+    },
     "historical_arxiv_collection": {
       "url": "https://archive.org/details/arxiv",
       "scope": "Existing historical partial collection; not a complete current arXiv backup.",
@@ -60388,6 +60475,42 @@
         "gzip_crc_checked": true,
         "gitlinks_requiring_separate_archives": [],
         "revision": "b233b96e49d371bad00300f59b5ba581100b8745"
+      },
+      {
+        "repo": "NVIDIA/cutlass",
+        "expected_tree": "29ab07790fecb67136f36821cad3cddfd2eec7aa",
+        "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:29ab07790fecb67136f36821cad3cddfd2eec7aa/raw/",
+        "status": "verified",
+        "actual_tree": "29ab07790fecb67136f36821cad3cddfd2eec7aa",
+        "files": 6916,
+        "expanded_bytes": 153758280,
+        "compressed_bytes": 39680608,
+        "bundle_sha256": "5b342b73dbd3766a83e559cb285005f44869d8ed873fe3b01a734c69c42e2926",
+        "gzip_crc_checked": true,
+        "bundle_md5": "5351de6f1bde24bd9bc8fecac462d41c",
+        "bundle_sha1": "733fb7ba7952264bb165c105030b3087e060dc0b",
+        "git_lfs_pointers": [],
+        "checkout_crlf_normalized_for_git_comparison": [],
+        "gitlinks_requiring_separate_archives": [],
+        "checked_utc": "2026-10-30T03:53:51.791688+00:00"
+      },
+      {
+        "repo": "NVIDIA/cutlass",
+        "expected_tree": "6e75c0297c9bec864743a946e76c01ad5c0dcff9",
+        "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:6e75c0297c9bec864743a946e76c01ad5c0dcff9/raw/",
+        "status": "verified",
+        "actual_tree": "6e75c0297c9bec864743a946e76c01ad5c0dcff9",
+        "files": 6711,
+        "expanded_bytes": 143250820,
+        "compressed_bytes": 33963866,
+        "bundle_sha256": "3eaa772c545f7901e7389c7b68d7537d56acc99c088730cdb8bae7de0b47e804",
+        "gzip_crc_checked": true,
+        "bundle_md5": "0b8990eaccd4e231be46437b570a711a",
+        "bundle_sha1": "a4b1e712f57b020f5a535511086989189f3fe51e",
+        "git_lfs_pointers": [],
+        "checkout_crlf_normalized_for_git_comparison": [],
+        "gitlinks_requiring_separate_archives": [],
+        "checked_utc": "2026-10-30T03:54:24.122985+00:00"
       }
     ],
     "archive_file_receipts": {
@@ -61881,7 +62004,7 @@
     {
       "name": "ESM original PyTorch weight snapshots",
       "kind": "archived_files",
-      "scope": "Three original ESM2 weight files (8M, 35M, 150M), plus the 8M contact regression file. The other two regression files and larger models are not included. These differ in packaging from the Hugging Face conversions.",
+      "scope": "Three original ESM2 weight files (8M, 35M, 150M), plus 1 contact regression files. Larger original PyTorch models are not included in these captures. These differ in packaging from the separate Hugging Face conversions.",
       "verified_archived_files": [
         {
           "name": "esm2_t6_8M_UR50D.pt",
@@ -62378,6 +62501,42 @@
           "archive_url": "https://archive.org/download/academictorrents_06d6badd7d1b0cfee00081c28fddd5e15e106165/non_comm_use.O-Z.xml.tar.gz"
         }
       ]
+    },
+    {
+      "metadata_filename": "PMC-June-2025.torrent",
+      "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+      "metadata_sha256": "6b293f49fc7634b82b387a07856f1bae72fe9a0ad484d7a00ef913e72966e50a",
+      "metadata_bytes": 209383,
+      "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+      "dataset_bytes": 347357315508,
+      "files": 1826,
+      "piece_verification": {
+        "checked_utc": "2026-10-30T03:58:52.551986+00:00",
+        "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+        "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+        "metadata_info_hash_verified": true,
+        "dataset_bytes": 347357315508,
+        "files": 1826,
+        "peer_errors": [
+          "OSError",
+          "TimeoutError"
+        ],
+        "status": "full_piece_sha1_verified",
+        "piece_index": 2588,
+        "bytes_read": 1835444,
+        "piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+        "expected_piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+        "advertised_available_pieces": 2589,
+        "total_pieces": 2589,
+        "advertises_complete_snapshot": true,
+        "content_prefix_sha256": "b372c4affb11ac536858b27df3b324dd3212fd56e4add3561c72b806955c72b5",
+        "payload_written_to_disk": false
+      },
+      "status": "metadata_and_one_complete_piece_verified",
+      "scope": "Existing June 2025 PMC Open Access historical snapshot. One complete piece was checksum-verified, and its peer advertised every piece; the full 347 GB collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup.",
+      "name": "PMC Open Access June 2025 torrent snapshot",
+      "kind": "torrent",
+      "recovery_url": "https://github.com/raaaaaif/frameo-free-recovery-20261029/blob/main/PMC-June-2025.torrent"
     }
   ],
   "internet_archive_item_availability": {
