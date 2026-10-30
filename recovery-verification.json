@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:30:17.889950+00:00",
+  "checked_utc": "2026-10-30T05:30:34.023868+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -17379,6 +17379,142 @@
           "expected_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
           "copy_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
           "copy_url": "https://huggingface.co/hellnahbru/esm2_t48_15B_UR50D-preserved-20261029/resolve/5fbca39631164edc1d402a5aa369f982f72ee282/vocab.txt"
+        }
+      ],
+      "all_expected_files_match": true,
+      "all_bounded_retrieval_checks_pass": true,
+      "status": "metadata_and_bounded_retrieval_verified"
+    },
+    "hellnahbru/esmfold_v1-preserved-20261029": {
+      "source": "facebook/esmfold_v1",
+      "source_revision": "75a3841ee059df2bf4d56688166c8fb459ddd97a",
+      "destination": "hellnahbru/esmfold_v1-preserved-20261029",
+      "destination_revision": "75a3841ee059df2bf4d56688166c8fb459ddd97a",
+      "private": false,
+      "checked_utc": "2026-10-30T05:30:32.004653+00:00",
+      "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+      "full_large_file_hash_verified": false,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "expected_size": 1434,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1434
+            }
+          ],
+          "expected_hash": "e2e68308705c59d0e047f13c1116ed223f9b7fec",
+          "copy_hash": "e2e68308705c59d0e047f13c1116ed223f9b7fec",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/.gitattributes"
+        },
+        {
+          "path": "README.md",
+          "expected_size": 696,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 696
+            }
+          ],
+          "expected_hash": "758ffa3c3d95efbd7e04b574f3e2aad5c7bb2711",
+          "copy_hash": "758ffa3c3d95efbd7e04b574f3e2aad5c7bb2711",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/README.md"
+        },
+        {
+          "path": "config.json",
+          "expected_size": 2103,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 2103
+            }
+          ],
+          "expected_hash": "1232d0aee4be551021d8e70e66ed2b062df917bf",
+          "copy_hash": "1232d0aee4be551021d8e70e66ed2b062df917bf",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/config.json"
+        },
+        {
+          "path": "pytorch_model.bin",
+          "expected_size": 8442062570,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 4221031285,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "4a501bd752bbab5e808fdc914dc6d30966f74b474ce5f22e9eb6b762f2f30dee"
+            },
+            {
+              "kind": "range_only",
+              "start": 8442062538,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "bda7df1debf472e39efc55625c67a75a7ce036becc159e1a5c37bbd999c7d0fc"
+            }
+          ],
+          "expected_hash": "2ee07356b125d1e3e57503c204111fd7323347fc4735d41d3caac57c2a78e116",
+          "copy_hash": "2ee07356b125d1e3e57503c204111fd7323347fc4735d41d3caac57c2a78e116",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/pytorch_model.bin"
+        },
+        {
+          "path": "special_tokens_map.json",
+          "expected_size": 121,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 121
+            }
+          ],
+          "expected_hash": "121c8d54f8ea66cdf678f48b3cb37c05b4de5c0d",
+          "copy_hash": "121c8d54f8ea66cdf678f48b3cb37c05b4de5c0d",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/special_tokens_map.json"
+        },
+        {
+          "path": "tokenizer_config.json",
+          "expected_size": 40,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 40
+            }
+          ],
+          "expected_hash": "aad24fba9f1bad2d74ed79d414ddcd60e6b0f812",
+          "copy_hash": "aad24fba9f1bad2d74ed79d414ddcd60e6b0f812",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/tokenizer_config.json"
+        },
+        {
+          "path": "vocab.txt",
+          "expected_size": 72,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 72
+            }
+          ],
+          "expected_hash": "9abfdf5472c0ed970648b683b86ab131256b3e42",
+          "copy_hash": "9abfdf5472c0ed970648b683b86ab131256b3e42",
+          "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/vocab.txt"
         }
       ],
       "all_expected_files_match": true,
