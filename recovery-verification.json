@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:34:09.450390+00:00",
+  "checked_utc": "2026-10-30T06:05:00.868570+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -45793,7 +45793,15 @@
       "total_pieces": 2589,
       "advertises_complete_snapshot": true,
       "content_prefix_sha256": "b372c4affb11ac536858b27df3b324dd3212fd56e4add3561c72b806955c72b5",
-      "payload_written_to_disk": false
+      "payload_written_to_disk": false,
+      "piece_file_coverage": [
+        {
+          "path": "oa_noncomm/xml/oa_noncomm_xml.incr.2025-01-20.tar.gz",
+          "file_bytes": 136053172,
+          "piece_bytes_in_file": 1835444,
+          "padding": false
+        }
+      ]
     },
     "status": "metadata_and_one_complete_piece_verified",
     "scope": "Existing June 2025 PMC Open Access historical XML/text snapshot, with file lists; no PDF or image packages. The torrent contains 1,744 data files plus 82 padding entries. One complete piece was checksum-verified, and its peer advertised every piece; the full collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup.",
@@ -47890,5 +47898,184 @@
         ]
       }
     ]
+  },
+  "openmidnight_public_demo_history_checks": {
+    "checked_utc": "2026-10-30T05:51:01.523668+00:00",
+    "public_space": "SophontAI/OpenMidnightDemo",
+    "commits_checked": 20,
+    "revisions": [
+      {
+        "revision": "641bdbe3f17805a94877e4e74c9b281117534ca9",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "9260301b14f482d831fa52f161f52ba5a0563216",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "079e183f63345406637265c08ddfabde8b1e1ee8",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "bc13e62c7d4a214bc1ce667c43f4621422e881ae",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "7aea188c6b8aa7bebf6c551e4c02e822768bceb6",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "cddce8e26f0c03b2ea530686038afa23a127e5aa",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "d56667c7cc36f7aa9b1bfe6d689f0dfa2d4be7f9",
+        "file_count": 21,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "6bce5a82e67114618f381ded4044bb7df63db197",
+        "file_count": 20,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "78b88c04660f2e683d7deb313bb18474e702a44b",
+        "file_count": 20,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "9c622c4dbded76959ddeb9274f15e4189e2505dd",
+        "file_count": 20,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "39b4ad595926a44ffc8d0e1f6981e100378493dc",
+        "file_count": 20,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "4a8c8c885f329ef5244709a19b6020027a9fdee4",
+        "file_count": 13,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "584da1f7623b45f0c6e82a726d8bdd563e133edd",
+        "file_count": 8,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "3a7a436f50f079d87f40e57931448a56a21a95bb",
+        "file_count": 8,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "011aefcbe140c8b673df683a643faac67158532c",
+        "file_count": 8,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "459f218c3a899ebf7fd0aa40477b040fb8688f14",
+        "file_count": 8,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "1d92620585321e94a95a2ca0030efba17ce92091",
+        "file_count": 7,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "97dfd1746dc7a72a2f6ed8dacf91d56a44990af2",
+        "file_count": 7,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "acd627a347a13fa8fc6fe2b34bb7d83b48f0468d",
+        "file_count": 3,
+        "matches": [],
+        "large_files": []
+      },
+      {
+        "revision": "b4d7285092f0ec9c2315a3de8fc576f4525c6d3f",
+        "file_count": 2,
+        "matches": [],
+        "large_files": []
+      }
+    ]
+  },
+  "esm_regression_github_checks": {
+    "repo": "raaaaaif/preserved-esm-20261029",
+    "branch": "preserved-regression-20261030",
+    "base_revision": "2b369911bb5b4b0dda914521b9475cad1656b2ac",
+    "files": [
+      {
+        "name": "esm2_t6_8M_UR50D-contact-regression.pt",
+        "source_url": "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t6_8M_UR50D-contact-regression.pt",
+        "archive_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/05cd4b1fc0bfd8b6aed2e9e717b6e2a6729c9af1/preserved-regression/esm2_t6_8M_UR50D-contact-regression.pt",
+        "repository": "raaaaaif/preserved-esm-20261029",
+        "revision": "05cd4b1fc0bfd8b6aed2e9e717b6e2a6729c9af1",
+        "size": 1511,
+        "sha256": "8f7a4557d57713b97ba0e484303007efb7230d25299c0ac47a0a1b12a87bbb9d",
+        "git_blob_sha1": "9118ff7fbd22d084a60674027cb130cb34b0c5d0",
+        "status": "full_sha256_verified",
+        "checked_utc": "2026-10-30T06:04:36.131364+00:00",
+        "payload_written_to_disk": false
+      },
+      {
+        "name": "esm2_t12_35M_UR50D-contact-regression.pt",
+        "source_url": "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t12_35M_UR50D-contact-regression.pt",
+        "archive_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/26cc847371e0c85615f5f82f1cb6632837b0fa52/preserved-regression/esm2_t12_35M_UR50D-contact-regression.pt",
+        "repository": "raaaaaif/preserved-esm-20261029",
+        "revision": "26cc847371e0c85615f5f82f1cb6632837b0fa52",
+        "size": 1959,
+        "sha256": "16641e05d830d0ce863dd152dbb8c2f3ddfa3c3ec2a66080152c8abad01d8585",
+        "git_blob_sha1": "f317b5a3df3271950dc8301da6c536c010dc5ae3",
+        "status": "full_sha256_verified",
+        "checked_utc": "2026-10-30T06:04:37.576807+00:00",
+        "payload_written_to_disk": false
+      },
+      {
+        "name": "esm2_t30_150M_UR50D-contact-regression.pt",
+        "source_url": "https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt",
+        "archive_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression/esm2_t30_150M_UR50D-contact-regression.pt",
+        "repository": "raaaaaif/preserved-esm-20261029",
+        "revision": "06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd",
+        "size": 3431,
+        "sha256": "6a604b96722ed052eef8a094ad90b275ba2e987d406315dbed0bdc6b3c4238a7",
+        "git_blob_sha1": "3e7708b63d6c67f73a2c2069bf86aaa28bca4293",
+        "status": "full_sha256_verified",
+        "checked_utc": "2026-10-30T06:04:39.097662+00:00",
+        "payload_written_to_disk": false
+      }
+    ],
+    "branch_creation_requested_utc": "2026-10-30T06:04:33.875661+00:00",
+    "status": "all_three_auxiliary_files_fully_verified",
+    "head": "06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd",
+    "tag": "preserved-regression-20261030",
+    "url": "https://github.com/raaaaaif/preserved-esm-20261029/tree/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression",
+    "checked_utc": "2026-10-30T06:04:40.417538+00:00"
   }
 }
