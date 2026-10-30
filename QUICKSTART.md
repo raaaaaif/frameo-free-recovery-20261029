@@ -32,7 +32,7 @@ The Internet Archive source-upload item was removed and is excluded from current
 
 ## Historical PMC torrent
 
-`PMC-June-2025.torrent` is a small map to an existing June 2025 snapshot: 1,826 files totaling 347,357,315,508 bytes (347 GB). It is not the full current PMC collection. On 30 October 2026, a peer advertised all pieces and a complete 1,835,444-byte piece passed its SHA1 checksum. This proves a working retrieval sample, not that all 347 GB were downloaded or that peers will always remain available.
+`PMC-June-2025.torrent` is a small map to an existing June 2025 XML/text snapshot: 1,744 data files totaling 343,000,501,550 bytes (343 GB), plus 82 torrent padding entries. The total torrent size is 347,357,315,508 bytes. It includes file lists, but no PDF or image packages, and is not the full current PMC collection. On 30 October 2026, a peer advertised all pieces and a complete 1,835,444-byte piece passed its SHA1 checksum. This proves a working retrieval sample, not that the whole collection was downloaded or that peers will always remain available.
 
 When your external drive is connected, install the free, open-source [Transmission](https://transmissionbt.com/download), open this torrent file, and choose a folder on that drive **before starting the download**. Select only the files you want if you do not need the whole snapshot. Transmission checks the torrent's piece hashes during download. Do not start it with the computer's internal disk selected. Allow additional drive space if you later unpack the downloaded archives.
 
