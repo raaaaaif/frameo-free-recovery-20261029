@@ -1,5 +1,7 @@
 # Free recovery index for Frameo resources
 
+**Additional checks, 30 October:** [Remaining backup research](remaining-backup-research.md) records the verified one-article PMC deposit, complete metadata-inventory deposit, whole-inventory comparison and remaining blockers. Both original-resource gaps remain unresolved.
+
 **Model copies and planned Wayback files are verified; two original-resource gaps remain.** 11 original model repositories (1.798 TB) and 15 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 3 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
 
 Checked 2026-10-30T06:18:53.467648+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
