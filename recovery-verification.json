@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:28:00.821027+00:00",
+  "checked_utc": "2026-10-30T05:28:27.593049+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -15621,6 +15621,376 @@
           "expected_hash": "d7afd8e8aec0360a6421577d6ebbda0231157982",
           "copy_hash": "d7afd8e8aec0360a6421577d6ebbda0231157982",
           "copy_url": "https://huggingface.co/hellnahbru/Carbon-X-preserved-20261029/resolve/a5f4e199957aa2ca3e0345eb28bd1254604db2b2/tokenizer_config.json"
+        }
+      ],
+      "all_expected_files_match": true,
+      "all_bounded_retrieval_checks_pass": true,
+      "status": "metadata_and_bounded_retrieval_verified"
+    },
+    "hellnahbru/OpenFold-preserved-20261029": {
+      "source": "nz/OpenFold",
+      "source_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+      "destination": "hellnahbru/OpenFold-preserved-20261029",
+      "destination_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+      "private": false,
+      "checked_utc": "2026-10-30T05:28:14.692802+00:00",
+      "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+      "full_large_file_hash_verified": false,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "expected_size": 1173,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1173
+            }
+          ],
+          "expected_hash": "ac481c8eb05e4d2496fbe076a38a7b4835dd733d",
+          "copy_hash": "ac481c8eb05e4d2496fbe076a38a7b4835dd733d",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/.gitattributes"
+        },
+        {
+          "path": "LICENSE",
+          "expected_size": 18657,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 18657
+            }
+          ],
+          "expected_hash": "da6ab6cc8f333d7e89a99812866df8f24374d47c",
+          "copy_hash": "da6ab6cc8f333d7e89a99812866df8f24374d47c",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/LICENSE"
+        },
+        {
+          "path": "README.md",
+          "expected_size": 2466,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 2466
+            }
+          ],
+          "expected_hash": "6796cb00b9d315e30f1f910dd8f1107988d3ec72",
+          "copy_hash": "6796cb00b9d315e30f1f910dd8f1107988d3ec72",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/README.md"
+        },
+        {
+          "path": "finetuning_2.pt",
+          "expected_size": 374586533,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187293266,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "905c5f9227af25a5476a3f1cb7b996ee6e276ed89e85865725abd39ad507a0e8"
+            },
+            {
+              "kind": "range_only",
+              "start": 374586501,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6a2b6cb13daf90b286ffc90f7f0fd7fbf8e892d07b770ae1d93d886525bfb9b3"
+            }
+          ],
+          "expected_hash": "9511993ad138a66f3c51412d65351c5162e16bc4abd51d76f8016b6e0c392362",
+          "copy_hash": "9511993ad138a66f3c51412d65351c5162e16bc4abd51d76f8016b6e0c392362",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_2.pt"
+        },
+        {
+          "path": "finetuning_3.pt",
+          "expected_size": 374586533,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187293266,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "d60eb86e452273236af00c341fcc7044ecaa21d58ad5f42c5fd6acac0dff5993"
+            },
+            {
+              "kind": "range_only",
+              "start": 374586501,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6a2b6cb13daf90b286ffc90f7f0fd7fbf8e892d07b770ae1d93d886525bfb9b3"
+            }
+          ],
+          "expected_hash": "4ee7b3de7a2754c6102029b2997df3b9f32d3e9104836986939d1aba2a164494",
+          "copy_hash": "4ee7b3de7a2754c6102029b2997df3b9f32d3e9104836986939d1aba2a164494",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_3.pt"
+        },
+        {
+          "path": "finetuning_4.pt",
+          "expected_size": 374586533,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187293266,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "ee24e485c71fdc01ce7e8037ba5d910c83cd7a5952c7b6714d679d1ceb99d851"
+            },
+            {
+              "kind": "range_only",
+              "start": 374586501,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6a2b6cb13daf90b286ffc90f7f0fd7fbf8e892d07b770ae1d93d886525bfb9b3"
+            }
+          ],
+          "expected_hash": "a0bc9cde0c9c09c9632e496cd290319ea4e2e63456c51063e3c44db6c0cb9dc0",
+          "copy_hash": "a0bc9cde0c9c09c9632e496cd290319ea4e2e63456c51063e3c44db6c0cb9dc0",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_4.pt"
+        },
+        {
+          "path": "finetuning_5.pt",
+          "expected_size": 374586533,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187293266,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "3a017d2a04d16aaf6930f05e46161280a4dfed6a9a029be6a41fff1e6cf0bdcc"
+            },
+            {
+              "kind": "range_only",
+              "start": 374586501,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6a2b6cb13daf90b286ffc90f7f0fd7fbf8e892d07b770ae1d93d886525bfb9b3"
+            }
+          ],
+          "expected_hash": "8b0951473212433443fc9970a7b902830d377da21bc3d0304dbbb01dd0d64ad2",
+          "copy_hash": "8b0951473212433443fc9970a7b902830d377da21bc3d0304dbbb01dd0d64ad2",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_5.pt"
+        },
+        {
+          "path": "finetuning_no_templ_1.pt",
+          "expected_size": 373226022,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 186613011,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "62c4ff60a015ad8155557d60cab17d9d93052b90703dea0fc93af0c1080e9f4d"
+            },
+            {
+              "kind": "range_only",
+              "start": 373225990,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "855bd7136ff652126ff9bd30345a028c44ac16193e023b54302ec754bc9e30fe"
+            }
+          ],
+          "expected_hash": "aebc5db250c4c9cc6751490329981384c82407f6b0b24026348abc2b63c40b09",
+          "copy_hash": "aebc5db250c4c9cc6751490329981384c82407f6b0b24026348abc2b63c40b09",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_no_templ_1.pt"
+        },
+        {
+          "path": "finetuning_no_templ_2.pt",
+          "expected_size": 373226022,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 186613011,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "79d40f746f53258ad27e1a8a0c56dfb5a0582887d21bb44a808d1f5acd84b4ab"
+            },
+            {
+              "kind": "range_only",
+              "start": 373225990,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "855bd7136ff652126ff9bd30345a028c44ac16193e023b54302ec754bc9e30fe"
+            }
+          ],
+          "expected_hash": "400e1d95a41203633925b0d009e91371617a7123107acceb3ca07e278c3ee634",
+          "copy_hash": "400e1d95a41203633925b0d009e91371617a7123107acceb3ca07e278c3ee634",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_no_templ_2.pt"
+        },
+        {
+          "path": "finetuning_no_templ_ptm_1.pt",
+          "expected_size": 373259620,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 186629810,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "4c399e022ed4b025b2b0038b581a3ee51d678f61d80bced673ce9de667b25fe3"
+            },
+            {
+              "kind": "range_only",
+              "start": 373259588,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "fc667740ff5186f82f855afe5dbf8a65aaca6bcd0b253f568d3a4412b1c9a15e"
+            }
+          ],
+          "expected_hash": "1a179937a6f61143c41f8b6a0b763ac1f4762c9dc63d2fb151240930c110bee1",
+          "copy_hash": "1a179937a6f61143c41f8b6a0b763ac1f4762c9dc63d2fb151240930c110bee1",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_no_templ_ptm_1.pt"
+        },
+        {
+          "path": "finetuning_ptm_1.pt",
+          "expected_size": 374620131,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187310065,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "9bc800ba36255ccd567e51ad99952bbca42780c45ac43017fc63f16caae8f294"
+            },
+            {
+              "kind": "range_only",
+              "start": 374620099,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "4b713a504d90e9f24d659b543b8b73c05126d33e34a48f23dfc2c7b8b2068729"
+            }
+          ],
+          "expected_hash": "11b641d4c90440b945197892f8b048f9dd8ba6224a31960682847f6c07dd7075",
+          "copy_hash": "11b641d4c90440b945197892f8b048f9dd8ba6224a31960682847f6c07dd7075",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_ptm_1.pt"
+        },
+        {
+          "path": "finetuning_ptm_2.pt",
+          "expected_size": 374620131,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 187310065,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "00188563d4858753c388edd749d28775faa185303f7387c769680763b009053d"
+            },
+            {
+              "kind": "range_only",
+              "start": 374620099,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "4b713a504d90e9f24d659b543b8b73c05126d33e34a48f23dfc2c7b8b2068729"
+            }
+          ],
+          "expected_hash": "aff88a4534f500bcd4509584c2a6ce824417b31f4efaa5b17d19b4c97a8aaa49",
+          "copy_hash": "aff88a4534f500bcd4509584c2a6ce824417b31f4efaa5b17d19b4c97a8aaa49",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/finetuning_ptm_2.pt"
+        },
+        {
+          "path": "initial_training.pt",
+          "expected_size": 7433216,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 3716608,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "5b9a1b1da0324587aa16b8b273f423b10b92723682c2e94e24f5a5ad6fe07f0d"
+            },
+            {
+              "kind": "range_only",
+              "start": 7433184,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "73a9a29e4f143868957a9ca1eec6ab3890a74ca8ed35fd00e34e91b861d7ca1e"
+            }
+          ],
+          "expected_hash": "b1dbd86977c501a23a5422dbac60c6954b67ae44cadbef6c192fbf83f455830a",
+          "copy_hash": "b1dbd86977c501a23a5422dbac60c6954b67ae44cadbef6c192fbf83f455830a",
+          "copy_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/resolve/6344b2a680cbbae20b8afdb7f154228cc5b0cb27/initial_training.pt"
         }
       ],
       "all_expected_files_match": true,
