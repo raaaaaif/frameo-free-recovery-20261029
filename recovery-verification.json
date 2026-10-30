@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:29:00.597395+00:00",
+  "checked_utc": "2026-10-30T05:29:17.803926+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -16387,6 +16387,204 @@
           "expected_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
           "copy_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
           "copy_url": "https://huggingface.co/hellnahbru/esm2_t12_35M_UR50D-preserved-20261029/resolve/6fbf070e65b0b7291e7bbcd451118c216cff79d8/vocab.txt"
+        }
+      ],
+      "all_expected_files_match": true,
+      "all_bounded_retrieval_checks_pass": true,
+      "status": "metadata_and_bounded_retrieval_verified"
+    },
+    "hellnahbru/esm2_t30_150M_UR50D-preserved-20261029": {
+      "source": "facebook/esm2_t30_150M_UR50D",
+      "source_revision": "a695f6045e2e32885fa60af20c13cb35398ce30c",
+      "destination": "hellnahbru/esm2_t30_150M_UR50D-preserved-20261029",
+      "destination_revision": "a695f6045e2e32885fa60af20c13cb35398ce30c",
+      "private": false,
+      "checked_utc": "2026-10-30T05:29:14.217626+00:00",
+      "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+      "full_large_file_hash_verified": false,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "expected_size": 1438,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1438
+            }
+          ],
+          "expected_hash": "3476589a58942b0e9ef94ae0efb29355707f95bb",
+          "copy_hash": "3476589a58942b0e9ef94ae0efb29355707f95bb",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/.gitattributes"
+        },
+        {
+          "path": "README.md",
+          "expected_size": 1705,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1705
+            }
+          ],
+          "expected_hash": "78b8e54d14b2ccb65a6f3456cc72e603ddd8658d",
+          "copy_hash": "78b8e54d14b2ccb65a6f3456cc72e603ddd8658d",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/README.md"
+        },
+        {
+          "path": "config.json",
+          "expected_size": 779,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 779
+            }
+          ],
+          "expected_hash": "52e04179e6fbad6663a94ea5cc44f09d764c5cd4",
+          "copy_hash": "52e04179e6fbad6663a94ea5cc44f09d764c5cd4",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/config.json"
+        },
+        {
+          "path": "model.safetensors",
+          "expected_size": 595257706,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "3c765873643087ac017a0ba4ffc27ccf7b9bb8c054dbbbc98a03154762620aed"
+            },
+            {
+              "kind": "range_only",
+              "start": 297628853,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "ec9fcd46f3f9ca17c38cd0ce44fae10e7136812196726a287e1083560e611225"
+            },
+            {
+              "kind": "range_only",
+              "start": 595257674,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "22475f068133f16961220de07beb9f9b722cb10c521fbc303d01cb937953b54f"
+            }
+          ],
+          "expected_hash": "c3f1da8aea53bddd32c246c86168c23b9fd72341fb9db9a94436f855f5053566",
+          "copy_hash": "c3f1da8aea53bddd32c246c86168c23b9fd72341fb9db9a94436f855f5053566",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/model.safetensors"
+        },
+        {
+          "path": "pytorch_model.bin",
+          "expected_size": 595364077,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6cb4ead480d6f1d55abe9170ad233d02a136d3f227f39ef48f5ecbb3fe89f9ff"
+            },
+            {
+              "kind": "range_only",
+              "start": 297682038,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "f2aa7e35b88b5572b86678fc0df981faf80041203c7bdbc967e06beab75895e4"
+            },
+            {
+              "kind": "range_only",
+              "start": 595364045,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "6ccf114fd2084373a73cb8cbbb36b68399aae42686466e4cd3f561da6c23f8b8"
+            }
+          ],
+          "expected_hash": "a88feb574b9f4e31c45762961d1b2ddba95796db86fb480d207b4d15e6ec8aab",
+          "copy_hash": "a88feb574b9f4e31c45762961d1b2ddba95796db86fb480d207b4d15e6ec8aab",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/pytorch_model.bin"
+        },
+        {
+          "path": "special_tokens_map.json",
+          "expected_size": 125,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 125
+            }
+          ],
+          "expected_hash": "ba0f9b53dbbf27934f7555e5d31e37bdea9317f1",
+          "copy_hash": "ba0f9b53dbbf27934f7555e5d31e37bdea9317f1",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/special_tokens_map.json"
+        },
+        {
+          "path": "tf_model.h5",
+          "expected_size": 593355136,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "e2831b74e87cca4db4d31822fa7578aa43b75c3ce2820f02bc7285e5682ed325"
+            },
+            {
+              "kind": "range_only",
+              "start": 296677568,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "9f5d370c7f4b61bc2a0f9ed908d51fbf53fa58d32cf7a50bd421f09a72ee8c0d"
+            },
+            {
+              "kind": "range_only",
+              "start": 593355104,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "f45ad23ecd77bf2b67684f63d0b936e2b07232155d9d9811e9064b898e6fc310"
+            }
+          ],
+          "expected_hash": "78b04a25f0ded4bd3a7665d4589863984117384b239cee6de97c46aefec4a1b5",
+          "copy_hash": "78b04a25f0ded4bd3a7665d4589863984117384b239cee6de97c46aefec4a1b5",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/tf_model.h5"
+        },
+        {
+          "path": "tokenizer_config.json",
+          "expected_size": 95,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 95
+            }
+          ],
+          "expected_hash": "3f0d47e841e1cb75257aeaf76d156802899a217e",
+          "copy_hash": "3f0d47e841e1cb75257aeaf76d156802899a217e",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/tokenizer_config.json"
+        },
+        {
+          "path": "vocab.txt",
+          "expected_size": 93,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 93
+            }
+          ],
+          "expected_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
+          "copy_hash": "6b946952cc35537226f07fd70957ee2f848880d2",
+          "copy_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/resolve/a695f6045e2e32885fa60af20c13cb35398ce30c/vocab.txt"
         }
       ],
       "all_expected_files_match": true,
