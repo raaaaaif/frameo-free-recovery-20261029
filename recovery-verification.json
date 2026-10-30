@@ -48127,5 +48127,10 @@
       "github_url": "https://raw.githubusercontent.com/raaaaaif/preserved-esm-20261029/06c5fdc2d3f7c7f29b47c4f692055b4ef7da4fbd/preserved-regression/esm2_t30_150M_UR50D-contact-regression.pt",
       "wayback_url": "https://web.archive.org/web/20261030061829id_/https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t30_150M_UR50D-contact-regression.pt"
     }
-  ]
+  ],
+  "additional_research_evidence": {
+    "checked_utc": "2026-10-30T07:30:25.872237+00:00",
+    "path": "remaining-backup-evidence.json",
+    "status": "incomplete_two_original_resource_gaps"
+  }
 }
