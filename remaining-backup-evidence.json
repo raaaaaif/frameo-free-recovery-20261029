@@ -1,0 +1,2154 @@
+{
+  "checked_utc": "2026-10-30T07:30:25.872237+00:00",
+  "overall_status": "incomplete_two_original_resource_gaps",
+  "public_contact_sent": false,
+  "paid_services_enabled": false,
+  "large_payloads_saved_locally": false,
+  "pmc_one_article_backup": {
+    "status": "verified_full_independent_readback",
+    "item": "pmc6264737-complete-oa-snapshot-20261030",
+    "filename": "PMC6264737.1-complete.tar.gz",
+    "archive_url": "https://archive.org/download/pmc6264737-complete-oa-snapshot-20261030/PMC6264737.1-complete.tar.gz",
+    "archive_bytes": 774080,
+    "archive_sha256": "326ddb183c824efcaef09fa9f9b901a70e6206ae9cc9e41994eeeb23fe420da0",
+    "source_file_count": 12,
+    "source_bytes": 899588,
+    "provenance": {
+      "captured_utc": "2026-10-30T06:43:32.777052+00:00",
+      "title": "The Use of Umbelliferone in the Synthesis of New Heterocyclic Compounds",
+      "citation": "Molecules. 2011 Aug 10;16(8):6833\u201343. doi: 10.3390/molecules16086833",
+      "license_code": "CC BY",
+      "license_url": null,
+      "files": [
+        {
+          "path": "PMC6264737.1/PMC6264737.1.json",
+          "size": 1543,
+          "md5": "d6dea27dc17f90e6b2aec185c4dea093",
+          "sha256": "da49b6252702e711a482ac6882ffc34d5d5484096c151ea85d0942d50e873371",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/PMC6264737.1.json"
+        },
+        {
+          "path": "PMC6264737.1/PMC6264737.1.pdf",
+          "size": 534766,
+          "md5": "5493209e181de8e0e67c7aaaaf834252",
+          "sha256": "90c132e9f2bad29566f0a0673dfccf0d800b072fdf29781bebdfec0f08f78397",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/PMC6264737.1.pdf"
+        },
+        {
+          "path": "PMC6264737.1/PMC6264737.1.txt",
+          "size": 27948,
+          "md5": "b4c74106fabade33aece78c53cab4878",
+          "sha256": "6bb935467c53112afbf596475346b93ce0381c200086b8a8042c1e6ca744ab86",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/PMC6264737.1.txt"
+        },
+        {
+          "path": "PMC6264737.1/PMC6264737.1.xml",
+          "size": 65002,
+          "md5": "43bd9424737e8199ec2fca8fa2126ada",
+          "sha256": "081af99ed5f9da1d39f81ed072cd8dfff31487e306921f1f707f3cd55f288778",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/PMC6264737.1.xml"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g001.jpg",
+          "size": 46460,
+          "md5": "e7f6bba792397fc17ef1e99b344880c0",
+          "sha256": "363db094f8d0e9b5b6dc236bd66f4e053f1aa33ba64176bd738a316851148d46",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g001.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g002.jpg",
+          "size": 49207,
+          "md5": "76a6a129e29ae776bb3c7ff0385bc987",
+          "sha256": "4f56de5baf3228442efdaabbc34e18a0a26d2813c893e6c8463e2099c8f60f12",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g002.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g003.jpg",
+          "size": 30322,
+          "md5": "1a96dd0cdc76860e70b1359306de9472",
+          "sha256": "28cbf31b05c28cdba94bb6f1060f5b6ad40abf8ebf2e45d55b3df2c256a6e0c7",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g003.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g004.jpg",
+          "size": 33695,
+          "md5": "12c1708afc7589cb57b12f3bf4be2211",
+          "sha256": "5b122e289f5e5faf8304181a8f5fb567d1d2527a8e04f47b59c663ed9b51b53e",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g004.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g005.jpg",
+          "size": 34660,
+          "md5": "0a07c49837c0d9b0dfd803ace418cd6e",
+          "sha256": "8c0012e462f342c50cb5fb8b1de8e4fa7e796df5fd7a1edad7f4e528960905bb",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g005.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g006.jpg",
+          "size": 30131,
+          "md5": "f4f53dce030e959d7599440716ec03d6",
+          "sha256": "e2cb8d7d5e0543b91e5b104067b6b5ebf9da7bb5d65a170d0faac4a3efcc15d2",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g006.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g007.jpg",
+          "size": 26102,
+          "md5": "2a823b83b00a44029897b091bf6fa38e",
+          "sha256": "0058a492b3a92f62fee9808a4f2838db20b4e5561c973307bda6e487914bfc69",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g007.jpg"
+        },
+        {
+          "path": "PMC6264737.1/molecules-16-06833-g008.jpg",
+          "size": 19752,
+          "md5": "2e1162fdbf9b51f8013122fbfffa4895",
+          "sha256": "c38c53e02fae3f832ae5aeaf4fbb53367334e4bf2932f804367fe72d04a9f6ad",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6264737.1/molecules-16-06833-g008.jpg"
+        }
+      ],
+      "scope": "All objects in the official PMC6264737.1 article prefix. One article only, not a complete PMC collection backup."
+    },
+    "payload_saved_to_local_disk": false,
+    "created_utc": "2026-10-30T06:43:32.803865+00:00",
+    "upload_http_status": 200,
+    "upload_checked_utc": "2026-10-30T06:43:51.643837+00:00",
+    "verified_utc": "2026-10-30T06:47:47.917161+00:00"
+  },
+  "pmc_inventory_backup_metadata_only": {
+    "item": "pmc-article-inventory-20261029",
+    "status": "verified_full_independent_readback",
+    "files": {
+      "manifest.json": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/2026-10-29T01-00Z/manifest.json",
+        "size": 2374,
+        "md5": "852607c14619c8f65eeb5feffb505297",
+        "sha256": "3db8c6cb6af48f5ba32f1260f6cd2d9e76d90ebf87ad45e40d08d9ec39e0c764",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:12.252968+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/manifest.json",
+        "verified_utc": "2026-10-30T06:53:15.796699+00:00"
+      },
+      "60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+        "size": 18865129,
+        "md5": "81bdb52a8a55f6718038c379e933fd94",
+        "sha256": "741e1d382891397c8ceeb23a057a0ddaaf7e3a7b687946430076f434c8595ce1",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:24.159931+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+        "verified_utc": "2026-10-30T06:53:18.990142+00:00"
+      },
+      "e016446d-3935-406d-82f1-2314493adf98.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+        "size": 22285179,
+        "md5": "3ab9d4d0d270425a048ed29b5a92ee98",
+        "sha256": "a254a80eb1fd7e592965be65ab6b3cdff15b163fbd26193864c685e04fb1f86d",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:31.303286+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+        "verified_utc": "2026-10-30T06:53:23.983084+00:00"
+      },
+      "615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+        "size": 24469406,
+        "md5": "d90e6b20f225a055be230534e787f0d0",
+        "sha256": "b1886e17e5b828521b2a7fc7de96e2d32049fd9e56dc4bc8df0f830783496bad",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:38.968447+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+        "verified_utc": "2026-10-30T06:53:28.626480+00:00"
+      },
+      "34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+        "size": 22432091,
+        "md5": "bcc223b43ae60d21c212c234afaebdc8",
+        "sha256": "86c07ab08994a10741aa35d47a284305db5925690f13a518b847e7c8b4b10699",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:46.609052+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+        "verified_utc": "2026-10-30T06:53:32.175946+00:00"
+      },
+      "801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+        "size": 25106377,
+        "md5": "bfcee7085a1a49e29156a7f578679d5a",
+        "sha256": "a76f437599c8a52aeb9598a023eea00c6848b8bf199318e76d0e1bbdfa225842",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:49:55.456435+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+        "verified_utc": "2026-10-30T06:53:35.905505+00:00"
+      },
+      "983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+        "size": 20270690,
+        "md5": "2ca6cf8862801be124dd2a05dcaaa36c",
+        "sha256": "3f318082c1204cec4631e5be2ae98fb36aef38b4766bab99932fcb851dbaa9cf",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:50:03.147870+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+        "verified_utc": "2026-10-30T06:53:39.032437+00:00"
+      },
+      "b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+        "size": 27912703,
+        "md5": "f66aa39e5626efbf9814fed5cc14bafd",
+        "sha256": "345dea7c37a1946c8e178f1d76951b4e88a2c0f9ca544f31aaa46c671eab927d",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:50:20.250301+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+        "verified_utc": "2026-10-30T06:53:43.089491+00:00"
+      },
+      "d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+        "size": 23589600,
+        "md5": "f30449b6e1845c6d1582879bf3a10d37",
+        "sha256": "27fb2b776e4f6ce0096d2f99b9728d497f3e5304a87e60a60f7f3a986a9ca76d",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:50:32.128728+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+        "verified_utc": "2026-10-30T06:53:47.024034+00:00"
+      },
+      "23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+        "size": 24443852,
+        "md5": "5fe296362b7a16f297859af68761d7e6",
+        "sha256": "e21050dab51f4d17339e97d8478273503a23dea952c431d1b022ee1ac7c7f666",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:50:57.061746+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+        "verified_utc": "2026-10-30T06:53:50.709300+00:00"
+      },
+      "7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+        "size": 20606431,
+        "md5": "576cb5b2b9906260c397e2f5cce7364c",
+        "sha256": "09520761db32dbfff70f978753ad9f3d063cb187db04ef31b6cea326209e9ce0",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:51:07.930788+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+        "verified_utc": "2026-10-30T06:53:55.599797+00:00"
+      },
+      "60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz": {
+        "source": "https://pmc-oa-opendata.s3.amazonaws.com/inventory-reports/pmc-oa-opendata/metadata/data/60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+        "size": 25230250,
+        "md5": "8d6977242171ba9da79a8a36c53b7833",
+        "sha256": "e6dd05d2979abdf87f56ea63868da17442efd61fe58f18e1d9dff18d24e13910",
+        "status": "verified",
+        "http_status": 200,
+        "uploaded_utc": "2026-10-30T06:51:15.949429+00:00",
+        "archive_url": "https://archive.org/download/pmc-article-inventory-20261029/60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+        "verified_utc": "2026-10-30T06:54:00.499033+00:00"
+      }
+    },
+    "payload_saved_to_local_disk": false,
+    "scope": "Metadata inventory only; does not preserve article files.",
+    "created_utc": "2026-10-30T06:48:53.863269+00:00",
+    "verified_utc": "2026-10-30T06:54:00.500163+00:00"
+  },
+  "pmc_archive_current_availability": {
+    "checked_utc": "2026-10-30T07:08:14.176523+00:00",
+    "items": [
+      {
+        "item": "pmc6264737-complete-oa-snapshot-20261030",
+        "is_dark": false,
+        "files": [
+          {
+            "name": "PMC6264737.1-complete.tar.gz",
+            "size": "774080",
+            "md5": "b4e095901bb367a755bad41f5450f2ab",
+            "sha1": "c67e851a83fad0ad84d8562df062e7f47381cab6"
+          }
+        ],
+        "service_generated_files_excluded": 1,
+        "all_expected_uploaded_files_present": true
+      },
+      {
+        "item": "pmc-article-inventory-20261029",
+        "is_dark": false,
+        "files": [
+          {
+            "name": "23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+            "size": "24443852",
+            "md5": "5fe296362b7a16f297859af68761d7e6",
+            "sha1": "d341044184edb0cedc8c11fe2bd305f2319e9ab5"
+          },
+          {
+            "name": "34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+            "size": "22432091",
+            "md5": "bcc223b43ae60d21c212c234afaebdc8",
+            "sha1": "c868a4444d7bdda65baebef292e63b2af1db5df4"
+          },
+          {
+            "name": "60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+            "size": "18865129",
+            "md5": "81bdb52a8a55f6718038c379e933fd94",
+            "sha1": "fb332c1390709a85bcc5f3c72387515f63524ca8"
+          },
+          {
+            "name": "60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+            "size": "25230250",
+            "md5": "8d6977242171ba9da79a8a36c53b7833",
+            "sha1": "fb162a6d28b51e8fada8bb11f88b5bc5e6415a11"
+          },
+          {
+            "name": "615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+            "size": "24469406",
+            "md5": "d90e6b20f225a055be230534e787f0d0",
+            "sha1": "26e6bcd4587ee90adc7a9f43da6930eae966aa68"
+          },
+          {
+            "name": "7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+            "size": "20606431",
+            "md5": "576cb5b2b9906260c397e2f5cce7364c",
+            "sha1": "671f5105156fa7996df56fff337550b4959f8678"
+          },
+          {
+            "name": "801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+            "size": "25106377",
+            "md5": "bfcee7085a1a49e29156a7f578679d5a",
+            "sha1": "af414b10a978622b9695f5ba99abb92f8ea093d8"
+          },
+          {
+            "name": "983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+            "size": "20270690",
+            "md5": "2ca6cf8862801be124dd2a05dcaaa36c",
+            "sha1": "da10cc26ae211a14895ca742227a0bf3e8635498"
+          },
+          {
+            "name": "b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+            "size": "27912703",
+            "md5": "f66aa39e5626efbf9814fed5cc14bafd",
+            "sha1": "0b7db26f57b7ae863e508289228b6531279bfd0d"
+          },
+          {
+            "name": "d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+            "size": "23589600",
+            "md5": "f30449b6e1845c6d1582879bf3a10d37",
+            "sha1": "92eaf4a83c387280f4e269b3733cb676c3a849f2"
+          },
+          {
+            "name": "e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+            "size": "22285179",
+            "md5": "3ab9d4d0d270425a048ed29b5a92ee98",
+            "sha1": "33f48b0865c8926c60158dff5ec14cecacaec93d"
+          },
+          {
+            "name": "manifest.json",
+            "size": "2374",
+            "md5": "852607c14619c8f65eeb5feffb505297",
+            "sha1": "0a56bf5d9178e5ed80043b136ffd0b5ec9614fdf"
+          }
+        ],
+        "service_generated_files_excluded": 1,
+        "all_expected_uploaded_files_present": true
+      }
+    ]
+  },
+  "pmc_size_estimate_not_exact": {
+    "sample_size": 128,
+    "successful": 127,
+    "oa_entries": 114,
+    "oa_sample_bytes": 634975832,
+    "oa_projected_bytes": 47336533310424.76,
+    "oa_standard_error_bytes": 9046711894367.701,
+    "max_sample_article_bytes": 87846225,
+    "warning": "Statistical estimate from 128 inventory entries, not exact size or proof of coverage. All versions and original available files are counted for OA entries."
+  },
+  "europe_pmc_sample_xml_checks": {
+    "observed_utc": "2026-10-30T06:53:03.577879+00:00",
+    "tested": 114,
+    "full_xml_retrieved": 114,
+    "identical_xml": 0,
+    "results": [
+      {
+        "pmcid": "PMC7917946",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 83119,
+        "sha256": "70ca2ff0dc6e4b9a0c106b1a25ea8bff76ea33ff827ff073178f16a8e6affaba",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9052476",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 118357,
+        "sha256": "77e24695635e3cad009747c89b3acdfe848fe698bd78feb9dc1648e7836620f4",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5663815",
+        "version": 2,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 150993,
+        "sha256": "612a5dc91ad34d72e5d23f87c2b7e2c362913d04a85ede0cea48da30ce7adc6a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9126558",
+        "version": 1,
+        "license": null,
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 10296,
+        "sha256": "fe604df7c2d208bd1e43cd0cfc741a09871b8f2db748d6420ed0e152279c93d6",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5118675",
+        "version": 1,
+        "license": null,
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 68363,
+        "sha256": "653116a84ead1c6c424b1277bcda43b8cdcba2f73de6e515f701cfb6cf24f9bb",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7470317",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 5763,
+        "sha256": "9408434f6c9799cb5f40c7acb4ac252544f369919e010def51ca9e3d59317db4",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4626855",
+        "version": 1,
+        "license": "CC BY-NC-SA",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 123447,
+        "sha256": "48a5fdd1ace4765783f876f29139a1905530cadbc6d83a95d30deda5ca86594c",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6387261",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 126097,
+        "sha256": "6a6d5830a3a03ab46548530a6a3689c6d664a0503baed77c110f22033b38aed3",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13049687",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 118935,
+        "sha256": "089cd42cbeb328b1743964645c2fcbbd5cdca03541b44d66be0b361005150bad",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8982349",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 218778,
+        "sha256": "f906da160b3aaeff1a349a08d1a1e4e75b01b0e7cd2f22276fd04c0f3eb6de44",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12298027",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 126560,
+        "sha256": "b9ed2acef8196aa7e4fb312ca28c911659ecf7f9698730e5b6e6893ce402120c",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6522430",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 33677,
+        "sha256": "627bd8e960d43adb59e733f4cf0cc795800145cff76c42f9f5ca1d31e3036c7e",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8408896",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 362322,
+        "sha256": "2550e1e31c371ccf115b95dbb749fdd9bdbe38e3909948a1959a0e52580cc29b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6264737",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 70462,
+        "sha256": "d4d7e98814ecef9a21d61ef360f4993f021d79501a557d5bae305dddd1b98452",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10947091",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 66998,
+        "sha256": "e1409ca6ef808de34aebe71756f11b35e188280dc97c972a511d7e4c6c337887",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11322524",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 143026,
+        "sha256": "1d98b8bc430be27a40e5885cad5ed3a66e4a7cd0b30f2a1c426375129c6b0b9e",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7707813",
+        "version": 1,
+        "license": null,
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 86852,
+        "sha256": "9819d1e8bc8652b9f3b2a68a68b9485a29184dcdea9463c47a857817648d6356",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11846890",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 237482,
+        "sha256": "79e3f2e7a7e58fec844f2b57dbb104e46842b730235149a32aed49c7f7e71b8e",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12318546",
+        "version": 1,
+        "license": "CC BY-NC-SA",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 48489,
+        "sha256": "a4dc9f61e5eb9d06dbf2731ac3acf48cd8818e404977cbcd2a0732185172e83d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8696924",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 114699,
+        "sha256": "cbab54b8dddfc8099dcfdec69146cec0b142c5ec621419f72c035e9104dc9620",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4717311",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 113497,
+        "sha256": "39e153ad5ba590cf96040b558be17693f27144a1f16eb5096497407a47b5f6ec",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8611472",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 38016,
+        "sha256": "5d1359d937bd0aa40e79874cb8f7dc04b1423ac9b45218dc625f0f892c607a1b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3555588",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 62370,
+        "sha256": "89c398cbc8b10fb9200325a6294d6711469e4923a329ea085f4c6a999e565375",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10688902",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 255780,
+        "sha256": "883b251a5adce18aa0fdf162f6c1f18badfb2afb83634e6db4e4ff8308e61e58",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9723487",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 67168,
+        "sha256": "b491e25d3441529d966e10193d7b3c7ed66ffe2b311870b0d63af77d3668e2fd",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10671505",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 123526,
+        "sha256": "54f1b18d89f1d8510864b1c5b53e29a9a6dacbaa7c1b1bdac90b9ba3f8287ce6",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3704766",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 198301,
+        "sha256": "c9d1b4d4b529b96d446f0f5f784dc9503ae050bca6ace08f6aca6f355aea4836",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6780736",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 98826,
+        "sha256": "bd9582b816493678f7df06a4060dc776e42e95611d5accf74b5250dc38af87f4",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6751884",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 99157,
+        "sha256": "ff5df0a82c45d030ce30e8c7c34758f1d90af9dbeaa7193ac8ad1fef0e3afa7a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9180870",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 117346,
+        "sha256": "9b5387466993dd84b5490987cfdd22cd5d7c007e3a98cdaf0da534f73fff2909",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10688283",
+        "version": 1,
+        "license": "CC BY-NC-SA",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 100625,
+        "sha256": "f580b78a8315da8fc2db75de6e2d97dab6c0bbc0a2cbc0c21dbaa23c6be463d6",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10116370",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 38946,
+        "sha256": "33bfc99baa19a09bf697cc7dea8d32776ac0c17b58b4ef615e1f0f565e3d2717",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13124431",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 106242,
+        "sha256": "08f0ede2a75f323202ae55174f5b5d973ef6d7cff59238ef2287d54444fb951e",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11907013",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 7148,
+        "sha256": "bf179de4747c37d494d2ee0795f3bffb4175e8237969c05cc580830704695cec",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6699712",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 169787,
+        "sha256": "83d86f241cb93f12de551482aa5bc8d55f4cde34c6e7ab6cb60e37259fc21cee",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8680406",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 5450,
+        "sha256": "6273e7f09785659ca8283d0fd85d7b3c131548f930d5658da57bf3499461970a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3461029",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 86791,
+        "sha256": "540a07293389942fe1789c4ca652b719053f62448985f3307857cc202e594cb8",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10384683",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 121802,
+        "sha256": "5ca9f1f1819c37ff1124e7d99897d8abb32945b5d360598794723d0de111efbf",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6304568",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 95712,
+        "sha256": "9f492003152641c409c44ab877e51556da3372b2fadf6a9d4ae0f7d880ab4a5f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3357279",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 33329,
+        "sha256": "44303294719165e9bab0d4db573d040b062fe1a576d27547c14cb3b44a4e546d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9324834",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 122403,
+        "sha256": "9f3b94f3ab7aff650237cb0aca354715695396b6c45b6d7771d9c926354d4b14",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6220437",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 153086,
+        "sha256": "8e3d5b983bb223c37ac562aa1e5bbc98c17cbf6e75f6807aea19388f60d68e8d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4515932",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 101374,
+        "sha256": "e9d2af7bbd0e4077a3581af8179fe97d8e7ec7378e5000316daf14d841f1e49a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8595049",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 67494,
+        "sha256": "82a1eb48c318579149d234163502abe9ca89a813cfb7f6aac21d489986006083",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6203176",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 118789,
+        "sha256": "b3d9cdb22bb0a238e05cd3b0f42b63eac3382fb7c0d873f2fb1a7d516fc4d74c",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6783474",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 152390,
+        "sha256": "e01aa6b310e93e87a3ae5d3a0f21ab73974922d3fb09c1e70342433f243b8810",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5715118",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 93347,
+        "sha256": "9beb069188ddee5b552cdcf33f7eb7a8b0d5af9c79d1c01aa685e3cc59212f5a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4091766",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 59602,
+        "sha256": "eef2659d806a09547a74df0996770c3c360ca14c74cebe7084c4fe2ba6d557ac",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3415678",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 79510,
+        "sha256": "c42076665cfb263d894097dc96b8820ce55b7e1e78d6bdd248fc7a0340436640",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5058757",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 57490,
+        "sha256": "7c399997b5b985305ed95de2dc6ac5dcd33371aadb53b1c8028638c55692214b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11743846",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 155146,
+        "sha256": "71f051f91be17048d4652534a1549d329afdef84e0c2e9ee222cd12ce9041339",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8358113",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 111324,
+        "sha256": "591716a05d486754d332913891cbfaee3ef1f22693eaf8be32c4fd194868355b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9268422",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 139482,
+        "sha256": "2201018ac2d20f799a0906e0a57c79db7df77af2e78a3fc3b3742de577cb7e6a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7308044",
+        "version": 1,
+        "license": null,
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 170515,
+        "sha256": "095ce772f32c2fbd7c6caecbcc2b4f336965517ffcdce5765bd7792f3187764f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6078235",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 80312,
+        "sha256": "3ded16fad1ed2971446d86776beca028fb5db7f6ef603a859fd994706049b5d6",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4785518",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 37007,
+        "sha256": "12cad832c5746b3ce47fede778d150be340568ded4cb60aef5f4a2a658c9bfc5",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3577506",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 121112,
+        "sha256": "f569561052f30d4bd0b1bf51c63a28895c23817e8357b3b10d035a4a2af6f1e2",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3660574",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 86657,
+        "sha256": "ebcf956e938756764993093dcaf4a90b2467f7fc575fc139769f6535f2ddb8bf",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10774671",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 104934,
+        "sha256": "c46b9107d48ed46fe5b88ff3bb6075bab316e862b2de629fd77eae3f2fbd8d21",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10075154",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 233992,
+        "sha256": "18c4959e24c200a83daba65e461c3a54c4693f2ece9fa25a05b1255c78000755",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12293423",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 159610,
+        "sha256": "a40dea28c5c6e6fde0e7ea3b8a44b8a7a6e61bf005667a6df019d2f21996a105",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10880010",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 87740,
+        "sha256": "0660f107a230112e1979e61b0c01f56ba05e50da7a2a64ee214901dce08d54d4",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3123594",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 89655,
+        "sha256": "911c3f56807bb5f0d2a0e976d2345fded829c2fe43eb72522e9be196159a8528",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11100273",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 163403,
+        "sha256": "62d14ba942f7ab71c4aff3855dd6deda28017c0a7775247db7dd009c7ae97c03",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13421445",
+        "version": 2,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 501454,
+        "sha256": "5e9d584da800133e662b915933ef6e35e6cd7244d370f6ed2afc3fe8b0e43f62",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13623327",
+        "version": 1,
+        "license": "CC BY-NC-SA",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 87638,
+        "sha256": "ccc72c3bf4dc43f94b84cfbed1522edba4b6f6488aab8f6d5cd8b659c13b3695",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8427594",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 79598,
+        "sha256": "14088fb492a02ce600bdd9d42c60ff99937e4d09bef8386aaf6691306b8fd5a9",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC9126479",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 58849,
+        "sha256": "42cb05e93d46ceb0f6e27d2c4c12ef0f7eca2a4e8e71b76f293c13df623c6539",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5087437",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 58079,
+        "sha256": "45e3e86790ddcf8bd2e58fd623874612e6bb3f56ccf514eb9632f5924669397a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11075071",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 32477,
+        "sha256": "cea6dfc6c9f1575d5c1e19b461527f5162945e0040043b6ae04748f0058d3377",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12455658",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 101331,
+        "sha256": "44198116761826871b7a6c9638b32e567c60d0bb04830db3556c1ed17bca4e8f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7071099",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 74505,
+        "sha256": "b453037fb700cfd8458fe1a6ce7544969452eca8e17fb9fe2a08ff112ec6e23b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13195597",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 146695,
+        "sha256": "dad1fb9954a298ccdee18950212a1f35aa450aaa369f48244c5f9210c76e2491",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12495905",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 78139,
+        "sha256": "44b339cfff07675566e9c978f19b0fb1f75ceb85816dad2506e14fba006b1908",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13670165",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 195722,
+        "sha256": "61e0c734890419174abf7829fa1473f8355ff9a2f04df443e95f1782e95cf6a7",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5224112",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 11933,
+        "sha256": "13278be3c8006009a2ff0755798ad8af8cb80200a59b4d5d671d521341971e47",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5206450",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 7227,
+        "sha256": "bc4bc8c915a7784aa6019a61ab5cd76504c5c254b80ea1e8500b1744823b4355",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3824111",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 131546,
+        "sha256": "9857f537a0118b3a4ac7b7e4eb6bd9a76c69f63ccd83417819a54f81c987728c",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11435564",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 107136,
+        "sha256": "6e0d52fc8b9ab01d5db35e0dfd04280cb1b32e701f98ef33cfb507c0e83cb3d2",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11149364",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 7770,
+        "sha256": "c3134ee5feb1e87dbb6c02ce09831a3d077913acf44607e212341e7a8408e2eb",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3608995",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 58225,
+        "sha256": "9bc7e39481b888a55d946a323cffecbf07705c68dcbd31e4249fcb40e7699c8d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7744517",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 123038,
+        "sha256": "5147ba6a0d6fb75a47ecbae6213af237c56046627131dcbd52ac60e52731786d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5667468",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 117941,
+        "sha256": "dd7d413fbbbe5e11b5ad81e61830814766588e1a02e716ebe3d7a859ee63f3af",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10834199",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 69921,
+        "sha256": "cbab48703ca504e0912778ed8c817683fa0aeb4cd1f612d248d3a0dcabfa0fb7",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7002138",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 125960,
+        "sha256": "59b3cbbcb7e3af97c0d5abdcc317ccbd3032a2917c5c6b1c9a7ca5f946eebc9d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11783698",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 76552,
+        "sha256": "c5a07bd4d5956014a280f0def27a503d8e01bb46ca9424ada441d95a9f80b276",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5598433",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 195356,
+        "sha256": "a187f753bb67a4a0db9fc4e92103a0d61391b5debd6406b1f093882a1d040764",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC6769983",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 134337,
+        "sha256": "5b95f7b96886ca4d71d7360f4d9a9a393304624fc29b4a745d95cbde860f8e1b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10871562",
+        "version": 1,
+        "license": "CC BY-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 148648,
+        "sha256": "f3a32f32513fddebb7c63491495f2ad16c5c387216e0277f8dd98dc7e15fbf26",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5893270",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 94873,
+        "sha256": "755e48fdc3b35493acdcab78cdb0b3ffd17b02531507989b4fd17574d1e56577",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4044066",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 10957,
+        "sha256": "437bf9303a8bef5f45692ab519671132c0b72591e487a57ad9d8393840b22a1b",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4051117",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 63165,
+        "sha256": "93f57af21ac9cf78e285cf3e521abb99e9a9dbcf32d8d97b2fe9d3baed3a4900",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4594433",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 77440,
+        "sha256": "99f1ee67f08f1622f850a10bcd27f4bf3c00004e4f9b08633912177b638b425d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10866051",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 112487,
+        "sha256": "f81446bc33683b140914b9be9288f6350c971196dc517e118ab1387e6985eef2",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11264421",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 180651,
+        "sha256": "c4a53344976aa66458ef355b7387d71ff5e62c6918dcd4f33a2f760088d26bbe",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7943544",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 73681,
+        "sha256": "7809e90269ce6b810a5eeb9bbd80be3dfe32deb503948996f71cdfd4bcdb9ea4",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7610642",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 81066,
+        "sha256": "97471b19e9ad0b3be7f5de5517661e0cf5e13bf04941c4f61e1cbcf9b6317772",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8883561",
+        "version": 1,
+        "license": "CC BY-NC",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 30780,
+        "sha256": "d32b9e6c4c885497c4252119a794004aa48c2f7f0009d9246f6c4631895fdb30",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC13476947",
+        "version": 2,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 51551,
+        "sha256": "7aa5da842bab3a7a839eb2fbe96433e4ff8144d3583df825dc3e318ae66b6049",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC5334611",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 81693,
+        "sha256": "959c7b600acb83b080aeb9aa13e7103a96548839e01ca770570dc000a451579f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC4743931",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 172285,
+        "sha256": "9a7030b37aa2960c58cbcafca64868dae58e6c4b7e93fc7defec4d638884527a",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10750286",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 124724,
+        "sha256": "b8d9ad5ed733101e6483edcc154e9f6e5da288e96826f397660b9018fdaa83eb",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3511672",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 107313,
+        "sha256": "65787a55b202b433e796b78faba10ef4615642794c4777b8560a3448a7179e8e",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12644233",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 193483,
+        "sha256": "9889615d9616c7965999f57285be3c3342a4aa5b5ade944384b2feb2ffa7eda3",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC8917867",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 114749,
+        "sha256": "b03bd1a65b1195d4513664fd8e68a0cff6359fc7d2680b9eb8fa6552f2e77f2d",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7849928",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 64062,
+        "sha256": "6bb26c8cfe6a34a4bbb5f8945101fc5d497070c97155e0073faf0e52a2e21262",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11589714",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 94368,
+        "sha256": "9db3145660d015a39b632e9d0536b2bde06a4ff66a22efd94dfca6a559d1188f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC7153755",
+        "version": 1,
+        "license": null,
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 162163,
+        "sha256": "f6f623ac87e79f5142172bfbe83cae10392b3231df57b0493f42b00a38316673",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC3471821",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 96526,
+        "sha256": "4e820389405985c4a9e96369fe854fb87fed26b9c54d115d5755315990193a78",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10210411",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 125658,
+        "sha256": "306ab8fa94552c8a15a13413b64cf047b0a23768baa30976b6030807606bcbe9",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11676729",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 97225,
+        "sha256": "bdbf2521c600b43ffa4fcb09fe7df24897bd9e86b1a58094a95ae1327b3bb940",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC11411802",
+        "version": 1,
+        "license": "CC BY-NC-ND",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 200373,
+        "sha256": "8e46073b81a041db6cd35daf8f57a7337dae5309a216c96bd2a1f3932523b4d6",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC10933987",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 292486,
+        "sha256": "49a8f655f552fbde0123a07418396bc941e12164b18f9b2e9dbf718c2aae121f",
+        "matches_source_md5": false
+      },
+      {
+        "pmcid": "PMC12467875",
+        "version": 1,
+        "license": "CC BY",
+        "final_host": "www.ebi.ac.uk",
+        "status": "full_xml_retrieved",
+        "bytes": 164705,
+        "sha256": "934e3d53a8861743b7252e863b7a060b534a949626619eb3a3318c9ad54c3ecb",
+        "matches_source_md5": false
+      }
+    ],
+    "limitation": "Sample only. Successful current mirror reads do not prove complete coverage, immutable retention, or every article asset."
+  },
+  "europe_pmc_sample_supplement_checks": {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10009416/supplementaryFiles",
+    "zip_sha256": "c6da0e52aeb315f303c52bee041aeda500e79ac83b8e5e0581789c47ded079e8",
+    "files": [
+      {
+        "name": "NPR2-43-85-g001.jpg",
+        "size": 46032,
+        "md5": "398150948786a4394a2516b9adb1483f"
+      },
+      {
+        "name": "NPR2-43-85-s001.xlsx",
+        "size": 696554,
+        "md5": "881452c4a99a98cefb90d0f7be677d82"
+      }
+    ]
+  },
+  "published_inventory_id_comparison": {
+    "started_utc": "2026-10-30T07:02:03.493182+00:00",
+    "completed_utc": "2026-10-30T07:28:44.178417+00:00",
+    "source_inventory_date": "2026-10-29T01-00Z",
+    "source_inventory_entries": 9467667,
+    "source_unique_pmcids_all_subsets": 9306417,
+    "source_inventory_files": [
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/60b77f2d-b5fb-4c5a-8e83-4585c92918d6.csv.gz",
+        "md5": "81bdb52a8a55f6718038c379e933fd94",
+        "bytes": 18865129
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/e016446d-3935-406d-82f1-2314493adf98.csv.gz",
+        "md5": "3ab9d4d0d270425a048ed29b5a92ee98",
+        "bytes": 22285179
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/615ae688-3fc4-4e69-982a-0107c93ea7c2.csv.gz",
+        "md5": "d90e6b20f225a055be230534e787f0d0",
+        "bytes": 24469406
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/34d9cf9e-1467-428e-a95e-51d025935e7e.csv.gz",
+        "md5": "bcc223b43ae60d21c212c234afaebdc8",
+        "bytes": 22432091
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/801aba08-3d44-4891-9002-7f3dba3b7496.csv.gz",
+        "md5": "bfcee7085a1a49e29156a7f578679d5a",
+        "bytes": 25106377
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/983ffde4-720e-450c-8d2b-259a8ef7a962.csv.gz",
+        "md5": "2ca6cf8862801be124dd2a05dcaaa36c",
+        "bytes": 20270690
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/b84de5fd-3be7-4fda-a82e-5dfd554a4e69.csv.gz",
+        "md5": "f66aa39e5626efbf9814fed5cc14bafd",
+        "bytes": 27912703
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/d34ec30b-4fed-4ed7-a42a-1cad712ac3d5.csv.gz",
+        "md5": "f30449b6e1845c6d1582879bf3a10d37",
+        "bytes": 23589600
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/23f848e9-4fd8-48ac-8506-704a53797e87.csv.gz",
+        "md5": "5fe296362b7a16f297859af68761d7e6",
+        "bytes": 24443852
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/7cf7b918-1bfe-4108-a25b-ffef05f09b50.csv.gz",
+        "md5": "576cb5b2b9906260c397e2f5cce7364c",
+        "bytes": 20606431
+      },
+      {
+        "key": "inventory-reports/pmc-oa-opendata/metadata/data/60faf866-bf7e-4c8b-9b6a-476b4250659f.csv.gz",
+        "md5": "8d6977242171ba9da79a8a36c53b7833",
+        "bytes": 25230250
+      }
+    ],
+    "mirror_url": "https://ftp.ebi.ac.uk/pub/databases/pmc/PMCOALiteMetadata/PMCOALiteMetadata.tgz",
+    "mirror_last_modified": "Mon, 26 Oct 2026 01:01:03 GMT",
+    "mirror_compressed_bytes": 615400341,
+    "mirror_sha256": "11d1b6416b8eb065cc1066d62407f9d46d15b894967646b5a5e5b88db0090d7d",
+    "mirror_xml_files": 25,
+    "mirror_records": 3265307,
+    "mirror_oa_eligible_records": 3265307,
+    "mirror_unique_oa_pmcids": 3265307,
+    "shared_pmcids": 3247591,
+    "source_pmcids_absent_from_mirror_oa_inventory": 6058826,
+    "mirror_oa_pmcids_absent_from_source_inventory": 17716,
+    "lowest_missing_ids": [
+      "PMC139413",
+      "PMC193660",
+      "PMC308832",
+      "PMC383319",
+      "PMC441500",
+      "PMC466934",
+      "PMC466935",
+      "PMC466936",
+      "PMC466938",
+      "PMC466939",
+      "PMC466940",
+      "PMC466941",
+      "PMC466942",
+      "PMC466944",
+      "PMC466945",
+      "PMC466946",
+      "PMC466947",
+      "PMC466948",
+      "PMC466949",
+      "PMC466950"
+    ],
+    "highest_missing_ids": [
+      "PMC13716505",
+      "PMC13716506",
+      "PMC13716513",
+      "PMC13716514",
+      "PMC13716515",
+      "PMC13716516",
+      "PMC13716517",
+      "PMC13716518",
+      "PMC13716527",
+      "PMC13716528",
+      "PMC13716529",
+      "PMC13716530",
+      "PMC13716531",
+      "PMC13716532",
+      "PMC13716533",
+      "PMC13716534",
+      "PMC13716535",
+      "PMC13716536",
+      "PMC13716537",
+      "PMC13716538"
+    ],
+    "bulk_payload_saved_locally": false,
+    "limitation": "Source inventory includes OA articles, manuscripts, and article versions, while mirror inventory is OA only. Missing source IDs therefore include ineligible content as well as possible date lag. This is NOT an OA completeness percentage, a file-level verification, or a created article backup."
+  },
+  "selected_inventory_omissions_live_checks": {
+    "checked_utc": "2026-10-30T07:29:48.656529+00:00",
+    "query": "PMCID:PMC139413 OR PMCID:PMC193660 OR PMCID:PMC308832 OR PMCID:PMC383319 OR PMCID:PMC441500 OR PMCID:PMC13716534 OR PMCID:PMC13716535 OR PMCID:PMC13716536 OR PMCID:PMC13716537 OR PMCID:PMC13716538",
+    "result_count": 5,
+    "results": [
+      {
+        "pmcid": "PMC139413",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": null,
+        "source_metadata_available": true,
+        "live_mirror_matches": [
+          {
+            "id": "11521679",
+            "source": "MED",
+            "pmcid": "PMC139413",
+            "isOpenAccess": "Y",
+            "inEPMC": "Y",
+            "title": "Genome cartography through domain                    annotation."
+          }
+        ],
+        "full_xml_check": {
+          "status": "retrieved_complete",
+          "bytes": 57815,
+          "sha256": "e116092a70640e37210369263dfa43c766719aa030df427ef50c90cbf3d08fdc",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC139413/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC193660",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": null,
+        "source_metadata_available": true,
+        "live_mirror_matches": [
+          {
+            "id": "12734009",
+            "source": "MED",
+            "pmcid": "PMC193660",
+            "isOpenAccess": "Y",
+            "inEPMC": "Y",
+            "title": "DAVID: Database for Annotation, Visualization, and Integrated Discovery."
+          }
+        ],
+        "full_xml_check": {
+          "status": "retrieved_complete",
+          "bytes": 82193,
+          "sha256": "f32ce56c35ccd9010a80582b7ee19484ec309dac08fb14eec82c347e3dcb8e9d",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC193660/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC308832",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": null,
+        "source_metadata_available": true,
+        "live_mirror_matches": [
+          {
+            "id": "14681415",
+            "source": "MED",
+            "pmcid": "PMC308832",
+            "isOpenAccess": "Y",
+            "inEPMC": "Y",
+            "title": "VirGen: a comprehensive viral genome resource."
+          }
+        ],
+        "full_xml_check": {
+          "status": "retrieved_complete",
+          "bytes": 34000,
+          "sha256": "d23191232f71fa2d0a28b4ef7efe49a4fcebede6af62ca01135f3d7e78ab38c3",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC308832/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC383319",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY-NC",
+        "source_metadata_available": true,
+        "live_mirror_matches": [
+          {
+            "id": "15060016",
+            "source": "MED",
+            "pmcid": "PMC383319",
+            "isOpenAccess": "N",
+            "inEPMC": "Y",
+            "title": "The Atlas genome assembly system."
+          }
+        ],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC383319/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC441500",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": null,
+        "source_metadata_available": true,
+        "live_mirror_matches": [
+          {
+            "id": "15215347",
+            "source": "MED",
+            "pmcid": "PMC441500",
+            "isOpenAccess": "Y",
+            "inEPMC": "Y",
+            "title": "CVTree: a phylogenetic tree reconstruction tool based on whole genomes."
+          }
+        ],
+        "full_xml_check": {
+          "status": "retrieved_complete",
+          "bytes": 33316,
+          "sha256": "65a4ebf560f76b063924c0ce56a04fe21e0aa501a046a53400523dba63a558c1",
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC441500/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC13716534",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY",
+        "source_metadata_available": true,
+        "live_mirror_matches": [],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13716534/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC13716535",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY",
+        "source_metadata_available": true,
+        "live_mirror_matches": [],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13716535/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC13716536",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY",
+        "source_metadata_available": true,
+        "live_mirror_matches": [],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13716536/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC13716537",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY-NC",
+        "source_metadata_available": true,
+        "live_mirror_matches": [],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13716537/fullTextXML"
+        }
+      },
+      {
+        "pmcid": "PMC13716538",
+        "absent_from_bulk_metadata": true,
+        "source_open_access": true,
+        "source_license": "CC BY-NC",
+        "source_metadata_available": true,
+        "live_mirror_matches": [],
+        "full_xml_check": {
+          "status": "http_error",
+          "http_status": 500,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13716538/fullTextXML"
+        }
+      }
+    ],
+    "limitation": "Ten selected identifiers only; no completeness inference."
+  },
+  "openmidnight_fork_checks": {
+    "checked_utc": "2026-10-30T07:01:42.379226+00:00",
+    "repos": [
+      {
+        "repo": "MedARC-AI/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "raaaaaif/preserved-OpenMidnight-20261029",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "anishdulal/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "saman-rahbar/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "rbiju/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "shindm/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "nevasini1/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "warner-benjamin/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "jbdel/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "anas-zafar/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "Dojo2024/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "mchen-caris/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "samikama/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "Leema-Krishna-Murali/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "dat-rohit/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "asit2898/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "achi2023/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "ahmedhassayoune/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "gnaneshrasineni/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "tmgsr02/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "sagarigrandhi/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "fimm-lundin/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "os01/ai-bio-OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "maubreville/OpenMidnight",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "vectorwembanyama/path-fm",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "josh28x/path-fm",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      },
+      {
+        "repo": "omicron1100/path-fm",
+        "releases": [],
+        "truncated": false,
+        "weight_candidates": []
+      }
+    ]
+  },
+  "openmidnight_code_search": {
+    "query": "teacher_checkpoint_load.pt",
+    "results": [
+      {
+        "url": "https://github.com/mahmoodlab/TRIDENT/blob/bdeeb74b7eaad8d48bda232bde7de66cae980918/trident/patch_encoder_models/load.py",
+        "path": "trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/birkhoffkiki/PrePATH/blob/9beb0ad5e71d2b49374511cfc36febddc59eb8cf/models/openmidnight.py",
+        "path": "models/openmidnight.py"
+      },
+      {
+        "url": "https://github.com/AtlasAnalyticsLab/AtlasPatch/blob/50574a53ef22eca890a9895755eb52be7bb9a85c/atlas_patch/models/patch/openmidnight.py",
+        "path": "atlas_patch/models/patch/openmidnight.py"
+      },
+      {
+        "url": "https://github.com/MICS-Lab/thunder/blob/be25af613fc532257d7c4c2418f12d0c3a18cc83/src/thunder/models/download.py",
+        "path": "src/thunder/models/download.py"
+      },
+      {
+        "url": "https://github.com/pathology-data-mining/Mussel/blob/6602000989694c2e213347080b9d57274d26747b/mussel/models/openmidnight.py",
+        "path": "mussel/models/openmidnight.py"
+      },
+      {
+        "url": "https://github.com/technoplasm/wsi-toolbox/blob/f1337afaf0392be251f2b696fe76d05d48898378/wsi_toolbox/presets/tile/midnight.py",
+        "path": "wsi_toolbox/presets/tile/midnight.py"
+      },
+      {
+        "url": "https://github.com/MICS-Lab/thunder/blob/be25af613fc532257d7c4c2418f12d0c3a18cc83/src/thunder/config/pretrained_model/openmidnight.yaml",
+        "path": "src/thunder/config/pretrained_model/openmidnight.yaml"
+      },
+      {
+        "url": "https://github.com/rendeirolab/lazyslide-models/blob/5ea50772154fffd4c79bcf9c25259689aa0ea10e/src/lazyslide_models/vision/open_midnight.py",
+        "path": "src/lazyslide_models/vision/open_midnight.py"
+      },
+      {
+        "url": "https://github.com/calebhallinan/kidney_segmentation/blob/b5b2f7796b5623803dafb1f5c6563d7474776a50/README.md",
+        "path": "README.md"
+      },
+      {
+        "url": "https://github.com/BasitAlawode/MLLM-HWSI/blob/68f33ac7e56625cdd3551ecb5a43cf55ae52a454/trident/patch_encoder_models/load.py",
+        "path": "trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/chadvanderbilt/GOLDMARK/blob/69406f1fc07dbc237993ba3fc6f9f4126c9464bb/goldmark/features/canonical_sources.py",
+        "path": "goldmark/features/canonical_sources.py"
+      },
+      {
+        "url": "https://github.com/calebhallinan/kidney_segmentation/blob/b5b2f7796b5623803dafb1f5c6563d7474776a50/src/kidney_panoptic/models/encoder.py",
+        "path": "src/kidney_panoptic/models/encoder.py"
+      },
+      {
+        "url": "https://github.com/edmund-code/pseudostructure-reconstruction/blob/e2ddde512bfa22e779137f3ac8a71ae0f38d758e/segmentation/src/kidney_panoptic/models/encoder.py",
+        "path": "segmentation/src/kidney_panoptic/models/encoder.py"
+      },
+      {
+        "url": "https://github.com/RyanKim17920/pathopress/blob/49ae2903225282c12d9012189f9b3a76d435d094/scripts/extract_group_b_official_scores.py",
+        "path": "scripts/extract_group_b_official_scores.py"
+      },
+      {
+        "url": "https://github.com/DivyanshuTak/posthoc_refinement_SAE/blob/7d4b44c3ac0548699d2f878e888ea15db22a70cd/sae_adapter/config_openmidnight.yml",
+        "path": "sae_adapter/config_openmidnight.yml"
+      },
+      {
+        "url": "https://github.com/fanqicheng/VLM-benchmarking/blob/d8a5e95cdc33649fd69128502abc1288ecfcf8b8/preprocessing/trident/patch_encoder_models/load.py",
+        "path": "preprocessing/trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/RyanKim17920/pathopress/blob/49ae2903225282c12d9012189f9b3a76d435d094/source_data/openmidnight_technical_report_2025.csv",
+        "path": "source_data/openmidnight_technical_report_2025.csv"
+      },
+      {
+        "url": "https://github.com/Revol2Revol/SurvCRC/blob/11d6222f972e22e5bf19274ff5138dbe47f0fcc4/TRIDENT/trident/patch_encoder_models/load.py",
+        "path": "TRIDENT/trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/MohammadMdv/mllm-hwsi-app/blob/17444a77c3605411d303ee795f8612c6b75868be/upstream/trident/patch_encoder_models/load.py",
+        "path": "upstream/trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/CraigMyles/raw2features/blob/9e1fe966934d68efaf7b5ca6f21a8e1dcd900cc6/src/raw2features/embedders/registry.yaml",
+        "path": "src/raw2features/embedders/registry.yaml"
+      },
+      {
+        "url": "https://github.com/ziwei0418/myprostate/blob/9e31bf17c8cadc6babcf211e5989d213df5962e0/TRIDENT-main/trident/patch_encoder_models/load.py",
+        "path": "TRIDENT-main/trident/patch_encoder_models/load.py"
+      },
+      {
+        "url": "https://github.com/CraigMyles/raw2features/blob/9e1fe966934d68efaf7b5ca6f21a8e1dcd900cc6/tests/test_dino_teachers.py",
+        "path": "tests/test_dino_teachers.py"
+      }
+    ],
+    "finding": "Search results supplied source-code references and local checkpoint paths, not an independently downloadable copy of the original weights."
+  },
+  "openpath_checkpoint_candidate": {
+    "repo": "taejoon89/openpath-checkpoints",
+    "revision": "d564c16d424a795601fd4ccb61f0c03abe7f98ab",
+    "weight_files_checked": 61,
+    "original_checkpoint_sha256_matches": 0,
+    "finding": "All 61 public checkpoint LFS SHA256 values differ from both target originals. The model card describes a separate OpenPath training run initialized from Meta DINOv2."
+  },
+  "free_remote_compute_assessment": {
+    "checked_utc": "2026-10-30T05:54:13.705461+00:00",
+    "route": "Remote bulk copying using Hugging Face CPU/Docker Spaces",
+    "status": "not_created",
+    "reason": "Current official documentation requires a paid personal plan to create ordinary Gradio or Docker compute Spaces. The nominal CPU Basic hourly price is free but does not remove that plan requirement. No paid plan or compute service was enabled.",
+    "sources": [
+      "https://huggingface.co/docs/hub/spaces-overview",
+      "https://huggingface.co/docs/hub/storage-limits"
+    ],
+    "note": "The documented free ZeroGPU allowance was not repurposed to avoid the ordinary compute plan requirement for a bulk archival job.",
+    "codespaces_assessment": {
+      "checked_utc": "2026-10-30T05:58:34.563880+00:00",
+      "status": "not_created",
+      "reason": "The existing GitHub CLI authorization lacks codespace and user billing scopes; browser GitHub is signed out. No account-specific remaining allowance or enforceable zero-charge cap was confirmed. No compute resources or paid plan were enabled. A free-compute allowance alone would not establish enough free durable storage for the entire current PMC corpus."
+    }
+  },
+  "ncbi_full_oa_id_audit": {
+    "status": "stopped_on_http_429",
+    "complete": false,
+    "note": "No complete NCBI OA identifier list was produced. Published bulk inventories were compared separately; they have different scopes."
+  },
+  "unresolved": [
+    {
+      "resource": "Original OpenMidnight",
+      "status": "not_preserved",
+      "revision": "87189e6674d397a14a5cd342c97b1a1615a185aa",
+      "files": [
+        {
+          "name": "teacher_checkpoint.pth",
+          "bytes": 4939968425,
+          "sha256": "68b3808d8f9e035473a6ca5f53c215e0d86d854f9de774ab61abc2e05f26b596"
+        },
+        {
+          "name": "teacher_checkpoint_load.pt",
+          "bytes": 4539311375,
+          "sha256": "b57121fc10e2b04c9e85514fa5e4c23b75329301e05bfc756c3bca57312505be"
+        }
+      ],
+      "reason": "The official checkpoint repository requires institutional access unavailable to this account. No accessible public copy of either original checkpoint was found. Public 1.1 and SPECTRA checkpoints differ."
+    },
+    {
+      "resource": "Complete current PMC Open Access collection",
+      "status": "not_preserved_or_fully_verified",
+      "reason": "Existing dated snapshots and live mirrors do not establish a complete, immutable copy of all current original files. Inventory preservation and successful samples are explicitly partial."
+    }
+  ]
+}
