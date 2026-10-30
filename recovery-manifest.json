@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:33:35.461853+00:00",
+  "checked_utc": "2026-10-30T05:34:09.450390+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -43797,7 +43797,19 @@
       ],
       "original_files_url": "https://huggingface.co/SophontAI/OpenMidnight/tree/87189e6674d397a14a5cd342c97b1a1615a185aa",
       "size_bytes": 12689054649,
-      "status": "Gated original; no independent full weight backup verified"
+      "status": "Gated original; no independent full weight backup verified",
+      "alternative_copies": [
+        {
+          "repo": "medarc/OpenMidnight-1.1",
+          "url": "https://huggingface.co/hellnahbru/OpenMidnight-1.1-preserved-20261029/tree/ec320d76cc5e62cbe477b665dcc130a828befb62",
+          "scope": "Different weights; not an identical backup of the gated original"
+        },
+        {
+          "repo": "medarc/OpenMidnight-1.0-SPECTRA",
+          "url": "https://huggingface.co/hellnahbru/OpenMidnight-1.0-SPECTRA-preserved-20261029/tree/68f8b7dd9900f1c49bf15b0ecd4c074fa63b3a39",
+          "scope": "Different weights; not an identical backup of the gated original"
+        }
+      ]
     },
     {
       "name": "GenBio PathFM",
@@ -46210,9 +46222,27 @@
       "url": "https://pmc.ncbi.nlm.nih.gov/tools/openftlist/",
       "scope": "named reference resolved",
       "webpage_archive": "https://web.archive.org/web/20261020155206/https://pmc.ncbi.nlm.nih.gov/tools/openftlist/",
-      "status": "Free NLM public cloud distribution; not an independent fixed backup",
+      "status": "Independent Europe PMC recovery and historical snapshots; complete current immutable collection not preserved",
       "free_download_docs": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
-      "public_bucket_readme": "https://pmc-oa-opendata.s3.amazonaws.com/README.txt"
+      "public_bucket_readme": "https://pmc-oa-opendata.s3.amazonaws.com/README.txt",
+      "recovery_url": "https://europepmc.org/",
+      "recovery_options": [
+        {
+          "name": "PMC Open Access May 2020 snapshot",
+          "url": "https://archive.org/details/academictorrents_06d6badd7d1b0cfee00081c28fddd5e15e106165",
+          "scope": "Existing historical XML/text snapshot, 16 compressed files, 84.145 GB. This is not the complete current PMC collection. All files passed beginning/middle/end retrieval checks; catalog SHA1 hashes are available for full verification on restoration."
+        },
+        {
+          "name": "PMC Open Access June 2025 torrent snapshot",
+          "url": "https://github.com/raaaaaif/frameo-free-recovery-20261029/blob/main/PMC-June-2025.torrent",
+          "scope": "Existing June 2025 PMC Open Access historical XML/text snapshot, with file lists; no PDF or image packages. The torrent contains 1,744 data files plus 82 padding entries. One complete piece was checksum-verified, and its peer advertised every piece; the full collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup."
+        },
+        {
+          "name": "Your PMC cleaned-text subset copy",
+          "url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/tree/4cc72d8582650e206f1daedcc574aa5c72c705a6",
+          "scope": "54 GB text subset; not all PMC articles or associated files"
+        }
+      ]
     }
   ],
   "supplementary_resources": [
@@ -63752,6 +63782,16 @@
         "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593314/"
       },
       "last_checked_utc": "2026-10-30T05:05:23.668232+00:00"
+    }
+  ],
+  "unresolved_original_resources": [
+    {
+      "name": "OpenMidnight",
+      "reason": "Original weights require institutional access that this account does not have. Public alternatives were preserved, but their weights differ."
+    },
+    {
+      "name": "PubMed Central Open Access",
+      "reason": "Historical XML/text snapshots, a preserved cleaned-text subset and independent Europe PMC article services are available; a complete current immutable copy has not been preserved or fully verified."
     }
   ]
 }
