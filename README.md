@@ -1,8 +1,8 @@
 # Free recovery index for Frameo resources
 
-**Preservation is still in progress. Internet Archive removed the source-upload item on 29 October; its files are no longer counted as available.** Eleven original model repositories (1.798 TB) and four supplementary model repositories remain independently copied and verified in your Hugging Face account. 17/17 primary source repositories currently have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files and three ESM2 weights have separate tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. No paid services were enabled.
+**Preservation is still in progress.** 11 original model repositories (1.798 TB) and 4 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
 
-Checked 2026-10-29T10:03:18.760774+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-30T04:03:23.362871+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
@@ -67,7 +67,7 @@ Qwen has a complete 20-file copy in your account. An additional cross-platform r
 
 # PubMed Central Open Access
 
-An independent [May 2020 PMC snapshot](https://archive.org/details/academictorrents_06d6badd7d1b0cfee00081c28fddd5e15e106165) contains 16 compressed XML/text files totaling 84.145 GB. All 16 passed beginning, middle and end download checks; their catalog hashes are in the manifest for full verification when restored. Its torrent metadata also matches the published info hash. This is an existing historical archive, not the full current PMC collection. [Europe PMC](https://europepmc.org/) supplies additional, independently hosted articles: [XML archives](https://ftp.ebi.ac.uk/pub/databases/pmc/oa/) and [PDF packages](https://ftp.ebi.ac.uk/pub/databases/pmc/pdf/OA/). All 1,314 XML archives passed bounded retrieval and gzip-header checks; one XML archive, one PDF package and one full article passed complete reads. Coverage differs from NLM. A 2025 torrent route is recorded as unverified payloads and is not counted as a working backup. See the [Europe PMC bulk documentation](https://dev.europepmc.org/downloads/openaccess).
+An independent [May 2020 PMC snapshot](https://archive.org/details/academictorrents_06d6badd7d1b0cfee00081c28fddd5e15e106165) contains 16 compressed XML/text files totaling 84.145 GB. All 16 passed beginning, middle and end download checks; their catalog hashes are in the manifest for full verification when restored. Its torrent metadata also matches the published info hash. This is an existing historical archive, not the full current PMC collection. [Europe PMC](https://europepmc.org/) supplies additional, independently hosted articles: [XML archives](https://ftp.ebi.ac.uk/pub/databases/pmc/oa/) and [PDF packages](https://ftp.ebi.ac.uk/pub/databases/pmc/pdf/OA/). All 1,314 XML archives passed bounded retrieval and gzip-header checks; one XML archive, one PDF package and one full article passed complete reads. Coverage differs from NLM. A separate [June 2025 PMC torrent](https://github.com/raaaaaif/frameo-free-recovery-20261029/blob/main/PMC-June-2025.torrent) covers 1,826 files totaling 347.357 GB. A complete 1.835 MB piece passed its published SHA1, and the serving peer advertised every piece. The entire collection was not downloaded; this route depends on peers remaining online. The tiny torrent file is preserved in the recovery kit with instructions for downloading later directly to an external drive using free Transmission. It is a historical snapshot, not the complete current collection. See the [Europe PMC bulk documentation](https://dev.europepmc.org/downloads/openaccess).
 
 # Additional model files for the code projects
 
@@ -77,17 +77,17 @@ An independent [May 2020 PMC snapshot](https://archive.org/details/academictorre
 | medarc/OpenMidnight-1.0-SPECTRA | [Saved files](https://huggingface.co/hellnahbru/OpenMidnight-1.0-SPECTRA-preserved-20261029/tree/68f8b7dd9900f1c49bf15b0ecd4c074fa63b3a39) | All file hashes/sizes match; bounded download checks pass; different version from the original gated OpenMidnight |
 | HuggingFaceBio/Carbon-500M | [Saved files](https://huggingface.co/hellnahbru/Carbon-500M-preserved-20261029/tree/a36b9e390ec17350da08d9bc322fa17de365b350) | All file hashes/sizes match; bounded download checks pass |
 | HuggingFaceBio/Carbon-3B | [Saved files](https://huggingface.co/hellnahbru/Carbon-3B-preserved-20261029/tree/4d539a3361cac958f7fd635f7e1ed459ee0496d3) | All file hashes/sizes match; bounded download checks pass |
-| HuggingFaceBio/Carbon-8B | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| HuggingFaceBio/Carbon-X | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
+| HuggingFaceBio/Carbon-8B | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| HuggingFaceBio/Carbon-X | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
 | nz/OpenFold | 13 Wayback file links in manifest and restore helper | All 13 pinned files retrievable from Wayback; 4 full hashes and 9 bounded retrieval checks; separate HF copy deferred |
-| facebook/esm2_t6_8M_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esm2_t12_35M_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esm2_t30_150M_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esm2_t33_650M_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esm2_t36_3B_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esm2_t48_15B_UR50D | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| facebook/esmfold_v1 | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit |
-| nefelipar/pmc-large | Pending copy | Deferred until 30 October 2026, 05:28 UTC: free account creation limit; partial cleaned-text subset, not the complete PMC archive |
+| facebook/esm2_t6_8M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t12_35M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t30_150M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t33_650M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t36_3B_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t48_15B_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esmfold_v1 | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| nefelipar/pmc-large | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest; partial cleaned-text subset, not the complete PMC archive |
 
 # Archive requests and verification
 
