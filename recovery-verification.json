@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T04:28:21.684362+00:00",
+  "checked_utc": "2026-10-30T05:27:40.455165+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -14860,6 +14860,419 @@
           "expected_hash": "f72890b6568f25b2d29eacd61819c2e7582967de",
           "copy_hash": "f72890b6568f25b2d29eacd61819c2e7582967de",
           "copy_url": "https://huggingface.co/hellnahbru/Carbon-3B-preserved-20261029/resolve/4d539a3361cac958f7fd635f7e1ed459ee0496d3/tokenizer_config.json"
+        }
+      ],
+      "all_expected_files_match": true,
+      "all_bounded_retrieval_checks_pass": true,
+      "status": "metadata_and_bounded_retrieval_verified"
+    },
+    "hellnahbru/Carbon-8B-preserved-20261029": {
+      "source": "HuggingFaceBio/Carbon-8B",
+      "source_revision": "b54f77adc206f9abf315128ebd532922c9f6e3c5",
+      "destination": "hellnahbru/Carbon-8B-preserved-20261029",
+      "destination_revision": "b54f77adc206f9abf315128ebd532922c9f6e3c5",
+      "private": false,
+      "checked_utc": "2026-10-30T05:27:31.266194+00:00",
+      "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+      "full_large_file_hash_verified": false,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "expected_size": 1635,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1635
+            }
+          ],
+          "expected_hash": "f5233e8af59f91746762754cd9936a035a866892",
+          "copy_hash": "f5233e8af59f91746762754cd9936a035a866892",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/.gitattributes"
+        },
+        {
+          "path": "README.md",
+          "expected_size": 9416,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 9416
+            }
+          ],
+          "expected_hash": "c5d6f27c54e95526841c36d0ee6e8e2cc50fc9b8",
+          "copy_hash": "c5d6f27c54e95526841c36d0ee6e8e2cc50fc9b8",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/README.md"
+        },
+        {
+          "path": "added_tokens.json",
+          "expected_size": 707,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 707
+            }
+          ],
+          "expected_hash": "b54f9135e44c1e81047e8d05cb027af8bc039eed",
+          "copy_hash": "b54f9135e44c1e81047e8d05cb027af8bc039eed",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/added_tokens.json"
+        },
+        {
+          "path": "config.json",
+          "expected_size": 673,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 673
+            }
+          ],
+          "expected_hash": "78b65ac7c2cd23a33f5c0c775c637476ace12985",
+          "copy_hash": "78b65ac7c2cd23a33f5c0c775c637476ace12985",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/config.json"
+        },
+        {
+          "path": "dna_config.json",
+          "expected_size": 134,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 134
+            }
+          ],
+          "expected_hash": "2af7a9f71124bf9f96b6fd8cee9674936880e36c",
+          "copy_hash": "2af7a9f71124bf9f96b6fd8cee9674936880e36c",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/dna_config.json"
+        },
+        {
+          "path": "figures/carbon-8b-banner.png",
+          "expected_size": 1279369,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "aba22457d2b7af9718dbb96e5a0ae95a861dc7caf769d7a5b6f8a35ea908910e"
+            },
+            {
+              "kind": "range_only",
+              "start": 639684,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "247a93ac4148de3c05bae4a55be3a049f2374997a02331f6c9a26e70005abf20"
+            },
+            {
+              "kind": "range_only",
+              "start": 1279337,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "c1ec69bc07c09733137994ea36436a297ba8067c278f6a3f1ef3d647196854a2"
+            }
+          ],
+          "expected_hash": "4673b72dfc0241f4c856d90ef3c4071e9d88c3ec6d803486d0f115ff1cb414d5",
+          "copy_hash": "4673b72dfc0241f4c856d90ef3c4071e9d88c3ec6d803486d0f115ff1cb414d5",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/figures/carbon-8b-banner.png"
+        },
+        {
+          "path": "generation_config.json",
+          "expected_size": 115,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 115
+            }
+          ],
+          "expected_hash": "6ff931ca25054ca10c5358ef8a15ad61c4cbd8e9",
+          "copy_hash": "6ff931ca25054ca10c5358ef8a15ad61c4cbd8e9",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/generation_config.json"
+        },
+        {
+          "path": "model-00001-of-00007.safetensors",
+          "expected_size": 2467334984,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "7a47fd496b33f80a42689e2fd118d26eea30ec9d1b741a89c67a3d4e83ac36a3"
+            },
+            {
+              "kind": "range_only",
+              "start": 1233667492,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "1dc93e469669e3410b30f8048c3a81757ae52fcc3ed71fae85ae0930d75bfbf6"
+            },
+            {
+              "kind": "range_only",
+              "start": 2467334952,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "17f0b4a05c5f71e56de330610e0002f9f52927be237251c2a06fe8ddb5d143a0"
+            }
+          ],
+          "expected_hash": "8b7517e3390bff6bbbb00bcf5ca809caa54300446789a58533aebf85b7f7d14a",
+          "copy_hash": "8b7517e3390bff6bbbb00bcf5ca809caa54300446789a58533aebf85b7f7d14a",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00001-of-00007.safetensors"
+        },
+        {
+          "path": "model-00002-of-00007.safetensors",
+          "expected_size": 2499909576,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "1338adf905bb42384e2bed2d3f5ec7811ca0a957b0985dd5404aa4b421e24797"
+            },
+            {
+              "kind": "range_only",
+              "start": 1249954788,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "de864ffb5b42cea0dc4043e12ca96053e4fc9d2e290939354d0a24c8bfad1d65"
+            },
+            {
+              "kind": "range_only",
+              "start": 2499909544,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "b470f29c458395dd3530eedd2fcb25e57187a78b3db51f1beeef4c5396cc452f"
+            }
+          ],
+          "expected_hash": "b259414045cc70d190a424128e94041f44cca03bfbec7f2b59626e039d9fc95b",
+          "copy_hash": "b259414045cc70d190a424128e94041f44cca03bfbec7f2b59626e039d9fc95b",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00002-of-00007.safetensors"
+        },
+        {
+          "path": "model-00003-of-00007.safetensors",
+          "expected_size": 2499909616,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "3cc5da158afa70f1532fd42107a43d7036ce0e8920ae02b0b5650ee8fb1492fa"
+            },
+            {
+              "kind": "range_only",
+              "start": 1249954808,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "9078fc6a471bedfea36728a4cffbcccc57d41058f67bde99f1eb34b1a1b3f7ed"
+            },
+            {
+              "kind": "range_only",
+              "start": 2499909584,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "36194a642accda2b1a69942ce94c6ce80aa4cbe95c19e173312a364bcf08ff54"
+            }
+          ],
+          "expected_hash": "0059b3e8e3d8d824c2884fef90684ef4b279fbf466553f6b39a95bcd8a88f849",
+          "copy_hash": "0059b3e8e3d8d824c2884fef90684ef4b279fbf466553f6b39a95bcd8a88f849",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00003-of-00007.safetensors"
+        },
+        {
+          "path": "model-00004-of-00007.safetensors",
+          "expected_size": 2416006472,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "822ae89e7613a9273cb25966f735a257d2a5477f97b49f1b1b3503a7394860ed"
+            },
+            {
+              "kind": "range_only",
+              "start": 1208003236,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "37e161f6b55a1e2091a8e352e90452dfaa656bc2791df27223538647d2e6be1e"
+            },
+            {
+              "kind": "range_only",
+              "start": 2416006440,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "5f44b29085726e624096b7abfc2547ba544b88a55c8ed56639185495b2d5006c"
+            }
+          ],
+          "expected_hash": "a5c18abc7fb7c435dd1340e189da1fbf6414654ad4acc9b0b653605811e6d5e0",
+          "copy_hash": "a5c18abc7fb7c435dd1340e189da1fbf6414654ad4acc9b0b653605811e6d5e0",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00004-of-00007.safetensors"
+        },
+        {
+          "path": "model-00005-of-00007.safetensors",
+          "expected_size": 2499909632,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "811d636a51a0be9727f14ba31761a6d9ae392807eef7cb547f90f9e741491738"
+            },
+            {
+              "kind": "range_only",
+              "start": 1249954816,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "d708de060849756def8580e49372c51927f8d8235cc909c378b848faab09009b"
+            },
+            {
+              "kind": "range_only",
+              "start": 2499909600,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "8a56570bad4e249b33c1d8b1458e1cc2856140e27b3972de22dc37865aafe9ac"
+            }
+          ],
+          "expected_hash": "108ab1b5bf91fe27d811b96307438653238c2d409b10aea39253cfb1fc2c459c",
+          "copy_hash": "108ab1b5bf91fe27d811b96307438653238c2d409b10aea39253cfb1fc2c459c",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00005-of-00007.safetensors"
+        },
+        {
+          "path": "model-00006-of-00007.safetensors",
+          "expected_size": 2499909640,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "0bd59fd5da0f45d347044c5576cf4b2669b8de89cdf0928fefa6750df8f34218"
+            },
+            {
+              "kind": "range_only",
+              "start": 1249954820,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "e6f0e361c97912d7feb6271f97dcb03190198b281fd1ee09d0dc5a600aa40c3f"
+            },
+            {
+              "kind": "range_only",
+              "start": 2499909608,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "005812321933c81ebf0d372261d72233db22d540561122ce8cec96cd9c4ae410"
+            }
+          ],
+          "expected_hash": "56b8285a88e4efb5bec0ff2e96fc3a94516a113764a0f40d0d9aca2f37396973",
+          "copy_hash": "56b8285a88e4efb5bec0ff2e96fc3a94516a113764a0f40d0d9aca2f37396973",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00006-of-00007.safetensors"
+        },
+        {
+          "path": "model-00007-of-00007.safetensors",
+          "expected_size": 1628463872,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "c3c895dc8d5eee983c185ecd09d9956939f07b933417756feb59e2524f7d6bab"
+            },
+            {
+              "kind": "range_only",
+              "start": 814231936,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "ad74e4817834a436349efebeccdc80fea234c7c156bb9805579d50d7df15ee08"
+            },
+            {
+              "kind": "range_only",
+              "start": 1628463840,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "9ed0cea50784b456e8bea7c144b60ba8d2e61f86ed01c8e98383d5a3308b9a35"
+            }
+          ],
+          "expected_hash": "aeec8fcc37dc292661ab47fea3089783a3ca1a056b3b1c2932efc48b0e9b3836",
+          "copy_hash": "aeec8fcc37dc292661ab47fea3089783a3ca1a056b3b1c2932efc48b0e9b3836",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model-00007-of-00007.safetensors"
+        },
+        {
+          "path": "model.safetensors.index.json",
+          "expected_size": 25165,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 25165
+            }
+          ],
+          "expected_hash": "1d8016f979809c730b31fd9caeff86c1d469b7c4",
+          "copy_hash": "1d8016f979809c730b31fd9caeff86c1d469b7c4",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/model.safetensors.index.json"
+        },
+        {
+          "path": "special_tokens_map.json",
+          "expected_size": 616,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 616
+            }
+          ],
+          "expected_hash": "17305b3603dfb19ccc0f658ec2cd2cd3adff4a58",
+          "copy_hash": "17305b3603dfb19ccc0f658ec2cd2cd3adff4a58",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/special_tokens_map.json"
+        },
+        {
+          "path": "tokenizer.py",
+          "expected_size": 26621,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 26621
+            }
+          ],
+          "expected_hash": "f34612d95999d6f430eb59af31fa823cb91d87fc",
+          "copy_hash": "f34612d95999d6f430eb59af31fa823cb91d87fc",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/tokenizer.py"
+        },
+        {
+          "path": "tokenizer_config.json",
+          "expected_size": 5545,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 5545
+            }
+          ],
+          "expected_hash": "f72890b6568f25b2d29eacd61819c2e7582967de",
+          "copy_hash": "f72890b6568f25b2d29eacd61819c2e7582967de",
+          "copy_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/resolve/b54f77adc206f9abf315128ebd532922c9f6e3c5/tokenizer_config.json"
         }
       ],
       "all_expected_files_match": true,
