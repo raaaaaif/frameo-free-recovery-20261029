@@ -1,8 +1,8 @@
 # Free recovery index for Frameo resources
 
-**Preservation is still in progress.** 11 original model repositories (1.798 TB) and 9 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
+**Preservation is still in progress.** 11 original model repositories (1.798 TB) and 10 supplementary model/dataset repositories are independently copied and verified in your Hugging Face account. 17/17 primary source repositories have fully verified recovery bundles, including 17 pinned GitHub forks under your account. 7/7 supporting code repositories have verified forks. OpenFold’s 13 files, three original ESM2 weights and 1 contact regression files have tested Wayback captures. Original OpenMidnight and a complete current PMC copy remain unresolved. Internet Archive removed the source-upload item on 29 October; it is excluded and replaced by the verified GitHub copies. No paid services were enabled.
 
-Checked 2026-10-30T05:29:00.597395+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
+Checked 2026-10-30T05:29:17.803926+00:00. This index covers all 26 explicit links and the five additional named resources in the [original X post](https://x.com/fram3o/status/2115266516056977556), plus supporting code and supplementary model files. Each entry distinguishes newly created copies from existing mirrors and unresolved gaps.
 
 # How to retrieve files later
 
@@ -82,7 +82,7 @@ An independent [May 2020 PMC snapshot](https://archive.org/details/academictorre
 | nz/OpenFold | [Saved files](https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/tree/6344b2a680cbbae20b8afdb7f154228cc5b0cb27) | All file hashes/sizes match; bounded download checks pass |
 | facebook/esm2_t6_8M_UR50D | [Saved files](https://huggingface.co/hellnahbru/esm2_t6_8M_UR50D-preserved-20261029/tree/c731040fcd8d73dceaa04b0a8e6329b345b0f5df) | All file hashes/sizes match; bounded download checks pass |
 | facebook/esm2_t12_35M_UR50D | [Saved files](https://huggingface.co/hellnahbru/esm2_t12_35M_UR50D-preserved-20261029/tree/6fbf070e65b0b7291e7bbcd451118c216cff79d8) | All file hashes/sizes match; bounded download checks pass |
-| facebook/esm2_t30_150M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
+| facebook/esm2_t30_150M_UR50D | [Saved files](https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/tree/a695f6045e2e32885fa60af20c13cb35398ce30c) | All file hashes/sizes match; bounded download checks pass |
 | facebook/esm2_t33_650M_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
 | facebook/esm2_t36_3B_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
 | facebook/esm2_t48_15B_UR50D | Pending copy | Pending server-side copy; free service cooldowns are recorded in the manifest |
