@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-29T10:03:18.760774+00:00",
+  "checked_utc": "2026-10-30T04:03:23.362871+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -15017,6 +15017,24 @@
       "bundle_sha256": "47a41ff1cbed0045bc5ee03345f104b3930c6e23e6a4028da9abd3cdc0434435",
       "gzip_crc_checked": true,
       "gitlinks_requiring_separate_archives": []
+    },
+    {
+      "repo": "nationalsecurityagency/ghidra",
+      "expected_tree": "9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189",
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189/raw/",
+      "status": "verified",
+      "actual_tree": "9fcbe2e988ea1e54d5f79d5853140dc4a5c7d189",
+      "files": 20623,
+      "expanded_bytes": 325355119,
+      "compressed_bytes": 81391272,
+      "bundle_sha256": "ecbb982dbcf47b789a773b6e0a2d214fee8760b0290ba5f6f4fe0b904419e259",
+      "gzip_crc_checked": true,
+      "bundle_md5": "c518be09f9b8af1bf070bf663949f7f0",
+      "bundle_sha1": "28b0ab7b9f769e0f6d2ffe892728be96957de1f3",
+      "git_lfs_pointers": [],
+      "checkout_crlf_normalized_for_git_comparison": [],
+      "gitlinks_requiring_separate_archives": [],
+      "checked_utc": "2026-10-30T03:53:11.155219+00:00"
     }
   ],
   "internet_archive_checks": {
@@ -29548,6 +29566,39 @@
     ],
     "total_bytes": 84144856912,
     "scope": "Existing May 2020 XML/text snapshot, not the complete current PMC dataset; whole file hashes were not re-computed."
+  },
+  "pmc_historical_2025_piece_check": {
+    "metadata_filename": "PMC-June-2025.torrent",
+    "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+    "metadata_sha256": "6b293f49fc7634b82b387a07856f1bae72fe9a0ad484d7a00ef913e72966e50a",
+    "metadata_bytes": 209383,
+    "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+    "dataset_bytes": 347357315508,
+    "files": 1826,
+    "piece_verification": {
+      "checked_utc": "2026-10-30T03:58:52.551986+00:00",
+      "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
+      "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
+      "metadata_info_hash_verified": true,
+      "dataset_bytes": 347357315508,
+      "files": 1826,
+      "peer_errors": [
+        "OSError",
+        "TimeoutError"
+      ],
+      "status": "full_piece_sha1_verified",
+      "piece_index": 2588,
+      "bytes_read": 1835444,
+      "piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+      "expected_piece_sha1": "dfb866380dd9cd3bc7e90b31964f73d8e518c088",
+      "advertised_available_pieces": 2589,
+      "total_pieces": 2589,
+      "advertises_complete_snapshot": true,
+      "content_prefix_sha256": "b372c4affb11ac536858b27df3b324dd3212fd56e4add3561c72b806955c72b5",
+      "payload_written_to_disk": false
+    },
+    "status": "metadata_and_one_complete_piece_verified",
+    "scope": "Existing June 2025 PMC Open Access historical snapshot. One complete piece was checksum-verified, and its peer advertised every piece; the full 347 GB collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup."
   },
   "openfold_after_expiry_checks": {
     "checked_utc": "2026-10-29T07:16:49.120317+00:00",
