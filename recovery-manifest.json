@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T04:03:23.362871+00:00",
+  "checked_utc": "2026-10-30T04:10:04.419711+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -4646,7 +4646,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/GLM-5.3-CYBERSECURITY-FP8-preserved-20261029/tree/e8abb47f7862965d96ead26c9ba21ac50408c8bc"
+      "recovery_url": "https://huggingface.co/hellnahbru/GLM-5.3-CYBERSECURITY-FP8-preserved-20261029/tree/e8abb47f7862965d96ead26c9ba21ac50408c8bc",
+      "source_sample_comparison": {
+        "source": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
+        "source_revision": "5915c1b88f998a9c1e1a0c83688e285a08ae3ca5",
+        "destination_revision": "e8abb47f7862965d96ead26c9ba21ac50408c8bc",
+        "checked_utc": "2026-10-30T04:06:34.610512+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Recurrent looped transformer",
@@ -5634,7 +5641,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/GroundAnything-VLM-preserved-20261029/tree/59609b7fb512e90bcc47fbcc2b4a01dd0b701026"
+      "recovery_url": "https://huggingface.co/hellnahbru/GroundAnything-VLM-preserved-20261029/tree/59609b7fb512e90bcc47fbcc2b4a01dd0b701026",
+      "source_sample_comparison": {
+        "source": "GroundingPI/GroundAnything-VLM",
+        "source_revision": "0f3cf22027493b4f97f342dae1fb298c38b68d27",
+        "destination_revision": "59609b7fb512e90bcc47fbcc2b4a01dd0b701026",
+        "checked_utc": "2026-10-30T04:06:28.950928+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "arXiv complete",
@@ -43231,7 +43245,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/evo2_40b-preserved-20261029/tree/62bdf92ba54d0064c9bc80761019d57526c50527"
+      "recovery_url": "https://huggingface.co/hellnahbru/evo2_40b-preserved-20261029/tree/62bdf92ba54d0064c9bc80761019d57526c50527",
+      "source_sample_comparison": {
+        "source": "arcinstitute/evo2_40b",
+        "source_revision": "d529aa57c30771814217ad89baaeaf6e2315c7d7",
+        "destination_revision": "62bdf92ba54d0064c9bc80761019d57526c50527",
+        "checked_utc": "2026-10-30T04:06:33.404134+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Evo 2 7B",
@@ -43315,7 +43336,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/evo2_7b-preserved-20261029/tree/d885fa3d352d3dee89960a9618de3c7fea4f3acf"
+      "recovery_url": "https://huggingface.co/hellnahbru/evo2_7b-preserved-20261029/tree/d885fa3d352d3dee89960a9618de3c7fea4f3acf",
+      "source_sample_comparison": {
+        "source": "arcinstitute/evo2_7b",
+        "source_revision": "bda0089f92582d5baabf0f22d9fc85f3588f6b58",
+        "destination_revision": "d885fa3d352d3dee89960a9618de3c7fea4f3acf",
+        "checked_utc": "2026-10-30T04:06:31.766679+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Genos 1.2B",
@@ -43450,7 +43478,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/Genos-1.2B-preserved-20261029/tree/c1b655955fd88f7a4076b4af9dd3f0a3939e18ac"
+      "recovery_url": "https://huggingface.co/hellnahbru/Genos-1.2B-preserved-20261029/tree/c1b655955fd88f7a4076b4af9dd3f0a3939e18ac",
+      "source_sample_comparison": {
+        "source": "BGI-HangzhouAI/Genos-1.2B",
+        "source_revision": "7774c6bff2af54869436ffa02ef51e944ebbb8a8",
+        "destination_revision": "c1b655955fd88f7a4076b4af9dd3f0a3939e18ac",
+        "checked_utc": "2026-10-30T04:06:21.850808+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Genos 10B",
@@ -43670,7 +43705,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/Genos-10B-preserved-20261029/tree/550f4b2fd67b3fdd3a8efca9ad152ed8858e0418"
+      "recovery_url": "https://huggingface.co/hellnahbru/Genos-10B-preserved-20261029/tree/550f4b2fd67b3fdd3a8efca9ad152ed8858e0418",
+      "source_sample_comparison": {
+        "source": "BGI-HangzhouAI/Genos-10B",
+        "source_revision": "f78d3f0a395901d811223be090adcf9eee75697a",
+        "destination_revision": "550f4b2fd67b3fdd3a8efca9ad152ed8858e0418",
+        "checked_utc": "2026-10-30T04:06:22.955673+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "OpenMidnight",
@@ -43846,7 +43888,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/genbio-pathfm-preserved-20261029/tree/36feac2ecfd417a1356474d184f74396f3aa1a6b"
+      "recovery_url": "https://huggingface.co/hellnahbru/genbio-pathfm-preserved-20261029/tree/36feac2ecfd417a1356474d184f74396f3aa1a6b",
+      "source_sample_comparison": {
+        "source": "genbio-ai/genbio-pathfm",
+        "source_revision": "6eab2a4ea6fbaee16e5f193187952042ebe5d3ec",
+        "destination_revision": "36feac2ecfd417a1356474d184f74396f3aa1a6b",
+        "checked_utc": "2026-10-30T04:05:59.251478+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "BoltzGen",
@@ -43977,7 +44026,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/boltzgen-1-preserved-20261029/tree/61bd7a654e60375be1356a462cd1935be93c4bab"
+      "recovery_url": "https://huggingface.co/hellnahbru/boltzgen-1-preserved-20261029/tree/61bd7a654e60375be1356a462cd1935be93c4bab",
+      "source_sample_comparison": {
+        "source": "boltzgen/boltzgen-1",
+        "source_revision": "c1be29e1f82ffcc72264f64b993c43fb4e0d17f0",
+        "destination_revision": "61bd7a654e60375be1356a462cd1935be93c4bab",
+        "checked_utc": "2026-10-30T04:06:09.508154+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Pinal",
@@ -44204,7 +44260,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/Pinal-preserved-20261029/tree/59e002f39fe0a1b5ed0e9b42f10340654d89c67b"
+      "recovery_url": "https://huggingface.co/hellnahbru/Pinal-preserved-20261029/tree/59e002f39fe0a1b5ed0e9b42f10340654d89c67b",
+      "source_sample_comparison": {
+        "source": "westlake-repl/Pinal",
+        "source_revision": "d83a11844a535bc209e530977da5e07b27c60286",
+        "destination_revision": "59e002f39fe0a1b5ed0e9b42f10340654d89c67b",
+        "checked_utc": "2026-10-30T04:06:00.431465+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "DeepSeek V4.1 Flash Uncensored FP8",
@@ -44903,7 +44966,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8-preserved-20261029/tree/2c4e33fd2834719d73799929d87114f1d5e054d0"
+      "recovery_url": "https://huggingface.co/hellnahbru/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8-preserved-20261029/tree/2c4e33fd2834719d73799929d87114f1d5e054d0",
+      "source_sample_comparison": {
+        "source": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+        "source_revision": "c19ca5ca4eaeb79d29fdf08aea8327da95b1116a",
+        "destination_revision": "2c4e33fd2834719d73799929d87114f1d5e054d0",
+        "checked_utc": "2026-10-30T04:08:58.623559+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Security audit skill",
@@ -45805,7 +45875,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/Qwen3.8-27B-Uncensored-GGUF-preserved-20261029/tree/a4ff20ac0c4fe6f29b84209d724c8a60cd77377d"
+      "recovery_url": "https://huggingface.co/hellnahbru/Qwen3.8-27B-Uncensored-GGUF-preserved-20261029/tree/a4ff20ac0c4fe6f29b84209d724c8a60cd77377d",
+      "source_sample_comparison": {
+        "source": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+        "source_revision": "b2e5cef033c0832fff1cc8c4937865abab9455f4",
+        "destination_revision": "a4ff20ac0c4fe6f29b84209d724c8a60cd77377d",
+        "checked_utc": "2026-10-30T04:06:12.624167+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Carbon",
@@ -46214,7 +46291,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/OpenMidnight-1.1-preserved-20261029/tree/ec320d76cc5e62cbe477b665dcc130a828befb62",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "medarc/OpenMidnight-1.1",
+        "source_revision": "a9ed8ab814124bcec8ab46c746b2bd3cc7e35b0e",
+        "destination_revision": "ec320d76cc5e62cbe477b665dcc130a828befb62",
+        "checked_utc": "2026-10-30T04:09:19.322717+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "OpenMidnight-1.0-SPECTRA",
@@ -46291,7 +46375,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/OpenMidnight-1.0-SPECTRA-preserved-20261029/tree/68f8b7dd9900f1c49bf15b0ecd4c074fa63b3a39",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "medarc/OpenMidnight-1.0-SPECTRA",
+        "source_revision": "e8b67e1161a1422acf189e2b16f415a1496cd611",
+        "destination_revision": "68f8b7dd9900f1c49bf15b0ecd4c074fa63b3a39",
+        "checked_utc": "2026-10-30T04:09:20.726823+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Carbon-500M",
@@ -46393,7 +46484,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/Carbon-500M-preserved-20261029/tree/a36b9e390ec17350da08d9bc322fa17de365b350",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "HuggingFaceBio/Carbon-500M",
+        "source_revision": "9796b752108258c1d365089f842e62e6c0547704",
+        "destination_revision": "a36b9e390ec17350da08d9bc322fa17de365b350",
+        "checked_utc": "2026-10-30T04:09:21.623332+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Carbon-3B",
@@ -46560,7 +46658,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/Carbon-3B-preserved-20261029/tree/4d539a3361cac958f7fd635f7e1ed459ee0496d3",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "HuggingFaceBio/Carbon-3B",
+        "source_revision": "07c88a21cbb8a18a442baf651d896aba6057979d",
+        "destination_revision": "4d539a3361cac958f7fd635f7e1ed459ee0496d3",
+        "checked_utc": "2026-10-30T04:09:22.617097+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Carbon-8B",
@@ -60313,6 +60418,19 @@
       "facebook/esm2_t48_15B_UR50D",
       "facebook/esmfold_v1",
       "nefelipar/pmc-large"
+    ],
+    "planned_repositories": [
+      "HuggingFaceBio/Carbon-8B",
+      "HuggingFaceBio/Carbon-X",
+      "nz/OpenFold",
+      "facebook/esm2_t6_8M_UR50D",
+      "facebook/esm2_t12_35M_UR50D",
+      "facebook/esm2_t30_150M_UR50D",
+      "facebook/esm2_t33_650M_UR50D",
+      "facebook/esm2_t36_3B_UR50D",
+      "facebook/esm2_t48_15B_UR50D",
+      "facebook/esmfold_v1",
+      "nefelipar/pmc-large"
     ]
   },
   "source_dependencies": {
@@ -62555,5 +62673,501 @@
     "reason": "Local conservative pacing: at most eight new source forks in one hour",
     "do_not_retry_before": "2026-10-29T10:01:07.197891+00:00"
   },
-  "recovery_index_url": "https://github.com/raaaaaif/frameo-free-recovery-20261029"
+  "recovery_index_url": "https://github.com/raaaaaif/frameo-free-recovery-20261029",
+  "software_heritage_additional_exports": [
+    {
+      "repo": "yifanzhang-pro/recurrent-looped-tranformer",
+      "sha": "b1515d9ce1f0ff5bde2f6f8519c7e2c70c94ce11",
+      "tree": "d1d8e058489c0bf35decd6fac5d41910a308f3e8",
+      "checked_utc": "2026-10-30T04:03:29.470244+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:d1d8e058489c0bf35decd6fac5d41910a308f3e8/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:d1d8e058489c0bf35decd6fac5d41910a308f3e8/raw/",
+        "progress_message": null,
+        "id": 422261777,
+        "status": "new",
+        "swhid": "swh:1:dir:d1d8e058489c0bf35decd6fac5d41910a308f3e8"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "sha": "1482e8469b0a9e0d8cc18ea2740a01423d29ae80",
+      "tree": "89299cdfce386a71723a7e57bb9fe219875582fc",
+      "checked_utc": "2026-10-30T04:03:32.248154+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:89299cdfce386a71723a7e57bb9fe219875582fc/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:89299cdfce386a71723a7e57bb9fe219875582fc/raw/",
+        "progress_message": null,
+        "id": 422261778,
+        "status": "new",
+        "swhid": "swh:1:dir:89299cdfce386a71723a7e57bb9fe219875582fc"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "Gen-Verse/RSI-Anything",
+      "sha": "8ba44cd73ec6f57b151ec06e2f71a0726adfb687",
+      "tree": "cb25e82b71575663c6a1beb3b5844928541b7a79",
+      "checked_utc": "2026-10-30T04:03:35.008500+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:cb25e82b71575663c6a1beb3b5844928541b7a79/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:cb25e82b71575663c6a1beb3b5844928541b7a79/raw/",
+        "progress_message": null,
+        "id": 422261779,
+        "status": "new",
+        "swhid": "swh:1:dir:cb25e82b71575663c6a1beb3b5844928541b7a79"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "solidsf-inc/solidcv",
+      "sha": "35c33e324dc1cc2ae2b80cad4f026ec93cb74a4a",
+      "tree": "095d827a6966c90181dd6e7067052bef4fde7325",
+      "checked_utc": "2026-10-30T04:03:37.752951+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:095d827a6966c90181dd6e7067052bef4fde7325/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:095d827a6966c90181dd6e7067052bef4fde7325/raw/",
+        "progress_message": null,
+        "id": 422261780,
+        "status": "new",
+        "swhid": "swh:1:dir:095d827a6966c90181dd6e7067052bef4fde7325"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "antoniaci/blackbird",
+      "sha": "c8329b2e83f20e3f74b218e68200389d838a6832",
+      "tree": "f95b9e89f7390a4d8f1bfbbc4c5a2441968b6e7d",
+      "checked_utc": "2026-10-30T04:03:40.650133+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f95b9e89f7390a4d8f1bfbbc4c5a2441968b6e7d/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f95b9e89f7390a4d8f1bfbbc4c5a2441968b6e7d/raw/",
+        "progress_message": null,
+        "id": 422261781,
+        "status": "new",
+        "swhid": "swh:1:dir:f95b9e89f7390a4d8f1bfbbc4c5a2441968b6e7d"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "sha": "467ce79812756d6c4d5864a223479e6cb89a775f",
+      "tree": "bacd37413ec4cd18bb40b360e7794f637dd7ddbc",
+      "checked_utc": "2026-10-30T04:03:43.387706+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "huggingface/carbon",
+      "sha": "6ee82780e08cf3df5af5c933623a2c2740291ca1",
+      "tree": "915488b940223ca7c40a0a3bd2ef39f17e524e62",
+      "checked_utc": "2026-10-30T04:03:44.839713+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:915488b940223ca7c40a0a3bd2ef39f17e524e62/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:915488b940223ca7c40a0a3bd2ef39f17e524e62/raw/",
+        "progress_message": null,
+        "id": 422261782,
+        "status": "new",
+        "swhid": "swh:1:dir:915488b940223ca7c40a0a3bd2ef39f17e524e62"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "groundingpi/GroundAnything",
+      "sha": "e054ab329cfe3f1b88ca8cf279bcab3e2f12934e",
+      "tree": "5887e637443c9ae8c03cd1dfe268d80d0b157e68",
+      "checked_utc": "2026-10-30T04:03:47.589478+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:5887e637443c9ae8c03cd1dfe268d80d0b157e68/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:5887e637443c9ae8c03cd1dfe268d80d0b157e68/raw/",
+        "progress_message": null,
+        "id": 422261783,
+        "status": "new",
+        "swhid": "swh:1:dir:5887e637443c9ae8c03cd1dfe268d80d0b157e68"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "ArcInstitute/evo2",
+      "sha": "53f195997257c56c00e5ef8d33a54f5baad143a6",
+      "tree": "c64dc9a471013e609b6033beb5871cde9d92cdfd",
+      "checked_utc": "2026-10-30T04:03:50.351733+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:c64dc9a471013e609b6033beb5871cde9d92cdfd/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:c64dc9a471013e609b6033beb5871cde9d92cdfd/raw/",
+        "progress_message": null,
+        "id": 422261784,
+        "status": "new",
+        "swhid": "swh:1:dir:c64dc9a471013e609b6033beb5871cde9d92cdfd"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "BGI-HangzhouAI/Genos",
+      "sha": "ad57c866db1d25c6932a1980dc2c87b7ba0c8c34",
+      "tree": "2f3148893d38b6263dc1cf45f2ff5230d4b1d128",
+      "checked_utc": "2026-10-30T04:03:53.144655+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:2f3148893d38b6263dc1cf45f2ff5230d4b1d128/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:2f3148893d38b6263dc1cf45f2ff5230d4b1d128/raw/",
+        "progress_message": null,
+        "id": 422261785,
+        "status": "new",
+        "swhid": "swh:1:dir:2f3148893d38b6263dc1cf45f2ff5230d4b1d128"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "genbio-ai/genbio-pathfm",
+      "sha": "1d65d002f28f6a4b481ca6cc434267b453c30b60",
+      "tree": "16d05b0eab3a805d609a82222f95190293f7cbc5",
+      "checked_utc": "2026-10-30T04:03:55.916927+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:16d05b0eab3a805d609a82222f95190293f7cbc5/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:16d05b0eab3a805d609a82222f95190293f7cbc5/raw/",
+        "progress_message": null,
+        "id": 422261786,
+        "status": "new",
+        "swhid": "swh:1:dir:16d05b0eab3a805d609a82222f95190293f7cbc5"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "HannesStark/boltzgen",
+      "sha": "a07fea1153111ef453aaea7a15697ee05de9291f",
+      "tree": "a23888bad6635a9c5f9676e58f9fa3478ca9c38f",
+      "checked_utc": "2026-10-30T04:03:58.673289+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:a23888bad6635a9c5f9676e58f9fa3478ca9c38f/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:a23888bad6635a9c5f9676e58f9fa3478ca9c38f/raw/",
+        "progress_message": null,
+        "id": 422261788,
+        "status": "new",
+        "swhid": "swh:1:dir:a23888bad6635a9c5f9676e58f9fa3478ca9c38f"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "westlake-repl/Denovo-Pinal",
+      "sha": "0a40691916fcb720bfcf9adcad7301a1c471fc75",
+      "tree": "f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c",
+      "checked_utc": "2026-10-30T04:04:01.402950+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c/raw/",
+        "progress_message": null,
+        "id": 422261789,
+        "status": "new",
+        "swhid": "swh:1:dir:f64d7dfef09eef1ca8ebc2f6324e7684322b1a6c"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "MedARC-AI/OpenMidnight",
+      "sha": "3cbf163cfd04cf9285ddd7e1f887ae7ea7afc24e",
+      "tree": "bed322a07b5bde18b6531f4c2f4fa38d606385b6",
+      "checked_utc": "2026-10-30T04:04:04.152128+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:bed322a07b5bde18b6531f4c2f4fa38d606385b6/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:bed322a07b5bde18b6531f4c2f4fa38d606385b6/raw/",
+        "progress_message": null,
+        "id": 422261790,
+        "status": "new",
+        "swhid": "swh:1:dir:bed322a07b5bde18b6531f4c2f4fa38d606385b6"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "deepseek-ai/DeepEP",
+      "sha": "f6aa38fe06cd4a0489e7730365d4e0114970a2f3",
+      "tree": "6758d2ece9ea4a90bd9f477529b2a104cb2c90d4",
+      "checked_utc": "2026-10-30T04:04:06.898484+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "deepseek-ai/DeepEP-Ascend",
+      "sha": "3b25377d04b24fc6154698ded78a2bcb2c59afff",
+      "tree": "a8a2fcf5573b6b2122cc68a8ecd8b33dc8b5a83e",
+      "checked_utc": "2026-10-30T04:04:08.273590+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM",
+      "sha": "1fc9c66975ee322d628b3288534ca0e9ce12a64d",
+      "tree": "b21e85b4170a4bb3a1b7ccc5e23b45e12f7ee4e4",
+      "checked_utc": "2026-10-30T04:04:09.642021+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM-Ascend",
+      "sha": "3a35326271b069b8b5bf1a754435acd6cc91575b",
+      "tree": "0077d037ba5e9d8e108821fb78d485f1f77bd956",
+      "checked_utc": "2026-10-30T04:04:11.011338+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "deepseek-ai/DeepSelect",
+      "sha": "bfa4507d935f17ebfc3d0f00ff7d3c9a4d0e5c18",
+      "tree": "7b76d824b0dc0e7d349da77f323ee1a364661706",
+      "checked_utc": "2026-10-30T04:04:12.383294+00:00",
+      "status": "revision_not_archived"
+    },
+    {
+      "repo": "deepseek-ai/FlashMLA",
+      "sha": "2e5429fc5653bab6e081f09477126f731882a6a9",
+      "tree": "b15e596e82db79b43345211f9f0441ed803b8c6b",
+      "checked_utc": "2026-10-30T04:04:13.767952+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:b15e596e82db79b43345211f9f0441ed803b8c6b/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:b15e596e82db79b43345211f9f0441ed803b8c6b/raw/",
+        "progress_message": null,
+        "id": 422261791,
+        "status": "new",
+        "swhid": "swh:1:dir:b15e596e82db79b43345211f9f0441ed803b8c6b"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "deepseek-ai/DeepJIT",
+      "sha": "cba802df081985141eeee36803685775c183a047",
+      "tree": "5139993deec7b8d7363c1701978d886315160936",
+      "checked_utc": "2026-10-30T04:04:16.531018+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:5139993deec7b8d7363c1701978d886315160936/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:5139993deec7b8d7363c1701978d886315160936/raw/",
+        "progress_message": null,
+        "id": 422261792,
+        "status": "new",
+        "swhid": "swh:1:dir:5139993deec7b8d7363c1701978d886315160936"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "deepseek-ai/DeepJIT",
+      "sha": "65f513952b8771408a19202f65e36398522db6db",
+      "tree": "3601ff10dbfb6ab0648eaed4a47c3cfb08b8aa72",
+      "checked_utc": "2026-10-30T04:04:19.254959+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:3601ff10dbfb6ab0648eaed4a47c3cfb08b8aa72/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:3601ff10dbfb6ab0648eaed4a47c3cfb08b8aa72/raw/",
+        "progress_message": null,
+        "id": 422261793,
+        "status": "new",
+        "swhid": "swh:1:dir:3601ff10dbfb6ab0648eaed4a47c3cfb08b8aa72"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "deepseek-ai/DeepJIT",
+      "sha": "2efdab421e1cfb17fe8bc20e11ca72aa6d0e6c43",
+      "tree": "cb938f90ffb1744c63ba5de87de0e10b7a6e8793",
+      "checked_utc": "2026-10-30T04:04:21.994674+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:cb938f90ffb1744c63ba5de87de0e10b7a6e8793/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:cb938f90ffb1744c63ba5de87de0e10b7a6e8793/raw/",
+        "progress_message": null,
+        "id": 422261794,
+        "status": "new",
+        "swhid": "swh:1:dir:cb938f90ffb1744c63ba5de87de0e10b7a6e8793"
+      },
+      "status": "new"
+    },
+    {
+      "repo": "deepseek-ai/clangd-ascend",
+      "sha": "f407eca30e07e647ce2e556f9b08e145b65362c7",
+      "tree": "f283d552098b2c151368a851e520eefca6edccdd",
+      "checked_utc": "2026-10-30T04:04:24.726041+00:00",
+      "revision_verified": true,
+      "url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f283d552098b2c151368a851e520eefca6edccdd/",
+      "request_outcome_unknown": false,
+      "result": {
+        "fetch_url": "https://archive.softwareheritage.org/api/1/vault/flat/swh:1:dir:f283d552098b2c151368a851e520eefca6edccdd/raw/",
+        "progress_message": null,
+        "id": 422261796,
+        "status": "new",
+        "swhid": "swh:1:dir:f283d552098b2c151368a851e520eefca6edccdd"
+      },
+      "status": "new"
+    }
+  ],
+  "software_heritage_fork_save_requests": [
+    {
+      "repo": "soxoj/maigret",
+      "origin": "https://github.com/raaaaaif/preserved-maigret-20261029",
+      "submitted_utc": "2026-10-30T04:04:23.062051+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593309,
+        "origin_url": "https://github.com/raaaaaif/preserved-maigret-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:24.682465+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261802,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:24.631845Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593309/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593309/"
+    },
+    {
+      "repo": "deepseek-ai/DeepEP",
+      "origin": "https://github.com/raaaaaif/preserved-DeepEP-20261029",
+      "submitted_utc": "2026-10-30T04:04:26.164489+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593310,
+        "origin_url": "https://github.com/raaaaaif/preserved-DeepEP-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:27.787871+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261803,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:27.748857Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593310/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593310/"
+    },
+    {
+      "repo": "deepseek-ai/DeepEP-Ascend",
+      "origin": "https://github.com/raaaaaif/preserved-DeepEP-Ascend-20261029",
+      "submitted_utc": "2026-10-30T04:04:29.261774+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593311,
+        "origin_url": "https://github.com/raaaaaif/preserved-DeepEP-Ascend-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:30.899917+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261804,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:30.861935Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593311/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593311/"
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM",
+      "origin": "https://github.com/raaaaaif/preserved-DeepGEMM-20261029",
+      "submitted_utc": "2026-10-30T04:04:32.418066+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593312,
+        "origin_url": "https://github.com/raaaaaif/preserved-DeepGEMM-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:34.265789+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261805,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:34.227444Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593312/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593312/"
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM-Ascend",
+      "origin": "https://github.com/raaaaaif/preserved-DeepGEMM-Ascend-20261029",
+      "submitted_utc": "2026-10-30T04:04:35.739480+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593313,
+        "origin_url": "https://github.com/raaaaaif/preserved-DeepGEMM-Ascend-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:37.627128+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261806,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:37.596059Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593313/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593313/"
+    },
+    {
+      "repo": "deepseek-ai/DeepSelect",
+      "origin": "https://github.com/raaaaaif/preserved-DeepSelect-20261029",
+      "submitted_utc": "2026-10-30T04:04:39.092830+00:00",
+      "request_outcome_unknown": false,
+      "result": {
+        "id": 2593314,
+        "origin_url": "https://github.com/raaaaaif/preserved-DeepSelect-20261029",
+        "visit_type": "git",
+        "save_request_date": "2026-10-30T04:04:40.687175+00:00",
+        "save_request_status": "accepted",
+        "save_task_status": "pending",
+        "visit_status": null,
+        "visit_date": null,
+        "loading_task_id": 422261807,
+        "note": "",
+        "from_webhook": false,
+        "webhook_origin": "",
+        "snapshot_swhid": null,
+        "next_run": "2026-10-30T04:04:40.630081Z",
+        "request_url": "https://archive.softwareheritage.org/api/1/origin/save/2593314/"
+      },
+      "url": "https://archive.softwareheritage.org/api/1/origin/save/2593314/"
+    }
+  ]
 }
