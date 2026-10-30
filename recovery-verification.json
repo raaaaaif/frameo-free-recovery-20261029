@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T04:10:04.419711+00:00",
+  "checked_utc": "2026-10-30T04:28:21.684362+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -41214,7 +41214,7 @@
     "metadata_bytes": 209383,
     "info_hash": "0ebccd3ed026006064e90e5287d330d7c3d48c5e",
     "dataset_bytes": 347357315508,
-    "files": 1826,
+    "files": 1744,
     "piece_verification": {
       "checked_utc": "2026-10-30T03:58:52.551986+00:00",
       "metadata_url": "https://sciop.net/torrents/0ebccd3ed026006064e90e5287d330d7c3d48c5e/nih_nlm_oa_bulk.torrent",
@@ -41238,7 +41238,17 @@
       "payload_written_to_disk": false
     },
     "status": "metadata_and_one_complete_piece_verified",
-    "scope": "Existing June 2025 PMC Open Access historical snapshot. One complete piece was checksum-verified, and its peer advertised every piece; the full 347 GB collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup."
+    "scope": "Existing June 2025 PMC Open Access historical XML/text snapshot, with file lists; no PDF or image packages. The torrent contains 1,744 data files plus 82 padding entries. One complete piece was checksum-verified, and its peer advertised every piece; the full collection was not read. Retrieval depends on peers remaining online. Not a complete current PMC backup.",
+    "torrent_entries": 1826,
+    "payload_bytes": 343000501550,
+    "padding_entries": 82,
+    "padding_bytes": 4356813958,
+    "formats": [
+      "XML full text",
+      "plain text",
+      "file lists"
+    ],
+    "contains_pdf_or_image_packages": false
   },
   "openfold_after_expiry_checks": {
     "checked_utc": "2026-10-29T07:16:49.120317+00:00",
