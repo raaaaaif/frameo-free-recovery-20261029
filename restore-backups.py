@@ -236,12 +236,21 @@ def main():
     m=json.loads(a.manifest.read_text());resources=sum((m.get(k,[]) for k in ['resources','supplementary_resources','supporting_source_resources','archived_weight_resources','historical_collection_resources']),[])
     if not a.resource:
         for r in resources:
+            if r.get('kind')=='torrent':
+                print(f"{resource_id(r)}\t{r['files']} torrent files\t{r['dataset_bytes']:,} bytes\tUse the saved torrent with Transmission; see QUICKSTART.md. {r['scope']}")
+                continue
             files=plan(r);gaps=missing_dependencies(r)
             status=f"PARTIAL: {len(gaps)} required submodule archives unavailable" if gaps else r.get('scope','')
             print(f"{resource_id(r)}\t{len(files)} files\t{sum(f['size'] for f in files):,} bytes\t{status}")
         return
     matches=[r for r in resources if a.resource in [resource_id(r),r.get('repo'),r['name']]]
     if len(matches)!=1:raise RuntimeError('Choose an exact resource identifier from --list'+(': '+', '.join(resource_id(r) for r in matches) if matches else ''))
+    if matches[0].get('kind')=='torrent':
+        r=matches[0]
+        print(f"Torrent: {r['metadata_filename']}; {r['files']} files, {r['dataset_bytes']:,} bytes. Info hash: {r['info_hash']}")
+        print('Nothing downloaded. Open the saved torrent in Transmission, choose the external drive before starting, and follow QUICKSTART.md. This helper does not start torrents.')
+        print(r['scope'])
+        return
     files=plan(matches[0])
     if not files:raise RuntimeError('No verified exact recovery plan is available for this resource; consult the recovery index')
     print(f"Plan: {len(files)} files, {sum(f['size'] for f in files):,} bytes")
