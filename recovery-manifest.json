@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:30:34.023868+00:00",
+  "checked_utc": "2026-10-30T05:30:49.387034+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -48472,7 +48472,35 @@
           }
         }
       ],
-      "scope": "Partial alternative: 1,884,517 cleaned article texts; not all PMC articles, PDFs, or supplemental files"
+      "scope": "Partial alternative: 1,884,517 cleaned article texts; not all PMC articles, PDFs, or supplemental files",
+      "created_remote_copy": {
+        "source": "nefelipar/pmc-large",
+        "source_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "destination": "hellnahbru/pmc-large-preserved-20261029",
+        "destination_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "repo_type": "dataset",
+        "private": false,
+        "size_bytes": 54081152152,
+        "file_count": 3,
+        "method": "Hugging Face server-side duplicate",
+        "status": "metadata_and_bounded_retrieval_verified",
+        "created_utc": "2026-10-30T05:30:47.191384+00:00"
+      },
+      "copy_verification": {
+        "source": "nefelipar/pmc-large",
+        "source_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "destination": "hellnahbru/pmc-large-preserved-20261029",
+        "destination_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "private": false,
+        "checked_utc": "2026-10-30T05:30:47.546766+00:00",
+        "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+        "full_large_file_hash_verified": false,
+        "all_expected_files_match": true,
+        "all_bounded_retrieval_checks_pass": true,
+        "status": "metadata_and_bounded_retrieval_verified"
+      },
+      "recovery_url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/tree/4cc72d8582650e206f1daedcc574aa5c72c705a6",
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
     }
   ],
   "article_recovery": {
@@ -60695,9 +60723,7 @@
     "retry_after_seconds": 86074,
     "observed_utc": "2026-10-29T05:32:54.025740+00:00",
     "do_not_retry_before": "2026-10-30T05:27:28.025740+00:00",
-    "remaining_repositories": [
-      "nefelipar/pmc-large"
-    ],
+    "remaining_repositories": [],
     "planned_repositories": [
       "HuggingFaceBio/Carbon-8B",
       "HuggingFaceBio/Carbon-X",
