@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:30:34.023868+00:00",
+  "checked_utc": "2026-10-30T05:30:49.387034+00:00",
   "model_copy_checks": {
     "hellnahbru/Pinal-preserved-20261029": {
       "source": "westlake-repl/Pinal",
@@ -17515,6 +17515,82 @@
           "expected_hash": "9abfdf5472c0ed970648b683b86ab131256b3e42",
           "copy_hash": "9abfdf5472c0ed970648b683b86ab131256b3e42",
           "copy_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/resolve/75a3841ee059df2bf4d56688166c8fb459ddd97a/vocab.txt"
+        }
+      ],
+      "all_expected_files_match": true,
+      "all_bounded_retrieval_checks_pass": true,
+      "status": "metadata_and_bounded_retrieval_verified"
+    },
+    "hellnahbru/pmc-large-preserved-20261029": {
+      "source": "nefelipar/pmc-large",
+      "source_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+      "destination": "hellnahbru/pmc-large-preserved-20261029",
+      "destination_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+      "private": false,
+      "checked_utc": "2026-10-30T05:30:47.546766+00:00",
+      "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+      "full_large_file_hash_verified": false,
+      "files": [
+        {
+          "path": ".gitattributes",
+          "expected_size": 2552,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 2552
+            }
+          ],
+          "expected_hash": "e68665eafbf73437a4b5e0575ead412e16adb034",
+          "copy_hash": "e68665eafbf73437a4b5e0575ead412e16adb034",
+          "copy_url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/resolve/4cc72d8582650e206f1daedcc574aa5c72c705a6/.gitattributes"
+        },
+        {
+          "path": "README.md",
+          "expected_size": 1758,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "full_hash",
+              "matches": true,
+              "bytes_read": 1758
+            }
+          ],
+          "expected_hash": "2c598d2f0e390fd71269a4cb989a89afec578912",
+          "copy_hash": "2c598d2f0e390fd71269a4cb989a89afec578912",
+          "copy_url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/resolve/4cc72d8582650e206f1daedcc574aa5c72c705a6/README.md"
+        },
+        {
+          "path": "train.jsonl",
+          "expected_size": 54081147842,
+          "metadata_matches": true,
+          "retrieval_checks": [
+            {
+              "kind": "range_only",
+              "start": 0,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "56c18473fe85badd8c711051dfd1b14b49452a73ce7fcf8f14421138f73e9b5e"
+            },
+            {
+              "kind": "range_only",
+              "start": 27040573921,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "bcb4c36d905261c6a245bd68ee838d8ed767f99eea3be6453b0b154c3e1112ec"
+            },
+            {
+              "kind": "range_only",
+              "start": 54081147810,
+              "matches": true,
+              "bytes_read": 32,
+              "sample_sha256": "e4d6e82f8dd4cf4c4f7fdebaacc83a03f6a135b43024d9a2a4706e1c2973a6e5"
+            }
+          ],
+          "expected_hash": "661d638d1939959ddd257eae37f608ce1b1a3df7fbd230b43ca4cc19b118f2db",
+          "copy_hash": "661d638d1939959ddd257eae37f608ce1b1a3df7fbd230b43ca4cc19b118f2db",
+          "copy_url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/resolve/4cc72d8582650e206f1daedcc574aa5c72c705a6/train.jsonl"
         }
       ],
       "all_expected_files_match": true,
