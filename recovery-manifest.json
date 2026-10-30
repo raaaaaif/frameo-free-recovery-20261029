@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:28:00.821027+00:00",
+  "checked_utc": "2026-10-30T05:28:27.593049+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -47428,7 +47428,7 @@
           "expected_sha256": "9511993ad138a66f3c51412d65351c5162e16bc4abd51d76f8016b6e0c392362"
         }
       ],
-      "status": "All 13 pinned files retrievable from Wayback; 4 full hashes and 9 bounded retrieval checks",
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed; All 13 pinned files retrievable from Wayback; 4 full hashes and 9 bounded retrieval checks",
       "archive_expiry_recheck": {
         "checked_utc": "2026-10-29T07:16:49.120317+00:00",
         "latest_original_signed_url_expiry": "2026-10-29T07:15:49+00:00",
@@ -47684,7 +47684,34 @@
           }
         ],
         "all_passed": true
-      }
+      },
+      "created_remote_copy": {
+        "source": "nz/OpenFold",
+        "source_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "destination": "hellnahbru/OpenFold-preserved-20261029",
+        "destination_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "repo_type": "model",
+        "private": false,
+        "size_bytes": 3374753570,
+        "file_count": 13,
+        "method": "Hugging Face server-side duplicate",
+        "status": "metadata_and_bounded_retrieval_verified",
+        "created_utc": "2026-10-30T05:28:14.350543+00:00"
+      },
+      "copy_verification": {
+        "source": "nz/OpenFold",
+        "source_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "destination": "hellnahbru/OpenFold-preserved-20261029",
+        "destination_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "private": false,
+        "checked_utc": "2026-10-30T05:28:14.692802+00:00",
+        "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+        "full_large_file_hash_verified": false,
+        "all_expected_files_match": true,
+        "all_bounded_retrieval_checks_pass": true,
+        "status": "metadata_and_bounded_retrieval_verified"
+      },
+      "recovery_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/tree/6344b2a680cbbae20b8afdb7f154228cc5b0cb27"
     },
     {
       "name": "esm2_t6_8M_UR50D",
@@ -60473,7 +60500,6 @@
     "observed_utc": "2026-10-29T05:32:54.025740+00:00",
     "do_not_retry_before": "2026-10-30T05:27:28.025740+00:00",
     "remaining_repositories": [
-      "nz/OpenFold",
       "facebook/esm2_t6_8M_UR50D",
       "facebook/esm2_t12_35M_UR50D",
       "facebook/esm2_t30_150M_UR50D",
