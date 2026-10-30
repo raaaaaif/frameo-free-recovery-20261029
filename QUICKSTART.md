@@ -30,6 +30,14 @@ Downloads go directly to the chosen folder. Model and dataset files resume where
 
 The Internet Archive source-upload item was removed and is excluded from current recovery plans. Public GitHub forks and Software Heritage bundles provide source recovery where verified. The saved remote copies remain usable without this computer being on; finishing any still-pending copy jobs requires the computer and its internet connection.
 
+## Historical PMC torrent
+
+`PMC-June-2025.torrent` is a small map to an existing June 2025 snapshot: 1,826 files totaling 347,357,315,508 bytes (347 GB). It is not the full current PMC collection. On 30 October 2026, a peer advertised all pieces and a complete 1,835,444-byte piece passed its SHA1 checksum. This proves a working retrieval sample, not that all 347 GB were downloaded or that peers will always remain available.
+
+When your external drive is connected, install the free, open-source [Transmission](https://transmissionbt.com/download), open this torrent file, and choose a folder on that drive **before starting the download**. Select only the files you want if you do not need the whole snapshot. Transmission checks the torrent's piece hashes during download. Do not start it with the computer's internal disk selected. Allow additional drive space if you later unpack the downloaded archives.
+
+The torrent info hash is `0ebccd3ed026006064e90e5287d330d7c3d48c5e`. The kit preserves the complete torrent metadata and its SHA256 in the manifest, so its original webpage is not needed. The Python downloader does not start torrent downloads. The 84 GB May 2020 snapshot offers a separate HTTPS recovery route listed in the index.
+
 ## Reconstructing DeepInfer
 
 Its main source archive leaves submodules empty. The recovery manifest records 14 required dependency archives, some used in more than one folder. The downloader labels the plan incomplete and refuses to start the full restore until every required archive has a verified recovery location.
