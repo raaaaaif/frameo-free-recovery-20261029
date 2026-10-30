@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:30:49.387034+00:00",
+  "checked_utc": "2026-10-30T05:33:35.461853+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -46833,7 +46833,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/Carbon-8B-preserved-20261029/tree/b54f77adc206f9abf315128ebd532922c9f6e3c5",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "HuggingFaceBio/Carbon-8B",
+        "source_revision": "b54f77adc206f9abf315128ebd532922c9f6e3c5",
+        "destination_revision": "b54f77adc206f9abf315128ebd532922c9f6e3c5",
+        "checked_utc": "2026-10-30T05:31:28.273040+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "Carbon-X",
@@ -46991,7 +46998,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/Carbon-X-preserved-20261029/tree/a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "HuggingFaceBio/Carbon-X",
+        "source_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "destination_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "checked_utc": "2026-10-30T05:31:32.220104+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "OpenFold",
@@ -47711,7 +47725,14 @@
         "all_bounded_retrieval_checks_pass": true,
         "status": "metadata_and_bounded_retrieval_verified"
       },
-      "recovery_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/tree/6344b2a680cbbae20b8afdb7f154228cc5b0cb27"
+      "recovery_url": "https://huggingface.co/hellnahbru/OpenFold-preserved-20261029/tree/6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+      "source_sample_comparison": {
+        "source": "nz/OpenFold",
+        "source_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "destination_revision": "6344b2a680cbbae20b8afdb7f154228cc5b0cb27",
+        "checked_utc": "2026-10-30T05:31:33.829020+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t6_8M_UR50D",
@@ -47809,7 +47830,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t6_8M_UR50D-preserved-20261029/tree/c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t6_8M_UR50D",
+        "source_revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+        "destination_revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+        "checked_utc": "2026-10-30T05:31:39.012967+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t12_35M_UR50D",
@@ -47907,7 +47935,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t12_35M_UR50D-preserved-20261029/tree/6fbf070e65b0b7291e7bbcd451118c216cff79d8",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t12_35M_UR50D",
+        "source_revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+        "destination_revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+        "checked_utc": "2026-10-30T05:31:40.635979+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t30_150M_UR50D",
@@ -48005,7 +48040,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t30_150M_UR50D-preserved-20261029/tree/a695f6045e2e32885fa60af20c13cb35398ce30c",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t30_150M_UR50D",
+        "source_revision": "a695f6045e2e32885fa60af20c13cb35398ce30c",
+        "destination_revision": "a695f6045e2e32885fa60af20c13cb35398ce30c",
+        "checked_utc": "2026-10-30T05:31:42.256842+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t33_650M_UR50D",
@@ -48103,7 +48145,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t33_650M_UR50D-preserved-20261029/tree/08e4846e537177426273712802403f7ba8261b6c",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t33_650M_UR50D",
+        "source_revision": "08e4846e537177426273712802403f7ba8261b6c",
+        "destination_revision": "08e4846e537177426273712802403f7ba8261b6c",
+        "checked_utc": "2026-10-30T05:31:44.038416+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t36_3B_UR50D",
@@ -48221,7 +48270,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t36_3B_UR50D-preserved-20261029/tree/476b639933c8baad5ad09a60ac1a87f987b656fc",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t36_3B_UR50D",
+        "source_revision": "476b639933c8baad5ad09a60ac1a87f987b656fc",
+        "destination_revision": "476b639933c8baad5ad09a60ac1a87f987b656fc",
+        "checked_utc": "2026-10-30T05:31:45.561010+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esm2_t48_15B_UR50D",
@@ -48364,7 +48420,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esm2_t48_15B_UR50D-preserved-20261029/tree/5fbca39631164edc1d402a5aa369f982f72ee282",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esm2_t48_15B_UR50D",
+        "source_revision": "5fbca39631164edc1d402a5aa369f982f72ee282",
+        "destination_revision": "5fbca39631164edc1d402a5aa369f982f72ee282",
+        "checked_utc": "2026-10-30T05:31:48.005421+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "name": "esmfold_v1",
@@ -48442,7 +48505,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/hellnahbru/esmfold_v1-preserved-20261029/tree/75a3841ee059df2bf4d56688166c8fb459ddd97a",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "facebook/esmfold_v1",
+        "source_revision": "75a3841ee059df2bf4d56688166c8fb459ddd97a",
+        "destination_revision": "75a3841ee059df2bf4d56688166c8fb459ddd97a",
+        "checked_utc": "2026-10-30T05:31:52.412196+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     },
     {
       "repo": "nefelipar/pmc-large",
@@ -48500,7 +48570,14 @@
         "status": "metadata_and_bounded_retrieval_verified"
       },
       "recovery_url": "https://huggingface.co/datasets/hellnahbru/pmc-large-preserved-20261029/tree/4cc72d8582650e206f1daedcc574aa5c72c705a6",
-      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed",
+      "source_sample_comparison": {
+        "source": "nefelipar/pmc-large",
+        "source_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "destination_revision": "4cc72d8582650e206f1daedcc574aa5c72c705a6",
+        "checked_utc": "2026-10-30T05:31:53.456407+00:00",
+        "status": "source_and_copy_samples_match"
+      }
     }
   ],
   "article_recovery": {
