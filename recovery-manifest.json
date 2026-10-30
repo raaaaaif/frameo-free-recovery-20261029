@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-30T05:27:40.455165+00:00",
+  "checked_utc": "2026-10-30T05:28:00.821027+00:00",
   "source_post": "https://x.com/fram3o/status/2115266516056977556",
   "scope": "26 explicit URLs and 5 named resources resolved from the post",
   "limitations": [
@@ -46963,7 +46963,35 @@
           "blobId": "d7afd8e8aec0360a6421577d6ebbda0231157982"
         }
       ],
-      "scope": "Supplementary linked weights or clearly labeled OpenMidnight alternative"
+      "scope": "Supplementary linked weights or clearly labeled OpenMidnight alternative",
+      "created_remote_copy": {
+        "source": "HuggingFaceBio/Carbon-X",
+        "source_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "destination": "hellnahbru/Carbon-X-preserved-20261029",
+        "destination_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "repo_type": "model",
+        "private": false,
+        "size_bytes": 29656358100,
+        "file_count": 19,
+        "method": "Hugging Face server-side duplicate",
+        "status": "metadata_and_bounded_retrieval_verified",
+        "created_utc": "2026-10-30T05:27:54.365520+00:00"
+      },
+      "copy_verification": {
+        "source": "HuggingFaceBio/Carbon-X",
+        "source_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "destination": "hellnahbru/Carbon-X-preserved-20261029",
+        "destination_revision": "a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+        "private": false,
+        "checked_utc": "2026-10-30T05:27:54.735427+00:00",
+        "method": "Full hash checks for files up to 1 MB; beginning, middle, and end range reads for larger files. All catalog hashes and sizes compared to pinned original.",
+        "full_large_file_hash_verified": false,
+        "all_expected_files_match": true,
+        "all_bounded_retrieval_checks_pass": true,
+        "status": "metadata_and_bounded_retrieval_verified"
+      },
+      "recovery_url": "https://huggingface.co/hellnahbru/Carbon-X-preserved-20261029/tree/a5f4e199957aa2ca3e0345eb28bd1254604db2b2",
+      "status": "Independent account copy; all file hashes/sizes match and bounded retrieval checks passed"
     },
     {
       "name": "OpenFold",
@@ -60445,7 +60473,6 @@
     "observed_utc": "2026-10-29T05:32:54.025740+00:00",
     "do_not_retry_before": "2026-10-30T05:27:28.025740+00:00",
     "remaining_repositories": [
-      "HuggingFaceBio/Carbon-X",
       "nz/OpenFold",
       "facebook/esm2_t6_8M_UR50D",
       "facebook/esm2_t12_35M_UR50D",
